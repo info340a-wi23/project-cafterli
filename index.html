@@ -1,12 +1,231 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="utf-8">
-  <meta name="author" content="your name">
-  <meta name="description" content="description of your page">
-  <title>Home Page</title>
+  <meta name="author" content="Charlotte, Cafter, Raymond, Brian">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <!-- normalize.css for cross-browser stuff -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.min.css">\
-  <link rel="stylesheet" href="css/pagestyle.css">
+  <meta name="description" content="According to user preferences, generate a more excellent playlists">
+  <title>Music Stream Homepage</title>
+  <link rel="icon" type="image/x-icon" href="./img/music-track.png">
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+    integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="./css/mainpage.css">
+
 </head>
+
+<body>
+  <div class="container">
+
+    <!-- <nav> -->
+    <nav class="navbar navbar-expand-lg" style="background-color: rgba(255, 255, 255, 0.7)">
+      <a class="navbar-brand" href="#"><img src="./img/music-track.png" height="50px"></a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item active">
+            <a class="nav-link" href="index.html">Home <span class="sr-only"></span></a>
+          </li>
+          <li class="nav-item active">
+            <a class="nav-link" href="playlist.html">Play List <span class="sr-only"></span></a>
+          </li>
+          <li class="nav-item active">
+            <a class="nav-link" href="Search.html">Search</a>
+          </li>
+          <li class="nav-item active">
+            <a class="nav-link" href="upload.html">Upload <span class="sr-only"></span></a>
+          </li>
+        </ul>
+
+      </div>
+    </nav>
+
+    <!-- </nav> -->
+
+    <header class="homepage-header">
+      <div class="container">
+        <h1 class="homepage-h1">Music</h1>
+        <p class="lead">Generate your own playlist</p>
+      </div>
+
+    </header>
+
+    <!-- main content -->
+    <main>
+      <!-- user choose 3 types of music with dropdown menu, and then click the button to generate a playlist-->
+        <div class="container">
+          <h2 style = "line-height: 4em; font-weight: 900; color: #0088cc;" class="homepage-h2">Generate Your Own Playlist</h2>
+            <form>
+              <div class="form-group">
+                <label for="exampleFormControlSelect1" style="color: #fff">Select the type of music you like</label>
+                <select class="form-control" id="exampleFormControlSelect1">
+                  <option>Rock</option>
+                  <option>Pop</option>
+                  <option>Country</option>
+                  <option>Electronic</option>
+                  <option>Classical</option>
+                  <option>Alternative</option>
+                  <option>Indie</option>
+                  <option>Blues</option>
+                  <option>Reggae</option>
+                  <option>Latin</option>
+                  <option>World</option>
+                  <option>Other</option>
+                </select>
+              </div>
+              <div class="form-group">
+                <label for="exampleFormControlSelect1" style="color: #fff">Select the type of music you like</label>
+                <select class="form-control" id="exampleFormControlSelect1">
+                  <option>Rock</option>
+                  <option>Pop</option>
+                  <option>Country</option>
+                  <option>Electronic</option>
+                  <option>Classical</option>
+                  <option>Alternative</option>
+                  <option>Indie</option>
+                  <option>Blues</option>
+                  <option>Reggae</option>
+                  <option>Latin</option>
+                  <option>World</option>
+                  <option>Other</option>
+                </select>
+              </div>
+              <div class="form-group">
+                <label for="exampleFormControlSelect1" style="color:#fff ">Select the type of music you like</label>
+                <select class="form-control" id="exampleFormControlSelect1">
+                  <option>Rock</option>
+                  <option>Pop</option>
+                  <option>Country</option>
+                  <option>Electronic</option>
+                  <option>Classical</option>
+                  <option>Alternative</option>
+                  <option>Indie</option>
+                  <option>Blues</option>
+                  <option>Reggae</option>
+                  <option>Latin</option>
+                  <option>World</option>
+                  <option>Other</option>
+                </select>
+              </div>
+              <p>
+              <button type="submit" class="btn btn-primary">Generate Your Album!</button>
+              </p>
+            </form>
+          </div>
+
+    <!-- album recommendation-->
+      <div class="container">
+        <h2 style = "line-height: 4em" class="homepage-h2">Album Recommendation</h2>
+        <div class="row">
+          <div class="col-md-4">
+            <div class="card">
+              <img src="./img/donda.jpg" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title">Donda</h5>
+                <p class="card-text">Kanye West</p>
+                <p>
+                  <a href="#" class="btn btn-primary">PLAY</a>
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="card">
+              <img src="./img/damn.jpg" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title">DAMN</h5>
+                <p class="card-text">Kendrick Lamar</p>
+                <p>
+                  <a href="#" class="btn btn-primary">PLAY</a>
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="card">
+              <img src="./img/ISSA.jpg" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title">ISSA</h5>
+                <p class="card-text">21 Savage</p>
+                <p>
+                  <a href="#" class="btn btn-primary">PLAY</a>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- artist recommendation-->
+      <div class="container">
+        <h2 style = "line-height: 4em" class="homepage-h2">Artist Recommendation</h2>
+        <div class="row">
+          <div class="col-md-4">
+            <div class="card">
+              <img src="./img/the weekend.jpg" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title">The Weekend</h5>
+                <p class="card-text">Rhythm And Blues (R&B)</p>
+                <p class="card-text">Electronic Dance Music (EDM)</p>
+                <p>
+                  <a href="#" class="btn btn-primary">PLAY</a>
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="card">
+              <img src="./img/post malone.jpg" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title">Post Malone</h5>
+                <p class="card-text">Hip-hop</p>
+                <p class="card-text">Alternative Pop</p>
+                <p>
+                  <a href="#" class="btn btn-primary">PLAY</a>
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="card">
+              <img src="./img/doja cat.jpg" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title">Doja Cat</h5>
+                <p class="card-text">Rhythm And Blues (R&B)</p>
+                <p class="card-text">Pop Rap</p>
+                <p>
+                <a href="#" class="btn btn-primary">PLAY</a>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+      </main> 
+
+
+
+      
+
+    <!-- footer -->
+    <footer>
+      <div class="container">
+        <p class="footer-contact">Contact Us</p>
+        <p><a href="mailto:music@uw.com"><span class="material-icons">email</span> music@uw.com</a></p>
+        <p><a href="tel:206-888-8088"><span class="material-icons">phone</span> 206-888-8088</a></p>
+        <p>&copy; Music 2022</p>
+      </div>
+    </footer>
+
+  </div>
+</body>
