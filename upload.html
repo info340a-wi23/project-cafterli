@@ -7,6 +7,144 @@
   <title>Upload Page</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <!-- normalize.css for cross-browser stuff -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.min.css">\
-  <link rel="stylesheet" href="css/pagestyle.css">
-</head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.min.css">
+  <link rel="stylesheet" href="css/upload.css">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+    integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+  </head>
+  <link rel="icon" type="image/x-icon" href="./img/music-track.png">
+
+<body>
+  <!-- nav bar-->
+  <div class="container">
+    <nav class="navbar navbar-expand-lg" style="background-color: rgba(255, 255, 255, 0.7)">
+      <a class="navbar-brand" href="#"><img src="./img/music-track.png" height="50px"></a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item active">
+            <a class="nav-link" href="index.html">Home <span class="sr-only"></span></a>
+          </li>
+          <li class="nav-item active">
+            <a class="nav-link" href="playlist.html">Play List <span class="sr-only"></span></a>
+          </li>
+          <li class="nav-item active">
+            <a class="nav-link" href="Search.html">Search</a>
+          </li>
+          <li class="nav-item active">
+            <a class="nav-link" href="upload.html">Upload <span class="sr-only"></span></a>
+          </li>
+        </ul>
+
+      </div>
+    </nav>
+
+    <!-- header -->
+    <header>
+      <div class="container">
+        <h1>Manage Your Tracks</h1>
+        <p>The perfect distribution managment system for artist</p>
+      </div>
+    </header>
+
+    <!--main content-->
+    <main>
+      <p>
+        <button type="submit" class="btn btn-primary">Upload a Track</button>
+      </p>
+  
+      <table>
+        <thead>
+            <tr>
+              <th scope="col">Album</th>
+              <th scope="col">Streams</th>
+              <th scope="col">Artist</th>
+              <th scope="col">Title</th>
+              <th scope="col">Publish Date</th>
+              <th colspan="2">Actions</th>
+            </tr>
+        </thead>
+  
+        <tbody>
+            <tr>
+                <td>
+                    <a href="https://www.youtube.com/watch?v=hlLgrjV7GFQ" target="_blank">
+                    <img src="img/cut.png" alt="cutthroat"></a>
+                </td>
+                <td>100,678,778</td>
+                <td>iann dior</td>
+                <td>cutthroat</td>
+                <td>2022-6-10</td>
+                <div class="but">
+                  <td><button class="btn default">Edit</button></td>
+                  <td><button class="btn default">Remove</button></td>
+                </div>
+            </tr>
+            <tr>
+                <td>
+                    <a href="https://www.youtube.com/watch?v=vx4Sh4IPEcM" target="_blank">
+                    <img src="img/industry-plant.png" alt="industry"></a>
+                </td>
+                <td>90,998,667</td>
+                <td>iann dior</td>
+                <td>gone girl</td>
+                <td>2022-5-20</td>
+                <td><button class="btn default">Edit</button></td>
+                <td><button class="btn default">Remove</button></td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="https://www.youtube.com/watch?v=rx6TNz4mC2Y" target="_blank">
+                    <img src="img/dont.png" alt="believe"></a>
+                </td>
+                <td>90,556,668</td>
+                <td>iann dior</td>
+                <td>don't wanna believe</td>
+                <td>2021-7-1</td>
+                <td><button class="btn default">Edit</button></td>
+                <td><button class="btn default">Remove</button></td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="https://www.youtube.com/watch?v=4KhDCEB07Fc" target="_blank">
+                    <img src="img/isit.png" alt="isityou"></a>
+                </td>
+                <td>70,777,555</td>
+                <td>iann dior</td>
+                <td>is it you</td>
+                <td>2023-1-17</td>
+                <td><button class="btn default">Edit</button></td>
+                <td><button class="btn default">Remove</button></td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="https://www.youtube.com/watch?v=BMmUkrUehrM" target="_blank">
+                    <img src="img/holding.jpeg" alt="holdingOn"></a>
+                </td>
+                <td>70,123,324</td>
+                <td>iann dior</td>
+                <td>Holding On</td>
+                <td>2021-3-22</td>
+                <td><button class="btn default">Edit</button></td>
+                <td><button class="btn default">Remove</button></td>
+            </tr>
+        </tbody>
+      </table>
+  
+      <footer>
+        <div class="container">
+          <p class="footer-contact">Contact Us</p>
+          <p><a href="mailto:music@uw.com"><span class="material-icons">email</span> music@uw.com</a></p>
+          <p><a href="tel:206-888-8088"><span class="material-icons">phone</span> 206-888-8088</a></p>
+          <p>&copy; Music 2022</p>
+        </div>
+      </footer>
+    </main>
+
+    
+  </div>
+</body>
