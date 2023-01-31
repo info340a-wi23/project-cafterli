@@ -55,6 +55,14 @@ header h2 {
     font-weight: 700;
 }
 
+.navbar-nav li{
+    display: inline;
+}
+
+.navbar-nav{
+    text-align: center;
+}
+
 .navbar a:hover {
     background-color: #ddd;
     color: #00aaff;
