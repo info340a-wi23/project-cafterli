@@ -203,3 +203,34 @@ footer {
 footer p {
     margin: 0;
 }
+
+/* Table Style */
+table {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+}
+
+table td{
+    border-bottom: 1px solid #d3d3d3 ;
+    padding: .5em;
+}
+
+thead th{
+    height: 2rem;
+    text-align: left;
+    color: #00aaff;
+    background-color: #d3d3d3;
+    padding: 0.5em;
+    border-bottom: 1px solid #d3d3d3;
+}
+
+table img {
+    width: 100px;
+    height: 100px;
+}
+
+tbody {
+    background-color: #eee;
+}
