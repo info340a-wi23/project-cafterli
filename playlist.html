@@ -2,11 +2,164 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <meta name="author" content="your name">
-  <meta name="description" content="description of your page">
-  <title>Playlist Page</title>
+  <meta name="author" content="Charlotte, Cafter, Raymond, Brian">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <!-- normalize.css for cross-browser stuff -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.min.css">\
-  <link rel="stylesheet" href="css/pagestyle.css">
+  <title>Music Stream Playlist Page</title>
+  <meta name="description" content="generate a general music ranking page for multiple genres">
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="./css/playlist.css">
+  <link rel="stylesheet" href="./css/mainpage.css">
+
 </head>
+
+<body>
+  <!-- <nav> -->
+    <nav class="navbar navbar-expand-lg" style="background-color: rgba(255, 255, 255, 0.7)">
+      <a class="navbar-brand" href="#"><img src="./img/music-track.png" height="50px"></a>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item active">
+            <a class="nav-link" href="index.html">Home <span class="sr-only"></span></a>
+          </li>
+          <li class="nav-item active">
+            <a class="nav-link" href="playlist.html">Play List <span class="sr-only"></span></a>
+          </li>
+          <li class="nav-item active">
+            <a class="nav-link" href="Search.html">Search</a>
+          </li>
+          <li class="nav-item active">
+            <a class="nav-link" href="upload.html">Upload <span class="sr-only"></span></a>
+          </li>
+        </ul>
+
+      </div>
+    </nav>
+
+  <class="playlist_header">
+
+    <!-- title -->
+     
+      <div class="playlist_div">
+        <h1>Ranking</h1> 
+        <h2>
+          Pick your favorite songs
+        </h2>
+      </div>
+    
+      
+    <div class="">
+      <div class="play_list_title_relative">
+        <div class="form-group">
+          <label for="btn" style="color:#fff ">Music genres</label>
+          <select class="btn_title" id="exampleFormControlSelect1">
+            <option>Rock</option>
+            <option>Pop</option>
+            <option>Country</option>
+            <option>Electronic</option>
+            <option>Classical</option>
+            <option>Blues</option>
+            <option>Other</option>
+          </select>
+        </div>  
+      </div>
+
+      <div class="play_list_city_pos">
+        <div class="form-group">
+          <label for="exampleFormControlSelect1" style="color: #fff">Cities</label>
+          <select class="btn_title">
+            <option>Detroit</option>
+            <option>Rome</option>
+            <option>Atlanta</option>
+            <option>Houston</option>
+            <option>Cleveland</option>
+            <option>San Francisco</option>
+            <option>Los Angles</option>
+            <option>Seattle</option>
+            <option>New York</option>
+            <option>Boston</option>
+            <option>Florida</option>
+          </select>
+        </div>
+      </div>  
+
+    <p>
+      <div class="play_list_top_pos">
+        <button type="submit" class="btn">Top 200</button>
+      </div>
+    </p>
+
+    <p>
+      <div class="play_list_dis_pos">
+        <button type="submit" class="btn">Discovery</button>
+      </div>
+    </p>
+
+    <p>
+      <div class="play_list_app_pos">
+        <button type="submit" class="btn btn-primary">App</button>
+      </div>  
+    </p>
+  </div> <!-- put inside the pink bar.-->
+
+  <!--songs list-->
+  <div id="play_list_overall_div">
+    <div class="song_in_play_list">
+      <img src="img/Creeping.jpg" class="pic_in_play_list" alt="Cover_Pic">
+      <p class="song_title_in_play_list">Creeping</p>
+      <p class="author_in_play_list">Metro Boomin</p>
+      <button type="submit" class="btn_play_list"><img src="./img/play_icon.png" height="30px"></button>
+    </div>
+
+    <div class="song_in_play_list">
+      <img src="img/Best_Part.jpg" class="pic_in_play_list" alt="Cover_Pic">
+      <p class="song_title_in_play_list">Best Part</p>
+      <p class="author_in_play_list">H.E.R</p>
+      <button type="submit" class="btn_play_list"><img src="./img/play_icon.png" height="30px"></button>
+    </div>
+
+    <div class="song_in_play_list">
+      <img src="img/Flowers.jpg" class="pic_in_play_list" alt="Cover_Pic">
+      <p class="song_title_in_play_list">Flowers</p>
+      <p class="author_in_play_list">Miley Cyrus</p>
+      <button type="submit" class="btn_play_list"><img src="./img/play_icon.png" height="30px"></button>
+    </div>
+
+    <div class="song_in_play_list">
+      <img src="img/Popstar.jpg" class="pic_in_play_list" alt="Cover_Pic">
+      <p class="song_title_in_play_list">POPSTAR</p>
+      <p class="author_in_play_list">DJ Khaled</p>
+      <button type="submit" class="btn_play_list"><img src="./img/play_icon.png" height="30px"></button>
+    </div>
+
+    <div class="song_in_play_list">
+      <img src="img/Players.jpg" class="pic_in_play_list" alt="Cover_Pic">
+      <p class="song_title_in_play_list">Players</p>
+      <p class="author_in_play_list">Coi Leray</p>
+      <button type="submit" class="btn_play_list"><img src="./img/play_icon.png" height="30px"></button>
+    </div>
+
+    <div class="song_in_play_list">
+      <img src="img/kill_Bill.jpg" class="pic_in_play_list" alt="Cover_Pic">
+      <p class="song_title_in_play_list">kill Bill</p>
+      <p class="author_in_play_list">SZA</p>
+      <button type="submit" class="btn_play_list"><img src="./img/play_icon.png" height="30px"></button>
+    </div>
+  </div>
+
+  
+    
+
+</body>
+
+<!-- footer -->
+<footer>
+  <div class="container">
+    <p class="footer-contact">Contact Us</p>
+    <p><a href="mailto:music@uw.com"><span class="material-icons">email</span> music@uw.com</a></p>
+    <p><a href="tel:206-888-8088"><span class="material-icons">phone</span> 206-888-8088</a></p>
+    <p>&copy; Music 2022</p>
+  </div>
+</footer>
+
+</div>
+</body>
