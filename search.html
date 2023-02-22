@@ -11,10 +11,10 @@
     integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
   <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300&family=Raleway:wght@300&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.min.css">
-  <link rel="stylesheet" href="css/searchstyle.css">
+  <link rel="stylesheet" href="css/pagestyle.css">
 </head>
 
-<body class="tophalf">
+<body>
   <!-- <nav> -->
     <nav class="navbar navbar-expand-lg" style="background-color: rgba(255, 255, 255, 0.7)">
         <ul class="navbar-nav mr-auto">
@@ -36,102 +36,118 @@
         </ul>
       </div>
     </nav>
-
-  <header>
-    <div class="searchbar">
-      <input type="text" placeholder="The Beatles">
-      <button type="submit"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
-        <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"/>
-      </svg></button>
+  <main class="flex-container-body">
+    <div class="flex-container inputs">
+      <form class="userinput genre">
+        <h1>Genre</h1>
+        <div class="choice">
+          <input type="checkbox" name="genre" value="pop">
+          <label for="genre">Pop</label>
+        </div>
+        <div class="choice">
+          <input type="checkbox" name="genre" value="rock">
+          <label for="genre">Rock</label>
+        </div>
+        <div class="choice">
+          <input type="checkbox" name="genre" value="alternative">
+          <label for="genre">Alternative</label>
+        </div>
+        <div class="choice">
+          <input type="checkbox" name="genre" value="r&b">
+          <label for="genre">R&B</label>
+        </div>
+        <div class="choice">
+          <input type="checkbox" name="genre" value="hiphop">
+          <label for="genre">Hip-Hop</label>
+        </div>
+        <div class="choice">
+          <input type="checkbox" name="genre" value="classical">
+          <label for="genre">Classical</label>
+        </div>
+      </form>
+      <form class="userinput mood">
+        <h1>Mood</h1>
+        <div class="choice">
+          <input type="checkbox" name="mood" value="workout">
+          <label for="mood">Workout</label>
+        </div>
+        <div class="choice">
+          <input type="checkbox" name="mood" value="study">
+          <label for="mood">Study</label>
+        </div>
+        <div class="choice">
+          <input type="checkbox" name="mood" value="party">
+          <label for="mood">Party</label>
+        </div>
+        <div class="choice">
+          <input type="checkbox" name="mood" value="roadTrip">
+          <label for="mood">Road Trip</label>
+        </div>
+        <div class="choice">
+          <input type="checkbox" name="mood" value="sad">
+          <label for="mood">Sad</label>
+        </div>
+        <div class="choice">
+          <input type="checkbox" name="mood" value="karaoke">
+          <label for="mood">Karaoke</label>
+        </div>
+      </form>
+      <form class="userinput lang">
+        <h1>Language</h1>
+        <div class="choice">
+          <input type="checkbox" name="lang" value="english">
+          <label for="lang">English</label>
+        </div>
+        <div class="choice">
+          <input type="checkbox" name="lang" value="spanish">
+          <label for="lang">Spanish</label>
+        </div>
+        <div class="choice">
+          <input type="checkbox" name="lang" value="french">
+          <label for="lang">French</label>
+        </div>
+        <div class="choice">
+          <input type="checkbox" name="lang" value="chinese">
+          <label for="lang">Chinese</label>
+        </div>
+        <div class="choice">
+          <input type="checkbox" name="lang" value="korean">
+          <label for="lang">Korean</label>
+        </div>
+        <div class="choice">
+          <input type="checkbox" name="lang" value="japanese">
+          <label for="lang">Japanese</label>
+        </div>
+      </form>
     </div>
-  </header>
-</body>
-
-<body class="flex-container-body">
-  <main class="flex-main">
-      <div class="flex-container-column">
-          <section class="flex-column sidebar">
-            <form class="userinput">
-              <h1>Genre</h1>
-              <div class="choice">
-                <input type="checkbox" name="genre" value="pop">
-                <label for="genre">Pop</label>
-              </div>
-              <div class="choice">
-                <input type="checkbox" name="genre" value="rock">
-                <label for="genre">Rock</label>
-              </div>
-              <div class="choice">
-                <input type="checkbox" name="genre" value="alternative">
-                <label for="genre">Alternative</label>
-              </div>
-              <div class="choice">
-                <input type="checkbox" name="genre" value="r&b">
-                <label for="genre">R&B</label>
-              </div>
-              <div class="choice">
-                <input type="checkbox" name="genre" value="hiphop">
-                <label for="genre">Hip-Hop</label>
-              </div>
-              <div class="choice">
-                <input type="checkbox" name="genre" value="classical">
-                <label for="genre">Classical</label>
-              </div>
-            </form>
-            <div class="userinput yearrange">
-              <h1>Year Range</h1>
-              <input type="number" name="year1" min="1900" max="2023" placeholder="1900">
-              <input type="number" name="year2" min="1900" max="2023" placeholder="2023">
-            </div>
-            <input class="userinput button" type="button" value="Filter">
-          </section>
-          
-          <section class="flex-column resultsbody">
-            <h1>Top Results</h1>
-            <div class="flex-container-results">
-              <div class="flex-result">
-                <img src="img/beatles.jpg" alt="The Beatles">
-                <h2>The Beatles</h2>
-              </div>
-            </div>
-            <h1>Songs</h1>
-            <div class="flex-container-results">
-              <div class="flex-result">
-                <img src="img/hey_jude.jpg" alt="Hey Jude">
-                <h2>Hey Jude</h2>
-              </div>
-              <div class="flex-result">
-                <img src="img/letitbe.jpg" alt="Let It Be">
-                <h2>Let It Be</h2>
-              </div>
-              <div class="flex-result">
-                <img src="img/yesterday.jpg" alt="yesterday">
-                <h2>Yesterday</h2>
-              </div>
-            </div>
-            <h1>Artists</h1>
-            <div class="flex-container-results">
-              <div class="flex-result">
-                <img src="img/beatles.jpg" alt="The Beatles">
-                <h2>The Beatles</h2>
-              </div>
-            </div>
-            <h1>Albums</h1>
-            <div class="flex-container-results">
-              <div class="flex-result">
-                <img src="img/help.jpg" alt="Help!">
-                <h2>Help!</h2>
-              </div>
-            </div>
-          </section>
+    <div class="flex-container options">
+      <div class="option yearrange">
+        <h1>Year Range</h1>
+        <input type="number" name="year1" min="1900" max="2023" placeholder="1900">
+        <input type="number" name="year2" min="1900" max="2023" placeholder="2023">
       </div>
+      <div class="option covers">
+        <h1>Include Covers</h1>
+        <label class="switch">
+          <input type="checkbox">
+          <span class="slider"></span>
+        </label>
+      </div>
+      <div class="option soundtracks">
+        <h1>Include Soundtracks</h1>
+        <label class="switch">
+          <input type="checkbox">
+          <span class="slider"></span>
+        </label>
+      </div>
+    </div>
+    <input class="btn filter" type="button" value="Filter">
   </main>
+  <footer>
+    <p class="footer-contact">Contact Us</p>
+    <p><a href="mailto:music@uw.com"><span class="material-icons">email</span> music@uw.com</a></p>
+    <p><a href="tel:206-888-8088"><span class="material-icons">phone</span> 206-888-8088</a></p>
+    <p>&copy; Music 2022</p>
+  </footer>
 </body>
-
-<footer>
-  <p class="footer-contact">Contact Us</p>
-  <p><a href="mailto:music@uw.com"><span class="material-icons">email</span> music@uw.com</a></p>
-  <p><a href="tel:206-888-8088"><span class="material-icons">phone</span> 206-888-8088</a></p>
-  <p>&copy; Music 2022</p>
-</footer>
 </html>
