@@ -87,12 +87,6 @@ header h2 {
     width: 50%;
 }
 
-.searchbar{
-    display: flex;
-    align-items: stretch;
-    justify-content: center;
-}
-
 .flex-container-body{
     display: flex;
     flex-direction: column;
@@ -100,7 +94,7 @@ header h2 {
 }
 
 .flex-container{
-    flex:2;
+    flex:5;
     display: flex;
     flex-direction: row;
 }
@@ -224,6 +218,18 @@ input{
     width: 26px;
 }
 
+.artistgen input{
+    height: 16px;
+    width: 16px;
+}
+.search{
+    width: 100%;
+}
+
+.range{
+    width: auto;
+}
+
 footer {
     margin-top: 5px;
     background-color: #fff;
@@ -236,6 +242,8 @@ footer p {
     margin: 0;
     text-align: left;
 }
+
+
 
 /* Table Style */
 table {
@@ -376,4 +384,6 @@ main img {
     border: none;
     border-radius: 4px;
     cursor: pointer;
+    font-size: 24px;
+    font-weight: bold;
 }

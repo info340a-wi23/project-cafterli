@@ -64,6 +64,9 @@
           <input type="checkbox" name="genre" value="classical">
           <label for="genre">Classical</label>
         </div>
+        <div class="choice">
+          <input class="search" type="text" placeholder="Enter your own:">
+        </div>
       </form>
       <form class="userinput mood">
         <h1>Mood</h1>
@@ -90,6 +93,9 @@
         <div class="choice">
           <input type="checkbox" name="mood" value="karaoke">
           <label for="mood">Karaoke</label>
+        </div>
+        <div class="choice">
+          <input class="search" type="text" placeholder="Enter your own:">
         </div>
       </form>
       <form class="userinput lang">
@@ -118,30 +124,46 @@
           <input type="checkbox" name="lang" value="japanese">
           <label for="lang">Japanese</label>
         </div>
+        <div class="choice">
+          <input class="search" type="text" placeholder="Enter your own:">
+        </div>
       </form>
     </div>
     <div class="flex-container options">
-      <div class="option yearrange">
-        <h1>Year Range</h1>
-        <input type="number" name="year1" min="1900" max="2023" placeholder="1900">
-        <input type="number" name="year2" min="1900" max="2023" placeholder="2023">
+      <div class="option">
+        <div class="yearrange">
+          <h1>Year Range</h1>
+          <input class="range" type="number" name="year1" min="1900" max="2023" placeholder="1900">
+          <input class="range" type="number" name="year2" min="1900" max="2023" placeholder="2023">
+        </div>
+        <div class="artistgen">
+          <h1>Artist Gender</h1>
+          <input type="checkbox" name="gen" value="male">
+          <label for="gen">Male</label>
+          <input type="checkbox" name="gen" value="female">
+          <label for="gen">Female</label>
+          <input type="checkbox" name="gen" value="non-binary">
+          <label for="gen">Non-Binary</label>
+        </div>
       </div>
-      <div class="option covers">
-        <h1>Include Covers</h1>
-        <label class="switch">
-          <input type="checkbox">
-          <span class="slider"></span>
-        </label>
-      </div>
-      <div class="option soundtracks">
-        <h1>Include Soundtracks</h1>
-        <label class="switch">
-          <input type="checkbox">
-          <span class="slider"></span>
-        </label>
+      <div class="option">
+        <div class="covers">
+          <h1>Include Covers</h1>
+          <label class="switch">
+            <input type="checkbox">
+            <span class="slider"></span>
+          </label>
+        </div>
+        <div class="soundtracks">
+          <h1>Include Soundtracks</h1>
+          <label class="switch">
+            <input type="checkbox">
+            <span class="slider"></span>
+          </label>
+        </div>
       </div>
     </div>
-    <input class="btn filter" type="button" value="Filter">
+    <input class="btn filter" type="button" value="Find New Songs!">
   </main>
   <footer>
     <p class="footer-contact">Contact Us</p>
