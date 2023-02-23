@@ -282,19 +282,6 @@ select {
     text-align: center;
 }
 
-.button {
-    background-color: #00aaff;
-    border: none;
-    color: white;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-    cursor: pointer;
-}
-
 main {
     padding: 10px;
     margin: auto;
@@ -386,4 +373,20 @@ main img {
     cursor: pointer;
     font-size: 24px;
     font-weight: bold;
+}
+
+.actions {
+    border: none;
+    background-color: inherit;
+    padding: 14px 5px;
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
+    color: black;
+    font-weight: normal;
+}
+
+table img {
+    width: 100px;
+    height: 100px;
 }
