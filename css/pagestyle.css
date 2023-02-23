@@ -390,3 +390,125 @@ table img {
     width: 100px;
     height: 100px;
 }
+
+
+/* playlist.css */
+
+.playlist_header {
+    height: 300px;
+}
+
+.playlist_div {
+    border: 20px;
+    width: 300px;
+    padding: 50px;
+    margin: 20px;
+}
+
+/* playlist genre button */
+.play_list_title_relative {
+    left: 400px;
+    top: 300px;
+    position: absolute;
+}
+
+/* playlist city button */
+.play_list_city_pos {
+    left: 700px;
+    top: 300px;
+    position: absolute;
+}
+
+/* 200 button */
+.play_list_top_pos {
+    left: 980px;
+    top: 345px;
+    position: absolute;
+}
+
+/* discovery button */
+.play_list_dis_pos {
+    left: 1135px;
+    top: 345px;
+    position: absolute;
+}
+/* App button */
+.play_list_app_pos {
+    left: 1300px;
+    top: 345px;
+    position: absolute;
+}
+
+
+
+.playlist_title{
+    font-size: 10px;
+    position: relative;
+}
+
+
+.song_in_play_list {
+    margin-top: 20px;
+    margin-bottom: 25px;
+    width: 85vw;
+    margin-left: 7.5vw;
+    height: 60px;
+    background-color: lightblue;
+}
+
+.pic_in_play_list {   
+    height: 40px;
+    width: 40px;
+    position: relative;
+    left: 13px;
+    top: 10px;
+}
+
+.song_title_in_play_list {
+    position: relative;
+    top: -50px;
+    left: 67px;
+    color: black;
+    font-size: 15px;
+}
+
+.author_in_play_list {
+    position: relative;
+    left: 67px;
+    top: -63px;
+    color: black;
+    font-size: 13px;
+}
+
+.btn_play_list {
+    position: relative;
+    top: -110px;
+    left: 1200px;
+    color:lightblue;
+    
+}
+
+.btn_title {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border-radius: 5px;
+    box-sizing: border-box;
+    height: 60px;
+    text-align: center;
+    color: #00aaff;
+}
+
+.btn_tda {
+    width: 100%;
+    background-color: #00aaff;
+    padding: 14px 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    border: 20px;
+    border-radius: 14px;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: bold;
+}
