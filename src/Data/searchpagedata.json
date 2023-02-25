@@ -2,25 +2,25 @@
  {
    "artist": "Glass Animals",
    "song": "Heat Waves",
-   "genre": "alternative, pop, r&b",
+   "genre": "alternative",
    "gender": "band",
-   "sountrack": false,
+   "soundtrack": false,
    "language": "english"
  },
  {
    "artist": "Harry Styles",
    "song": "As It Was",
-   "genre": "rock, r&b, alternative, pop",
+   "genre": "rock",
    "gender": "male",
-   "sountrack": false,
+   "soundtrack": false,
    "language": "english"
  },
  {
    "artist": "The Kid LAROI & Justin Bieber",
    "song": "Stay",
-   "genre": "rock, pop",
+   "genre": "rock",
    "gender": "male",
-   "sountrack": false,
+   "soundtrack": false,
    "language": "english"
  },
  {
@@ -28,15 +28,15 @@
    "song": "Easy On Me",
    "genre": "pop",
    "gender": "female",
-   "sountrack": false,
+   "soundtrack": false,
    "language": "english"
  },
  {
    "artist": "Ed Sheeran",
    "song": "Shivers",
-   "genre": "r&b, pop",
+   "genre": "r&b",
    "gender": "male",
-   "sountrack": false,
+   "soundtrack": false,
    "language": "english"
  },
  {
@@ -44,23 +44,23 @@
    "song": "Encanto",
    "genre": "pop",
    "gender": "band",
-   "sountrack": true,
-   "language": "spanish, english"
+   "soundtrack": true,
+   "language": "spanish"
  },
  {
    "artist": "Marvel",
    "song": "Black Panther: Wakanda Forever",
    "genre": "pop",
    "gender": "band",
-   "sountrack": true,
-   "language": "spanish, english"
+   "soundtrack": true,
+   "language": "spanish"
  },
  {
    "artist": "Paramount",
    "song": "Top Gun: Maverick",
    "genre": "pop",
    "gender": "band",
-   "sountrack": true,
+   "soundtrack": true,
    "language": "english"
  },
  {
@@ -68,7 +68,7 @@
    "song": "Jolie",
    "genre": "pop",
    "gender": "male",
-   "sountrack": false,
+   "soundtrack": false,
    "language": "french"
  },
  {
@@ -76,7 +76,7 @@
    "song": "Toute La Journee",
    "genre": "pop",
    "gender": "male",
-   "sountrack": false,
+   "soundtrack": false,
    "language": "french"
  },
  {
@@ -84,7 +84,7 @@
    "song": "Baby",
    "genre": "pop",
    "gender": "female",
-   "sountrack": false,
+   "soundtrack": false,
    "language": "french"
  },
  {
@@ -92,7 +92,7 @@
    "song": "Me Porto Bonito",
    "genre": "pop",
    "gender": "male",
-   "sountrack": false,
+   "soundtrack": false,
    "language": "spanish"
  },
  {
@@ -100,7 +100,7 @@
    "song": "MAMIII",
    "genre": "pop",
    "gender": "female",
-   "sountrack": false,
+   "soundtrack": false,
    "language": "spanish"
  },
  {
@@ -108,7 +108,7 @@
    "song": "烏梅子醬",
    "genre": "pop",
    "gender": "male",
-   "sountrack": false,
+   "soundtrack": false,
    "language": "chinese"
  },
  {
@@ -116,7 +116,7 @@
    "song": "從前說",
    "genre": "pop",
    "gender": "female",
-   "sountrack": false,
+   "soundtrack": false,
    "language": "chinese"
  },
  {
@@ -124,7 +124,7 @@
    "song": "嘉宾",
    "genre": "pop",
    "gender": "male",
-   "sountrack": false,
+   "soundtrack": false,
    "language": "chinese"
  },
  {
@@ -132,7 +132,7 @@
    "song": "如果可以",
    "genre": "pop",
    "gender": "male",
-   "sountrack": false,
+   "soundtrack": false,
    "language": "chinese"
  },
  {
@@ -140,7 +140,7 @@
    "song": "飞鸟和蝉",
    "genre": "pop",
    "gender": "female",
-   "sountrack": false,
+   "soundtrack": false,
    "language": "chinese"
  },
  {
@@ -148,7 +148,7 @@
    "song": "Boom Boom Back",
    "genre": "pop",
    "gender": "band",
-   "sountrack": false,
+   "soundtrack": false,
    "language": "japanese"
  },
  {
@@ -156,7 +156,7 @@
    "song": "Sakura Zuki",
    "genre": "pop",
    "gender": "band",
-   "sountrack": false,
+   "soundtrack": false,
    "language": "japanese"
  },
  {
@@ -164,23 +164,23 @@
    "song": "Subtitle",
    "genre": "pop",
    "gender": "band",
-   "sountrack": false,
+   "soundtrack": false,
    "language": "japanese"
  },
  {
    "artist": "VAUNDY",
    "song": "Kaiju No Hanauta",
-   "genre": "pop, rock",
+   "genre": "pop",
    "gender": "male",
-   "sountrack": false,
+   "soundtrack": false,
    "language": "japanese"
  },
  {
    "artist": "Kenshi Yonezu",
    "song": "Kick Back",
-   "genre": "pop, rock",
+   "genre": "pop",
    "gender": "male",
-   "sountrack": false,
+   "soundtrack": false,
    "language": "japanese"
  },
  {
@@ -188,15 +188,15 @@
    "song": "Love Dive",
    "genre": "pop",
    "gender": "band",
-   "sountrack": false,
+   "soundtrack": false,
    "language": "korean"
  },
  {
    "artist": "BIGBANG",
    "song": "Still Life",
-   "genre": "rock, r&b, pop",
+   "genre": "rock",
    "gender": "band",
-   "sountrack": false,
+   "soundtrack": false,
    "language": "korean"
  },
  {
@@ -204,7 +204,7 @@
    "song": "Tomboy",
    "genre": "pop",
    "gender": "band",
-   "sountrack": false,
+   "soundtrack": false,
    "language": "korean"
  },
  {
@@ -212,7 +212,7 @@
    "song": "Feel My Rhythm",
    "genre": "pop",
    "gender": "band",
-   "sountrack": false,
+   "soundtrack": false,
    "language": "korean"
  },
  {
@@ -220,7 +220,7 @@
    "song": "Ganadara",
    "genre": "pop",
    "gender": "male",
-   "sountrack": false,
+   "soundtrack": false,
    "language": "korean"
  }
 ]
