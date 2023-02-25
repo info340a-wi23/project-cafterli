@@ -8,37 +8,44 @@ import Logo from './img/music-track.png';
 export function SearchPage(props){
     const languageData = [...new Set(songdata.map((song) => song.language))];
     const genreData = [...new Set(songdata.map((song) => song.genre))];
-    const songs = songdata.map((song) => {
-        return <SongDataRow key={song.song} song ={song}/>
-    })
 
     const [languages, setLanguages] = useState(languageData);
     const [genres, setGenres] = useState(genreData);
-
+    
     function checkboxCallback(event){
         
     }
 
-    
-    console.log(languageData);
+    const colNames = ['Artist', 'Song', 'Genre', 'Language', 'Soundtrack'].map((name) => {
+        return <th className='searchTable' key={name}>{name.toUpperCase()}</th>
+    });
+
+    // const colNames = songdata.keys().map((name) =>{
+    //     return <th>{name.toUpperCase()}</th>;
+    // });
+
+    const songs = songdata.map((song) => {
+        return <SongDataRow key={song.song} song ={song}/>
+    })
+
     const formData = [{name: "genre", data: genres}, {name: "language", data: languages}]
     return(
-        <body>
-            <Navbar img={Logo}/>
+           <><Navbar img={Logo}/>
             <main className="flex-container-body">
                 <Form data={formData}/>
                 <input className="btn filter" type="button" value="Find New Songs!"/>
-                <table className="table">
+                <table className="searchTable">
                     <thead>
-                        
+                    <tr>
+                        {colNames}
+                    </tr>
                     </thead>
-                    <tbody>
+                    <tbody className='searchTable'>
                         {songs}
                     </tbody>
                 </table>
             </main>
-            <Footer/>
-        </body>
+            <Footer/></>
     )
 }
 
@@ -66,6 +73,8 @@ function Navbar(props){
     )
 }
 
+
+
 function Footer(){
     return(
         <footer>
@@ -88,6 +97,7 @@ function SongDataRow({song}){
         </tr>
     )
 }
+
 
 function Choices(props){
     return(
@@ -135,6 +145,13 @@ function Options(props){
                 <input type="checkbox" id="band"/>
                 <label htmlFor="gen">Band</label>
             </div>
+            <div className="soundtracks">
+                    <h1>Include Soundtracks</h1>
+                    <label className="switch">
+                        <input type="checkbox"/>
+                        <span className="slider"></span>
+                    </label>
+                </div>
         </div>
     )
 }
