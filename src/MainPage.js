@@ -69,16 +69,16 @@ export default function MainPage(props) {
             <img src="./img/music-track.png" height="50px" alt="Music Track" />
           </li>
           <li className="nav-item active">
-            <a className="nav-link" href="index.html">Home <span className="sr-only"></span></a>
+            <Link to="/" className="nav-link">Home <span className="sr-only"></span></Link>
           </li>
           <li className="nav-item active">
-            <a className="nav-link" href="playlist.html">Play List <span className="sr-only"></span></a>
+            <Link to="/playlist" className="nav-link">Play List <span className="sr-only"></span></Link>
           </li>
           <li className="nav-item active">
-            <a className="nav-link" href="search.html">Search</a>
+            <Link to="/search" className="nav-link">Search</Link>
           </li>
           <li className="nav-item active">
-            <a className="nav-link" href="upload.html">Upload <span className="sr-only"></span></a>
+            <Link to="/upload" className="nav-link">Upload <span className="sr-only"></span></Link>
           </li>
         </ul>
       </nav>
@@ -160,9 +160,6 @@ export default function MainPage(props) {
               <div className="row">{playlist.map(songCard)}</div>
             </div>
           )}
-
-
-          
           </form>
         </div>
       </main>
