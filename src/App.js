@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 //Render the index page
 import React from 'react';
 import MainPage  from './MainPage.js';
@@ -13,3 +14,5 @@ function App(props) {
 }
 
 export default App;
+=======
+>>>>>>> dfc88120e0bd098896157a216538ef6cc0e1b34a
