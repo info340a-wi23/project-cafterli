@@ -2,9 +2,6 @@ import React from 'react';
 import './index.css';
 import { useState } from 'react';
 import songdata from './Data/searchpagedata.json';
-import { indexOf } from 'lodash';
-import Logo from './img/music-track.png';
-import { Link } from 'react-router-dom';
 import Nav from './components/Nav.js';
 import Footer from './components/Footer.js';
 
@@ -58,8 +55,12 @@ export function FilterPage(props){
     });
 
     const filteredSoundTrackData = filteredArtistData.filter(song => {
-        if(mainFilter.soundtrack == song.soundtrack){
+        if(mainFilter.soundtrack){
             return song;
+        }else{
+            if(!song.soundtrack){
+                return song;
+            }
         }
     })
 
@@ -184,7 +185,7 @@ function Options(props){
     return(
         <div className="userinput">
             <div className="artistgen">
-                <h1>Artist Gender</h1>
+                <h1>Artist Type</h1>
                 <input type="checkbox" id="male" onChange={props.filterHandler}/>
                 <label htmlFor="gen">Male</label>
                 <input type="checkbox" id="female" onChange={props.filterHandler}/>
