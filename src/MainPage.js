@@ -75,7 +75,7 @@ export default function MainPage(props) {
             <Link to="/playlist" className="nav-link">Play List <span className="sr-only"></span></Link>
           </li>
           <li className="nav-item active">
-            <Link to="/search" className="nav-link">Search</Link>
+            <Link to="/filter" className="nav-link">Filter</Link>
           </li>
           <li className="nav-item active">
             <Link to="/upload" className="nav-link">Upload <span className="sr-only"></span></Link>
