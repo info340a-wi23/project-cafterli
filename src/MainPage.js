@@ -36,28 +36,20 @@ export default function MainPage(props) {
 
     function artistCard(song) {
       return (
-        <div className="card" key={song.id}>
-          <div className="card-body">
             <div className="wrapper-artist">
               <h5 className="artist-title">{song.artist}</h5>
               <p className="artist-text">{song.genre}</p>
             </div>
-          </div>
-        </div>
       );
     }
 
     function songCard(song) {
       return (
-        <div className="card" key={song.id}>
-          <div className="card-body">
             <div className="wrapper">
               <h5 className="card-title">{song.song}</h5>
               <h6 className="card-subtitle mb-2 text-muted">{song.artist}</h6>
               <p className="card-text">{song.genre}</p>
             </div>
-          </div>
-        </div>
       );
     }
               
