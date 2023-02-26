@@ -2,6 +2,8 @@ import React from 'react';
 import './index.css';
 import { useState } from 'react';
 import { Link } from 'react-router-dom';
+import Footer from "./components/Footer"
+import Favicon from 'react-favicon';
 
 export default function MainPage(props) {
     const [genre1, setGenre1] = useState('');
@@ -44,6 +46,7 @@ export default function MainPage(props) {
     }
 
     function songCard(song) {
+      
       return (
             <div className="wrapper">
               <h5 className="card-title">{song.song}</h5>
@@ -54,6 +57,8 @@ export default function MainPage(props) {
     }
               
   return (
+    <div className="App">
+      <Favicon url="./img/music-track.png" />
     <div className="tophalf">
       <nav className="navbar navbar-expand-lg" style={{ backgroundColor: 'rgba(255, 255, 255, 0.7)' }}>
         <ul className="navbar-nav mr-auto">
@@ -155,10 +160,9 @@ export default function MainPage(props) {
           </form>
         </div>
       </main>
-     <footer className="homepage-footer">
-    <p className="text-center">Music &copy; 2023</p>
-  </footer>
+      <Footer />
 </div>
+    </div>
   );
 }
 

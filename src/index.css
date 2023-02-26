@@ -547,6 +547,7 @@ table img {
 
 
 
+
 .playlist_title{
     font-size: 10px;
     position: relative;
@@ -617,4 +618,37 @@ table img {
     cursor: pointer;
     font-size: 14px;
     font-weight: bold;
+}
+
+@media (min-width: 768px) {
+    header {
+
+    }
+    .header-text {
+        color: black;
+        background-color: rgb(255, 255, 255, 0.7);
+    }
+    .header-image {
+        display: none;
+    }
+    .nutrition-info {
+        display: block;
+    }
+    .author-col {
+        flex-basis: 40%;
+    }
+}
+@media (min-width: 992px) {
+    .form-column {
+        display: block;
+    }
+    .small-view {
+        display: none;
+    }
+    .cardpool {
+        position:relative;
+    }
+    .author-col {
+        flex-basis: 30%;
+    }
 }
