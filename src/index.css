@@ -230,21 +230,6 @@ input{
     width: auto;
 }
 
-table.searchTable {
-    border: 2px solid;
-}
-
-th.searchTable{
-    height: 2rem;
-    text-align: left;
-    color: white;
-    background-color: #00aaff;;
-}
-
-tbody.searchTable tr:nth-child(2n){
-    background-color: white;
-}
-
 footer {
     margin-top: 5px;
     background-color: #fff;
