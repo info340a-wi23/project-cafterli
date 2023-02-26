@@ -1,26 +1,30 @@
 import React from 'react';
 import './index.css';
 import { useState } from 'react';
-
+import { Link } from 'react-router-dom';
 
 export default function MainPage(props) {
     const [genre1, setGenre1] = useState('');
     const [genre2, setGenre2] = useState('');
     const [genre3, setGenre3] = useState('');
     const [playlist, setPlaylist] = useState([]);
+    
   
     function generatePlaylist(event) {
       event.preventDefault();
       
-      const filteredSongs = props.songs.filter((song) => {
-        return song.genre === genre1 || song.genre === genre2 || song.genre === genre3;
-      });
-  
-      const shuffledSongs = shuffleArray(filteredSongs);
-  
-      setPlaylist(shuffledSongs.slice(0, 10));
+      const songs1 = props.songs.filter(song => song.genre === genre1);
+      const songs2 = props.songs.filter(song => song.genre === genre2);
+      const songs3 = props.songs.filter(song => song.genre === genre3);
+    
+      const shuffled1 = shuffleArray(songs1);
+      const shuffled2 = shuffleArray(songs2);
+      const shuffled3 = shuffleArray(songs3);
+    
+      const playlist = shuffled1.slice(0, 4).concat(shuffled2.slice(0, 4)).concat(shuffled3.slice(0, 4));
+      setPlaylist(playlist);
     }
-  
+
     function shuffleArray(array) {
       const shuffled = array.slice();
       for (let i = shuffled.length - 1; i > 0; i--) {
@@ -29,6 +33,34 @@ export default function MainPage(props) {
       }
       return shuffled;
     }
+
+    function artistCard(song) {
+      return (
+        <div className="card" key={song.id}>
+          <div className="card-body">
+            <div className="wrapper-artist">
+              <h5 className="artist-title">{song.artist}</h5>
+              <p className="artist-text">{song.genre}</p>
+            </div>
+          </div>
+        </div>
+      );
+    }
+
+    function songCard(song) {
+      return (
+        <div className="card" key={song.id}>
+          <div className="card-body">
+            <div className="wrapper">
+              <h5 className="card-title">{song.song}</h5>
+              <h6 className="card-subtitle mb-2 text-muted">{song.artist}</h6>
+              <p className="card-text">{song.genre}</p>
+            </div>
+          </div>
+        </div>
+      );
+    }
+              
   return (
     <div className="tophalf">
       <nav className="navbar navbar-expand-lg" style={{ backgroundColor: 'rgba(255, 255, 255, 0.7)' }}>
@@ -60,14 +92,11 @@ export default function MainPage(props) {
 
       <main>
         <div className="container">
-          <h2 style={{ lineHeight: '4em', fontWeight: 900, color: '#0088cc' }} className="homepage-h2">
+          <h2 style={{ lineHeight: '2em', fontWeight: 900, color: '#0088cc' }} className="homepage-h2">
             Generate Your Own Playlist
           </h2>
           <form onSubmit={generatePlaylist}>
             <div className="form-group">
-              <label htmlFor="genre1" style={{ color: '#fff' }}>
-                Select the type of music you like
-              </label>
               <select
                 className="form-control"
                 id="genre1"
@@ -78,58 +107,40 @@ export default function MainPage(props) {
                 <option value="rock">Rock</option>
                 <option value="pop">Pop</option>
                 <option value="country">Country</option>
-                <option value="Electronic">Electronic</option>
-                <option value="classical">Classical</option>
-                <option value="Jazz">Jazz</option>
-                <option value="Blues">Blues</option>
-                <option value="Reggae">Reggae</option>
+                <option value="Dance/Electronic">Electronic</option>
+                <option value="easy listening">Easy Listening</option>
                 <option value="metal">Metal</option>
-                <option value="hiphop">Hip Hop</option>
+                <option value="hip hop">Hip Hop</option>
                 <option value="R&B">R&B</option>
-                <option value="folk">Folk</option>
                 <option value="latin">Latin</option>
 
               </select>
             </div>
             <div className="form-group">
-              <label htmlFor="genre2" style={{ color: '#fff' }}>
-                Select the type of music you like
-              </label>
               <select className="form-control" id="genre2" value={genre2} onChange={(event) => setGenre2(event.target.value)}>
                 <option value="">-- Please select a genre --</option>
                 <option value="rock">Rock</option>
                 <option value="pop">Pop</option>
                 <option value="country">Country</option>
-                <option value="Electronic">Electronic</option>
-                <option value="classical">Classical</option>
-                <option value="Jazz">Jazz</option>
-                <option value="Blues">Blues</option>
-                <option value="Reggae">Reggae</option>
+                <option value="Dance/Electronic">Electronic</option>
+                <option value="easy listening">Easy Listening</option>
                 <option value="metal">Metal</option>
-                <option value="hiphop">Hip Hop</option>
+                <option value="hip hop">Hip Hop</option>
                 <option value="R&B">R&B</option>
-                <option value="folk">Folk</option>
                 <option value="latin">Latin</option>
               </select>
             </div>
             <div className="form-group">
-              <label htmlFor="genre3" style={{ color: '#fff' }}>
-                Select the type of music you like
-              </label>
               <select className="form-control" id="genre3" value={genre3} onChange={(event) => setGenre3(event.target.value)}>
                 <option value="">-- Please select a genre --</option>
                 <option value="rock">Rock</option>
                 <option value="pop">Pop</option>
                 <option value="country">Country</option>
-                <option value="Electronic">Electronic</option>
-                <option value="classical">Classical</option>
-                <option value="Jazz">Jazz</option>
-                <option value="Blues">Blues</option>
-                <option value="Reggae">Reggae</option>
+                <option value="Dance/Electronic">Electronic</option>
+                <option value="easy listening">Easy Listening</option>
                 <option value="metal">Metal</option>
-                <option value="hiphop">Hip Hop</option>
+                <option value="hip hop">Hip Hop</option>
                 <option value="R&B">R&B</option>
-                <option value="folk">Folk</option>
                 <option value="latin">Latin</option>
               </select>
             </div>
@@ -137,23 +148,21 @@ export default function MainPage(props) {
               Generate Playlist
             </button>
 
-            <div className="playlist">
-              {playlist.map((song) => {
-                return (
-                  <div className="card" style={{ width: '18rem' }}>
-                    <div className="card-body">
-                      <h5 className="card-title">{song.title}</h5>
-                      <h6 className="card-subtitle mb-2 text-muted">{song.artist}</h6>
-                      <p className="card-text">{song.genre}</p>
-
-                      <a href={song.url} className="card-link">
-                        Listen
-                      </a>
-                    </div>
-                  </div>
-                );
-              })}
+          {playlist.length > 0 && (
+            <div>
+              <h2 style={{ lineHeight: '2em', fontWeight: 900, color: '#0088cc' }} className="homepage-h2">
+                Recommended Artists
+              </h2>
+              <div className="row">{playlist.map(artistCard)}</div>
+              <h2 style={{ lineHeight: '2em', fontWeight: 900, color: '#0088cc' }} className="homepage-h2">
+                Your Playlist
+              </h2>
+              <div className="row">{playlist.map(songCard)}</div>
             </div>
+          )}
+
+
+          
           </form>
         </div>
       </main>
@@ -163,4 +172,5 @@ export default function MainPage(props) {
 </div>
   );
 }
+
 
