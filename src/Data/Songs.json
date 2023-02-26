@@ -1,0 +1,10002 @@
+[
+ {
+   "artist": "Britney Spears",
+   "song": "Oops!...I Did It Again",
+   "genre": "pop"
+ },
+ {
+   "artist": "blink-182",
+   "song": "All The Small Things",
+   "genre": "rock, pop"
+ },
+ {
+   "artist": "Faith Hill",
+   "song": "Breathe",
+   "genre": "pop, country"
+ },
+ {
+   "artist": "Bon Jovi",
+   "song": "It's My Life",
+   "genre": "rock, metal"
+ },
+ {
+   "artist": "*NSYNC",
+   "song": "Bye Bye Bye",
+   "genre": "pop"
+ },
+ {
+   "artist": "Sisqo",
+   "song": "Thong Song",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Eminem",
+   "song": "The Real Slim Shady",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Robbie Williams",
+   "song": "Rock DJ",
+   "genre": "pop, rock"
+ },
+ {
+   "artist": "Destiny's Child",
+   "song": "Say My Name",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Modjo",
+   "song": "Lady - Hear Me Tonight",
+   "genre": "Dance/Electronic"
+ },
+ {
+   "artist": "Gigi D'Agostino",
+   "song": "L'Amour Toujours",
+   "genre": "pop"
+ },
+ {
+   "artist": "Eiffel 65",
+   "song": "Move Your Body - Gabry Ponte Original Radio Edit",
+   "genre": "pop"
+ },
+ {
+   "artist": "Bomfunk MC's",
+   "song": "Freestyler",
+   "genre": "pop"
+ },
+ {
+   "artist": "Sting",
+   "song": "Desert Rose",
+   "genre": "rock, pop"
+ },
+ {
+   "artist": "Melanie C",
+   "song": "Never Be The Same Again",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Aaliyah",
+   "song": "Try Again",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Anastacia",
+   "song": "I'm Outta Love - Radio Edit",
+   "genre": "pop"
+ },
+ {
+   "artist": "Alice Deejay",
+   "song": "Better Off Alone",
+   "genre": "pop"
+ },
+ {
+   "artist": "Gigi D'Agostino",
+   "song": "The Riddle",
+   "genre": "pop"
+ },
+ {
+   "artist": "Dr. Dre",
+   "song": "The Next Episode",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Linkin Park",
+   "song": "In the End",
+   "genre": "rock, metal"
+ },
+ {
+   "artist": "Tom Jones",
+   "song": "Sexbomb",
+   "genre": "rock, Folk/Acoustic, easy listening"
+ },
+ {
+   "artist": "Sonique",
+   "song": "It Feels So Good",
+   "genre": "pop"
+ },
+ {
+   "artist": "M.O.P.",
+   "song": "Cold as Ice",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Melanie C",
+   "song": "I Turn To You",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Limp Bizkit",
+   "song": "Take A Look Around",
+   "genre": "metal"
+ },
+ {
+   "artist": "Darude",
+   "song": "Sandstorm",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Da Brat",
+   "song": "What'chu Like (feat. Tyrese)",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Moloko",
+   "song": "The Time Is Now",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Chicane",
+   "song": "Don't Give Up",
+   "genre": "Dance/Electronic"
+ },
+ {
+   "artist": "DMX",
+   "song": "Party Up",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Debelah Morgan",
+   "song": "Dance with Me",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Madonna",
+   "song": "Music",
+   "genre": "pop"
+ },
+ {
+   "artist": "Ruff Endz",
+   "song": "No More",
+   "genre": "R&B"
+ },
+ {
+   "artist": "Britney Spears",
+   "song": "Born to Make You Happy",
+   "genre": "pop"
+ },
+ {
+   "artist": "Montell Jordan",
+   "song": "Get It On Tonite",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Kylie Minogue",
+   "song": "Spinning Around",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "JAY-Z",
+   "song": "Big Pimpin'",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "LeAnn Rimes",
+   "song": "I Need You",
+   "genre": "pop, country"
+ },
+ {
+   "artist": "Avant",
+   "song": "Separated",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Enrique Iglesias",
+   "song": "Be With You",
+   "genre": "pop, latin"
+ },
+ {
+   "artist": "Toni Braxton",
+   "song": "He Wasn't Man Enough",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Bow Wow",
+   "song": "Bounce With Me (feat. Xscape) - Edited Album Version",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Dr. Dre",
+   "song": "Forgot About Dre",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Missy Elliott",
+   "song": "Hot Boyz",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Backstreet Boys",
+   "song": "Show Me the Meaning of Being Lonely",
+   "genre": "pop"
+ },
+ {
+   "artist": "Samantha Mumba",
+   "song": "Gotta Tell You",
+   "genre": "pop"
+ },
+ {
+   "artist": "M??a",
+   "song": "Case Of The Ex (Whatcha Gonna Do)",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Mary Mary",
+   "song": "Shackles (Praise You)",
+   "genre": "R&B"
+ },
+ {
+   "artist": "Next",
+   "song": "Wifey",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Janet Jackson",
+   "song": "Doesn't Really Matter",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Ricky Martin",
+   "song": "She Bangs - English Version",
+   "genre": "pop, latin"
+ },
+ {
+   "artist": "Jagged Edge",
+   "song": "He Can't Love U",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Sisqo",
+   "song": "Incomplete",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "JAY-Z",
+   "song": "I Just Wanna Love U (Give It 2 Me)",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Mariah Carey",
+   "song": "Thank God I Found You (feat. Joe & 98??)",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Baha Men",
+   "song": "Who Let The Dogs Out",
+   "genre": "R&B"
+ },
+ {
+   "artist": "Donell Jones",
+   "song": "U Know What's Up (feat. Lisa \"Left Eye\" Lopes)",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "LeAnn Rimes",
+   "song": "Can't Fight The Moonlight",
+   "genre": "pop, country"
+ },
+ {
+   "artist": "Oasis",
+   "song": "Go Let It Out",
+   "genre": "Folk/Acoustic, rock"
+ },
+ {
+   "artist": "DJ ??tzi",
+   "song": "Hey Baby (Radio Mix)",
+   "genre": "pop, easy listening, Dance/Electronic"
+ },
+ {
+   "artist": "P!nk",
+   "song": "Most Girls",
+   "genre": "pop"
+ },
+ {
+   "artist": "Mariah Carey",
+   "song": "Against All Odds (Take A Look at Me Now) (feat. Westlife)",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Craig David",
+   "song": "Fill Me In",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Christina Aguilera",
+   "song": "I Turn to You",
+   "genre": "pop"
+ },
+ {
+   "artist": "Madonna",
+   "song": "American Pie",
+   "genre": "pop"
+ },
+ {
+   "artist": "Red Hot Chili Peppers",
+   "song": "Otherside",
+   "genre": "rock"
+ },
+ {
+   "artist": "Sammie",
+   "song": "I Like It",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Craig David",
+   "song": "7 Days",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Santana",
+   "song": "Maria Maria (feat. The Product G&B)",
+   "genre": "rock, blues, latin"
+ },
+ {
+   "artist": "Kandi",
+   "song": "Don't Think I'm Not",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "P!nk",
+   "song": "There You Go",
+   "genre": "pop"
+ },
+ {
+   "artist": "Vengaboys",
+   "song": "Shalala Lala",
+   "genre": "pop"
+ },
+ {
+   "artist": "Ronan Keating",
+   "song": "Life Is A Rollercoaster",
+   "genre": "pop, rock"
+ },
+ {
+   "artist": "Madison Avenue",
+   "song": "Don't Call Me Baby",
+   "genre": "Dance/Electronic"
+ },
+ {
+   "artist": "Destiny's Child",
+   "song": "Jumpin', Jumpin'",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "C??line Dion",
+   "song": "That's the Way It Is",
+   "genre": "pop"
+ },
+ {
+   "artist": "3 Doors Down",
+   "song": "Kryptonite",
+   "genre": "pop, rock, metal"
+ },
+ {
+   "artist": "Carl Thomas",
+   "song": "I Wish",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Mystikal",
+   "song": "Shake Ya Ass",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Fuel",
+   "song": "Hemorrhage (In My Hands)",
+   "genre": "rock, pop, metal"
+ },
+ {
+   "artist": "Donell Jones",
+   "song": "Where I Wanna Be",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Savage Garden",
+   "song": "Crash and Burn",
+   "genre": "pop"
+ },
+ {
+   "artist": "Westlife",
+   "song": "My Love",
+   "genre": "pop"
+ },
+ {
+   "artist": "All Saints",
+   "song": "Pure Shores",
+   "genre": "pop"
+ },
+ {
+   "artist": "Destiny's Child",
+   "song": "Independent Women, Pt. 1",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "*NSYNC",
+   "song": "It's Gonna Be Me",
+   "genre": "pop"
+ },
+ {
+   "artist": "Erykah Badu",
+   "song": "Bag Lady",
+   "genre": "hip hop, R&B"
+ },
+ {
+   "artist": "Marc Anthony",
+   "song": "You Sang To Me",
+   "genre": "pop, latin"
+ },
+ {
+   "artist": "Matchbox Twenty",
+   "song": "Bent",
+   "genre": "pop, rock"
+ },
+ {
+   "artist": "Gabrielle",
+   "song": "Rise",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Backstreet Boys",
+   "song": "Shape of My Heart",
+   "genre": "pop"
+ },
+ {
+   "artist": "Creed",
+   "song": "With Arms Wide Open",
+   "genre": "pop, rock, metal"
+ },
+ {
+   "artist": "The Corrs",
+   "song": "Breathless",
+   "genre": "pop, Folk/Acoustic"
+ },
+ {
+   "artist": "Joe",
+   "song": "I Wanna Know",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Wheatus",
+   "song": "Teenage Dirtbag",
+   "genre": "set()"
+ },
+ {
+   "artist": "Christina Aguilera",
+   "song": "Come on over Baby (All I Want Is You) - Radio Version",
+   "genre": "pop"
+ },
+ {
+   "artist": "Creed",
+   "song": "Higher",
+   "genre": "pop, rock, metal"
+ },
+ {
+   "artist": "Britney Spears",
+   "song": "Lucky",
+   "genre": "pop"
+ },
+ {
+   "artist": "Nelly",
+   "song": "Country Grammar (Hot Shit)",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Shaggy",
+   "song": "It Wasn't Me",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Destiny's Child",
+   "song": "Survivor",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Eminem",
+   "song": "Stan",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Kylie Minogue",
+   "song": "Can't Get You out of My Head",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Christina Aguilera",
+   "song": "Lady Marmalade - From \"Moulin Rouge\" Soundtrack",
+   "genre": "pop"
+ },
+ {
+   "artist": "Nelly Furtado",
+   "song": "I'm Like A Bird",
+   "genre": "hip hop, pop, latin"
+ },
+ {
+   "artist": "Shakira",
+   "song": "Whenever, Wherever",
+   "genre": "pop, latin"
+ },
+ {
+   "artist": "Jimmy Eat World",
+   "song": "The Middle",
+   "genre": "rock, pop"
+ },
+ {
+   "artist": "Train",
+   "song": "Drops of Jupiter (Tell Me)",
+   "genre": "pop"
+ },
+ {
+   "artist": "Geri Halliwell",
+   "song": "It's Raining Men",
+   "genre": "pop"
+ },
+ {
+   "artist": "Blu Cantrell",
+   "song": "Hit 'Em Up Style (Oops!)",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Britney Spears",
+   "song": "I'm a Slave 4 U",
+   "genre": "pop"
+ },
+ {
+   "artist": "Kylie Minogue",
+   "song": "In Your Eyes",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Missy Elliott",
+   "song": "One Minute Man (feat. Ludacris)",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Mary J. Blige",
+   "song": "Family Affair",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Faithless",
+   "song": "We Come 1 - Radio Edit",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Limp Bizkit",
+   "song": "Rollin' (Air Raid Vehicle)",
+   "genre": "metal"
+ },
+ {
+   "artist": "Lasgo",
+   "song": "Something",
+   "genre": "pop"
+ },
+ {
+   "artist": "iio",
+   "song": "Rapture (feat.Nadia Ali)",
+   "genre": "Dance/Electronic"
+ },
+ {
+   "artist": "Emma Bunton",
+   "song": "What Took You So Long?",
+   "genre": "pop"
+ },
+ {
+   "artist": "112",
+   "song": "It's Over Now",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Blue",
+   "song": "All Rise",
+   "genre": "pop"
+ },
+ {
+   "artist": "Jessica Simpson",
+   "song": "Irresistible",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Crazy Town",
+   "song": "Butterfly",
+   "genre": "rock, metal"
+ },
+ {
+   "artist": "Michael Jackson",
+   "song": "You Rock My World",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Eve",
+   "song": "Let Me Blow Ya Mind",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Jennifer Lopez",
+   "song": "Ain't It Funny",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Brandy",
+   "song": "Another Day in Paradise - R&B-Version",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Nickelback",
+   "song": "How You Remind Me",
+   "genre": "rock, metal"
+ },
+ {
+   "artist": "Daft Punk",
+   "song": "One More Time",
+   "genre": "hip hop, Dance/Electronic"
+ },
+ {
+   "artist": "Outkast",
+   "song": "Ms. Jackson",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Fragma",
+   "song": "Everytime You Need Me - Radio Version",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Mariah Carey",
+   "song": "Loverboy",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Dido",
+   "song": "Thank You",
+   "genre": "pop"
+ },
+ {
+   "artist": "Joe",
+   "song": "Stutter (feat. Mystikal) - Double Take Remix",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "P.O.D.",
+   "song": "Youth of the Nation",
+   "genre": "rock, metal"
+ },
+ {
+   "artist": "Jennifer Lopez",
+   "song": "Play",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Missy Elliott",
+   "song": "Get Ur Freak On",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Ricky Martin",
+   "song": "Nobody Wants to Be Lonely (with Christina Aguilera)",
+   "genre": "pop, latin"
+ },
+ {
+   "artist": "Christina Milian",
+   "song": "AM To PM",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Roger Sanchez",
+   "song": "Another Chance",
+   "genre": "Dance/Electronic"
+ },
+ {
+   "artist": "Gorillaz",
+   "song": "Clint Eastwood",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "2Pac",
+   "song": "Until The End Of Time",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Tamia",
+   "song": "Stranger in My House",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Mary J. Blige",
+   "song": "No More Drama",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Jennifer Lopez",
+   "song": "Love Don't Cost a Thing",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Jamiroquai",
+   "song": "Little L",
+   "genre": "pop"
+ },
+ {
+   "artist": "Case",
+   "song": "Missing You",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "112",
+   "song": "Peaches & Cream",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Five",
+   "song": "Let's Dance - Radio Edit",
+   "genre": "pop"
+ },
+ {
+   "artist": "Rui Da Silva",
+   "song": "Touch Me (Radio Edit) [feat. Cassandra]",
+   "genre": "Dance/Electronic"
+ },
+ {
+   "artist": "Alien Ant Farm",
+   "song": "Smooth Criminal",
+   "genre": "rock, metal"
+ },
+ {
+   "artist": "Erick Sermon",
+   "song": "Music (feat. Marvin Gaye)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "D12",
+   "song": "Purple Pills",
+   "genre": "hip hop, pop, rock"
+ },
+ {
+   "artist": "Usher",
+   "song": "Pop Ya Collar - Radio Edit",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Madonna",
+   "song": "Don't Tell Me",
+   "genre": "pop"
+ },
+ {
+   "artist": "Blue",
+   "song": "If You Come Back",
+   "genre": "pop"
+ },
+ {
+   "artist": "Atomic Kitten",
+   "song": "Eternal Flame - Single Version",
+   "genre": "pop"
+ },
+ {
+   "artist": "Jagged Edge",
+   "song": "Where the Party At (feat. Nelly)",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Afroman",
+   "song": "Because I Got High",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "S Club 7",
+   "song": "Don't Stop Movin'",
+   "genre": "pop"
+ },
+ {
+   "artist": "Craig David",
+   "song": "Fill Me In",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Nelly Furtado",
+   "song": "Turn Off The Light",
+   "genre": "hip hop, pop, latin"
+ },
+ {
+   "artist": "The Supermen Lovers",
+   "song": "Starlight - Radio Edit",
+   "genre": "Dance/Electronic"
+ },
+ {
+   "artist": "Mis-Teeq",
+   "song": "All I Want - Sunship Radio Edit",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Jagged Edge",
+   "song": "Promise",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "S Club 7",
+   "song": "Have You Ever",
+   "genre": "pop"
+ },
+ {
+   "artist": "Enya",
+   "song": "Only Time",
+   "genre": "World/Traditional, Folk/Acoustic"
+ },
+ {
+   "artist": "Faith Hill",
+   "song": "There You'll Be",
+   "genre": "pop, country"
+ },
+ {
+   "artist": "Ronan Keating",
+   "song": "Lovin' Each Day",
+   "genre": "pop, rock"
+ },
+ {
+   "artist": "Destiny's Child",
+   "song": "Bootylicious",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Steps",
+   "song": "It's the Way You Make Me Feel",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Sunshine Anderson",
+   "song": "Heard It All Before",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Lenny Kravitz",
+   "song": "Again",
+   "genre": "rock, pop"
+ },
+ {
+   "artist": "Daniel Bedingfield",
+   "song": "Gotta Get Thru This - D'N'D Radio Edit",
+   "genre": "pop"
+ },
+ {
+   "artist": "DB Boulevard",
+   "song": "Point Of View - Radio Edit",
+   "genre": "Dance/Electronic"
+ },
+ {
+   "artist": "Janet Jackson",
+   "song": "All For You",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Atomic Kitten",
+   "song": "Whole Again",
+   "genre": "pop"
+ },
+ {
+   "artist": "Ja Rule",
+   "song": "Livin' It Up",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Destiny's Child",
+   "song": "Independent Women, Pt. 1",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "DJ Pied Piper & The Masters Of Ceremonies",
+   "song": "Do You Really Like It? - Radio Edit",
+   "genre": "Dance/Electronic"
+ },
+ {
+   "artist": "Jennifer Lopez",
+   "song": "I'm Real (feat. Ja Rule) - Murder Remix",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Musiq Soulchild",
+   "song": "Love",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "So Solid Crew",
+   "song": "21 Seconds",
+   "genre": "Dance/Electronic"
+ },
+ {
+   "artist": "Robbie Williams",
+   "song": "Eternity",
+   "genre": "pop, rock"
+ },
+ {
+   "artist": "Basement Jaxx",
+   "song": "Romeo",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Ludacris",
+   "song": "Southern Hospitality (Featuring Pharrell)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Gabrielle",
+   "song": "Rise",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Nelly",
+   "song": "Ride Wit Me",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Trick Daddy",
+   "song": "I'm a Thug",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Travis",
+   "song": "Sing",
+   "genre": "rock, pop"
+ },
+ {
+   "artist": "JAY-Z",
+   "song": "Izzo (H.O.V.A.)",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Gabrielle",
+   "song": "Out Of Reach",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "OPM",
+   "song": "Heaven Is a Halfpipe (If I Die)",
+   "genre": "rock"
+ },
+ {
+   "artist": "K-Ci & JoJo",
+   "song": "Crazy",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Staind",
+   "song": "It's Been Awhile",
+   "genre": "rock, metal"
+ },
+ {
+   "artist": "3LW",
+   "song": "No More (Baby I'ma Do Right)",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Ginuwine",
+   "song": "Differences",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "*NSYNC",
+   "song": "Gone",
+   "genre": "pop"
+ },
+ {
+   "artist": "Lifehouse",
+   "song": "Hanging By A Moment",
+   "genre": "pop, rock, metal"
+ },
+ {
+   "artist": "Nelly",
+   "song": "Dilemma",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Eminem",
+   "song": "Without Me",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Avril Lavigne",
+   "song": "Complicated",
+   "genre": "pop"
+ },
+ {
+   "artist": "Vanessa Carlton",
+   "song": "A Thousand Miles",
+   "genre": "Folk/Acoustic, pop"
+ },
+ {
+   "artist": "The Calling",
+   "song": "Wherever You Will Go",
+   "genre": "pop"
+ },
+ {
+   "artist": "Shakira",
+   "song": "Underneath Your Clothes",
+   "genre": "pop, latin"
+ },
+ {
+   "artist": "No Doubt",
+   "song": "Underneath It All",
+   "genre": "rock, pop"
+ },
+ {
+   "artist": "Truth Hurts",
+   "song": "Addictive",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Busta Rhymes",
+   "song": "I Know What You Want (feat. Flipmode Squad)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Eminem",
+   "song": "'Till I Collapse",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Diddy",
+   "song": "I Need a Girl (Pt. 2) [feat. Loon, Ginuwine & Mario Winans]",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Christina Milian",
+   "song": "When You Look At Me - Radio Edit",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Madonna",
+   "song": "Die Another Day",
+   "genre": "pop"
+ },
+ {
+   "artist": "Jennifer Lopez",
+   "song": "I'm Gonna Be Alright (feat. Nas)",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Angie Martinez",
+   "song": "If I Could Go! (feat. Lil' Mo & Sacario)",
+   "genre": "pop"
+ },
+ {
+   "artist": "Linkin Park",
+   "song": "In the End",
+   "genre": "rock, metal"
+ },
+ {
+   "artist": "Las Ketchup",
+   "song": "The Ketchup Song (Aserej??) - Spanglish Version",
+   "genre": "set()"
+ },
+ {
+   "artist": "Aaliyah",
+   "song": "Rock The Boat",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Holly Valance",
+   "song": "Kiss Kiss",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Sugababes",
+   "song": "Round Round",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Marilyn Manson",
+   "song": "Tainted Love",
+   "genre": "rock, metal"
+ },
+ {
+   "artist": "Brandy",
+   "song": "What About Us?",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Chad Kroeger",
+   "song": "Hero (feat. Josey Scott)",
+   "genre": "metal"
+ },
+ {
+   "artist": "Britney Spears",
+   "song": "Overprotected - Radio Edit",
+   "genre": "pop"
+ },
+ {
+   "artist": "Scooter",
+   "song": "The Logical Song",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Missy Elliott",
+   "song": "4 My People (feat. Eve)",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Aaliyah",
+   "song": "More Than A Woman",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Brandy",
+   "song": "Full Moon",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Blue",
+   "song": "One Love",
+   "genre": "pop"
+ },
+ {
+   "artist": "Busta Rhymes",
+   "song": "Pass The Courvoisier Part II (feat. P. Diddy & Pharrell) - Remix",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "C??line Dion",
+   "song": "A New Day Has Come - Radio Remix",
+   "genre": "pop"
+ },
+ {
+   "artist": "Scooter",
+   "song": "Nessaja",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Eve",
+   "song": "Gangsta Lovin'",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Disturbing Tha Peace",
+   "song": "Move Bitch",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Khia",
+   "song": "My Neck, My Back (Lick It)",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Tweet",
+   "song": "Oops (Oh My) [feat. Missy Elliott]",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Kylie Minogue",
+   "song": "Spinning Around",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Nelly",
+   "song": "Hot In Herre",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Gareth Gates",
+   "song": "Anyone of Us (Stupid Mistake)",
+   "genre": "pop"
+ },
+ {
+   "artist": "Christina Aguilera",
+   "song": "Dirrty (feat. Redman)",
+   "genre": "pop"
+ },
+ {
+   "artist": "B2K",
+   "song": "Uh Huh",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Sugababes",
+   "song": "Freak Like Me",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Dirty Vegas",
+   "song": "Days Go By",
+   "genre": "Dance/Electronic"
+ },
+ {
+   "artist": "Fat Joe",
+   "song": "What's Luv? (feat. Ja-Rule & Ashanti)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Liberty X",
+   "song": "Just A Little",
+   "genre": "pop"
+ },
+ {
+   "artist": "No Doubt",
+   "song": "Hella Good",
+   "genre": "rock, pop"
+ },
+ {
+   "artist": "LL Cool J",
+   "song": "Luv U Better",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Red Hot Chili Peppers",
+   "song": "Can't Stop",
+   "genre": "rock"
+ },
+ {
+   "artist": "Musiq Soulchild",
+   "song": "Halfcrazy",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Sean Paul",
+   "song": "Gimme the Light",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Faith Evans",
+   "song": "I Love You",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Charli Baltimore",
+   "song": "Down 4 U",
+   "genre": "pop"
+ },
+ {
+   "artist": "Kylie Minogue",
+   "song": "Love at First Sight",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "N.O.R.E.",
+   "song": "Nothin'",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Gareth Gates",
+   "song": "Unchained Melody",
+   "genre": "pop"
+ },
+ {
+   "artist": "Diddy",
+   "song": "I Need a Girl (Pt. 1) [feat. Usher & Loon]",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Big Brovaz",
+   "song": "Nu Flow",
+   "genre": "pop"
+ },
+ {
+   "artist": "No Doubt",
+   "song": "Hey Baby",
+   "genre": "rock, pop"
+ },
+ {
+   "artist": "Ashanti",
+   "song": "Baby",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Sophie Ellis-Bextor",
+   "song": "Murder On The Dancefloor",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Justin Timberlake",
+   "song": "Like I Love You",
+   "genre": "pop"
+ },
+ {
+   "artist": "Mary J. Blige",
+   "song": "Rainy Dayz",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "A1",
+   "song": "Caught in the Middle",
+   "genre": "pop"
+ },
+ {
+   "artist": "Eminem",
+   "song": "Cleanin' Out My Closet",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Ashanti",
+   "song": "Happy",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Delta Goodrem",
+   "song": "Born to Try",
+   "genre": "pop"
+ },
+ {
+   "artist": "P!nk",
+   "song": "Get the Party Started",
+   "genre": "pop"
+ },
+ {
+   "artist": "Alicia Keys",
+   "song": "A Woman's Worth",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Daniel Bedingfield",
+   "song": "Gotta Get Thru This - D'N'D Radio Edit",
+   "genre": "pop"
+ },
+ {
+   "artist": "Coldplay",
+   "song": "Clocks",
+   "genre": "rock, pop"
+ },
+ {
+   "artist": "Missy Elliott",
+   "song": "Work It",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Ronan Keating",
+   "song": "If Tomorrow Never Comes",
+   "genre": "pop, rock"
+ },
+ {
+   "artist": "Big Tymers",
+   "song": "Still Fly",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Creed",
+   "song": "My Sacrifice",
+   "genre": "pop, rock, metal"
+ },
+ {
+   "artist": "Ja Rule",
+   "song": "Always On Time",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Ashanti",
+   "song": "Foolish",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Avril Lavigne",
+   "song": "Sk8er Boi",
+   "genre": "pop"
+ },
+ {
+   "artist": "DJ Sammy",
+   "song": "Heaven",
+   "genre": "pop"
+ },
+ {
+   "artist": "Britney Spears",
+   "song": "I'm Not a Girl, Not Yet a Woman",
+   "genre": "pop"
+ },
+ {
+   "artist": "Cam?�?ron",
+   "song": "Oh Boy",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Red Hot Chili Peppers",
+   "song": "By the Way",
+   "genre": "rock"
+ },
+ {
+   "artist": "Elvis Presley",
+   "song": "A Little Less Conversation - JXL Radio Edit Remix",
+   "genre": "rock, easy listening"
+ },
+ {
+   "artist": "Atomic Kitten",
+   "song": "The Tide Is High - Radio Mix",
+   "genre": "pop"
+ },
+ {
+   "artist": "*NSYNC",
+   "song": "Girlfriend",
+   "genre": "pop"
+ },
+ {
+   "artist": "Robbie Williams",
+   "song": "Somethin' Stupid",
+   "genre": "pop, rock"
+ },
+ {
+   "artist": "Alanis Morissette",
+   "song": "Hands Clean",
+   "genre": "pop, Folk/Acoustic"
+ },
+ {
+   "artist": "Usher",
+   "song": "U Don't Have to Call",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Creed",
+   "song": "One Last Breath - Radio Version",
+   "genre": "pop, rock, metal"
+ },
+ {
+   "artist": "The Goo Goo Dolls",
+   "song": "Here Is Gone",
+   "genre": "pop, rock"
+ },
+ {
+   "artist": "Puddle Of Mudd",
+   "song": "She Hates Me",
+   "genre": "rock, metal"
+ },
+ {
+   "artist": "Ludacris",
+   "song": "Rollout (My Business)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Blazin' Squad",
+   "song": "Crossroads - Radio Edit",
+   "genre": "set()"
+ },
+ {
+   "artist": "Default",
+   "song": "Wasting My Time",
+   "genre": "rock, pop, metal"
+ },
+ {
+   "artist": "Michelle Branch",
+   "song": "All You Wanted",
+   "genre": "pop, Folk/Acoustic"
+ },
+ {
+   "artist": "Daniel Bedingfield",
+   "song": "If You're Not The One",
+   "genre": "pop"
+ },
+ {
+   "artist": "Enrique Iglesias",
+   "song": "Escape",
+   "genre": "pop, latin"
+ },
+ {
+   "artist": "Puddle Of Mudd",
+   "song": "Blurry",
+   "genre": "rock, metal"
+ },
+ {
+   "artist": "Coldplay",
+   "song": "In My Place",
+   "genre": "rock, pop"
+ },
+ {
+   "artist": "Outkast",
+   "song": "The Whole World (feat. Killer Mike)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "P!nk",
+   "song": "Don't Let Me Get Me - Radio Edit",
+   "genre": "pop"
+ },
+ {
+   "artist": "50 Cent",
+   "song": "In Da Club",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Sean Paul",
+   "song": "Get Busy",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Eminem",
+   "song": "Lose Yourself - From \"8 Mile\" Soundtrack",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Beyonc??",
+   "song": "Crazy In Love (feat. Jay-Z)",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Counting Crows",
+   "song": "Big Yellow Taxi",
+   "genre": "rock, pop"
+ },
+ {
+   "artist": "Black Eyed Peas",
+   "song": "Where Is The Love?",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Jennifer Lopez",
+   "song": "Jenny from the Block (feat. Jadakiss & Styles P.) - Track Masters Remix",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Black Eyed Peas",
+   "song": "Shut Up",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "t.A.T.u.",
+   "song": "All The Things She Said",
+   "genre": "pop"
+ },
+ {
+   "artist": "Benny Benassi",
+   "song": "Satisfaction (Isak Original Extended) - Benny Benassi Presents The Biz",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Busta Rhymes",
+   "song": "I Know What You Want (feat. Flipmode Squad)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Panjabi MC",
+   "song": "Mundian to Bach Ke",
+   "genre": "World/Traditional, hip hop"
+ },
+ {
+   "artist": "Mis-Teeq",
+   "song": "Scandalous - U.S. Radio Edit",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "JAY-Z",
+   "song": "03' Bonnie & Clyde",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "50 Cent",
+   "song": "P.I.M.P.",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Jamelia",
+   "song": "Superstar",
+   "genre": "pop"
+ },
+ {
+   "artist": "Linkin Park",
+   "song": "Faint",
+   "genre": "rock, metal"
+ },
+ {
+   "artist": "DMX",
+   "song": "X Gon' Give It To Ya",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Evanescence",
+   "song": "Bring Me To Life",
+   "genre": "metal"
+ },
+ {
+   "artist": "Sugababes",
+   "song": "Hole In The Head",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Craig David",
+   "song": "Rise & Fall (feat. Sting)",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Three Days Grace",
+   "song": "I Hate Everything About You",
+   "genre": "rock, metal"
+ },
+ {
+   "artist": "Lil Jon & The East Side Boyz",
+   "song": "Get Low",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "B2K",
+   "song": "Bump, Bump, Bump (feat. P. Diddy)",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Baby Bash",
+   "song": "Suga Suga",
+   "genre": "hip hop, pop, R&B, latin"
+ },
+ {
+   "artist": "Aaliyah",
+   "song": "Miss You - Main",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Britney Spears",
+   "song": "Me Against the Music (feat. Madonna) - LP Version / Video Mix",
+   "genre": "pop"
+ },
+ {
+   "artist": "Blue",
+   "song": "Sorry Seems To Be The Hardest Word",
+   "genre": "pop"
+ },
+ {
+   "artist": "Delta Goodrem",
+   "song": "Lost Without You",
+   "genre": "pop"
+ },
+ {
+   "artist": "Justin Timberlake",
+   "song": "Rock Your Body",
+   "genre": "pop"
+ },
+ {
+   "artist": "The White Stripes",
+   "song": "Seven Nation Army",
+   "genre": "rock, blues"
+ },
+ {
+   "artist": "Youngbloodz",
+   "song": "Damn! (feat. Lil' Jon) - Club Mix",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Beyonc??",
+   "song": "Baby Boy (feat. Sean Paul)",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Lil' Kim",
+   "song": "Magic Stick",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Christina Aguilera",
+   "song": "Can't Hold Us Down (feat. Lil' Kim)",
+   "genre": "pop"
+ },
+ {
+   "artist": "Nickelback",
+   "song": "Someday",
+   "genre": "rock, metal"
+ },
+ {
+   "artist": "Blue",
+   "song": "U Make Me Wanna - Radio Edit",
+   "genre": "pop"
+ },
+ {
+   "artist": "Ashanti",
+   "song": "Rain On Me",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Trapt",
+   "song": "Headstrong",
+   "genre": "rock, metal"
+ },
+ {
+   "artist": "Simply Red",
+   "song": "Sunrise",
+   "genre": "rock, R&B, Folk/Acoustic, pop"
+ },
+ {
+   "artist": "Lumidee",
+   "song": "Never Leave You (Uh Oooh, Uh Oooh)",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Girls Aloud",
+   "song": "Sound Of The Underground",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Nelly",
+   "song": "Shake Ya Tailfeather (feat. P. Diddy & Murphy Lee) - 2016 Remaster",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Room 5",
+   "song": "Make Luv",
+   "genre": "Dance/Electronic"
+ },
+ {
+   "artist": "Fatman Scoop",
+   "song": "Be Faithful",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Limp Bizkit",
+   "song": "Behind Blue Eyes",
+   "genre": "metal"
+ },
+ {
+   "artist": "Sugababes",
+   "song": "Too Lost In You",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "50 Cent",
+   "song": "Wanksta - From \"8 Mile\" Soundtrack",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Pharrell Williams",
+   "song": "Frontin' (feat. Jay-Z) - Club Mix",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Chingy",
+   "song": "Right Thurr",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Eminem",
+   "song": "Sing For The Moment",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Lil' Kim",
+   "song": "The Jump Off (feat. Mr. Cheeks) - Remix",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "M??a",
+   "song": "My Love Is Like...Wo - Main Mix",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "50 Cent",
+   "song": "21 Questions",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Nelly",
+   "song": "Air Force Ones",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Missy Elliott",
+   "song": "Gossip Folks (feat. Ludacris)",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Girls Aloud",
+   "song": "Jump",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Ultrabeat",
+   "song": "Pretty Green Eyes - Radio Edit",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Christina Aguilera",
+   "song": "Fighter",
+   "genre": "pop"
+ },
+ {
+   "artist": "Frankie J",
+   "song": "Don't Wanna Try",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Snoop Dogg",
+   "song": "Beautiful",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Floetry",
+   "song": "Say Yes",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Ginuwine",
+   "song": "In Those Jeans",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Electric Six",
+   "song": "Danger! High Voltage - Soulchild Radio Mix",
+   "genre": "rock"
+ },
+ {
+   "artist": "Rachel Stevens",
+   "song": "Sweet Dreams My LA Ex - Radio Edit",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Ludacris",
+   "song": "Stand Up",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Nas",
+   "song": "I Can",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "3 Doors Down",
+   "song": "When I'm Gone",
+   "genre": "pop, rock, metal"
+ },
+ {
+   "artist": "Tyrese",
+   "song": "How You Gonna Act Like That",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Justin Timberlake",
+   "song": "Cry Me a River",
+   "genre": "pop"
+ },
+ {
+   "artist": "Westlife",
+   "song": "Mandy",
+   "genre": "pop"
+ },
+ {
+   "artist": "No Doubt",
+   "song": "It's My Life",
+   "genre": "rock, pop"
+ },
+ {
+   "artist": "Amanda Perez",
+   "song": "Angel",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "JAY-Z",
+   "song": "Excuse Me Miss",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Coldplay",
+   "song": "Clocks",
+   "genre": "rock, pop"
+ },
+ {
+   "artist": "Kelly Rowland",
+   "song": "Stole",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Missy Elliott",
+   "song": "Work It",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Ashanti",
+   "song": "Rock Wit U (Awww Baby)",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Junior Senior",
+   "song": "Move Your Feet",
+   "genre": "pop"
+ },
+ {
+   "artist": "Audioslave",
+   "song": "Like a Stone",
+   "genre": "rock, metal"
+ },
+ {
+   "artist": "Sean Paul",
+   "song": "Like Glue",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Jaheim",
+   "song": "Put That Woman First",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Jennifer Lopez",
+   "song": "All I Have (feat. LL Cool J)",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Monica",
+   "song": "So Gone",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Dido",
+   "song": "White Flag",
+   "genre": "pop"
+ },
+ {
+   "artist": "The Roots",
+   "song": "The Seed (2.0)",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Chingy",
+   "song": "Holidae In",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Fabolous",
+   "song": "Can't Let You Go (feat. Mike Shorey & Lil' Mo)",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Kelly Clarkson",
+   "song": "Miss Independent",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Ja Rule",
+   "song": "Mesmerize",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Matchbox Twenty",
+   "song": "Unwell",
+   "genre": "pop, rock"
+ },
+ {
+   "artist": "Outkast",
+   "song": "The Way You Move (feat. Sleepy Brown)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Fabolous",
+   "song": "Into You (feat. Tamia)",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Switchfoot",
+   "song": "Meant to Live",
+   "genre": "rock, pop"
+ },
+ {
+   "artist": "Daniel Bedingfield",
+   "song": "If You're Not The One",
+   "genre": "pop"
+ },
+ {
+   "artist": "Good Charlotte",
+   "song": "Lifestyles of the Rich & Famous",
+   "genre": "rock, metal"
+ },
+ {
+   "artist": "Wayne Wonder",
+   "song": "No Letting Go",
+   "genre": "hip hop, R&B"
+ },
+ {
+   "artist": "The Strokes",
+   "song": "Reptilia",
+   "genre": "rock"
+ },
+ {
+   "artist": "Avril Lavigne",
+   "song": "I'm with You",
+   "genre": "pop"
+ },
+ {
+   "artist": "Will Young",
+   "song": "Leave Right Now",
+   "genre": "pop"
+ },
+ {
+   "artist": "Usher",
+   "song": "Yeah! (feat. Lil Jon & Ludacris)",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Maroon 5",
+   "song": "This Love",
+   "genre": "pop"
+ },
+ {
+   "artist": "Britney Spears",
+   "song": "Toxic",
+   "genre": "pop"
+ },
+ {
+   "artist": "Outkast",
+   "song": "Hey Ya!",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Hoobastank",
+   "song": "The Reason",
+   "genre": "pop, rock, metal"
+ },
+ {
+   "artist": "Anastacia",
+   "song": "Left Outside Alone",
+   "genre": "pop"
+ },
+ {
+   "artist": "Daddy Yankee",
+   "song": "Gasolina",
+   "genre": "latin"
+ },
+ {
+   "artist": "Black Eyed Peas",
+   "song": "Let's Get It Started - Spike Mix",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "O-Zone",
+   "song": "Dragostea Din Tei",
+   "genre": "pop"
+ },
+ {
+   "artist": "Terror Squad",
+   "song": "Lean Back",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Anastacia",
+   "song": "Sick and Tired",
+   "genre": "pop"
+ },
+ {
+   "artist": "Gwen Stefani",
+   "song": "What You Waiting For?",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Ashanti",
+   "song": "Only U - No Intro",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "The Rasmus",
+   "song": "In the Shadows",
+   "genre": "metal"
+ },
+ {
+   "artist": "Houston",
+   "song": "I Like That",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Beyonc??",
+   "song": "Naughty Girl",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Linkin Park",
+   "song": "Numb",
+   "genre": "rock, metal"
+ },
+ {
+   "artist": "Lloyd Banks",
+   "song": "On Fire",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Akon",
+   "song": "Locked Up",
+   "genre": "pop"
+ },
+ {
+   "artist": "D12",
+   "song": "My Band",
+   "genre": "hip hop, pop, rock"
+ },
+ {
+   "artist": "Jay Sean",
+   "song": "Eyes On You - Radio Mix",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Mario Winans",
+   "song": "I Don't Wanna Know (feat. Enya & P. Diddy) - 2016 Remaster",
+   "genre": "pop"
+ },
+ {
+   "artist": "Destiny's Child",
+   "song": "Lose My Breath",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Eric Prydz",
+   "song": "Call on Me - Radio Mix",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Ciara",
+   "song": "Goodies (feat. Petey Pablo)",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Kelis",
+   "song": "Trick Me",
+   "genre": "pop, R&B, Dance/Electronic"
+ },
+ {
+   "artist": "LL Cool J",
+   "song": "Headsprung",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Spiderbait",
+   "song": "Black Betty - Edit",
+   "genre": "rock"
+ },
+ {
+   "artist": "George Michael",
+   "song": "Amazing",
+   "genre": "set()"
+ },
+ {
+   "artist": "Britney Spears",
+   "song": "My Prerogative",
+   "genre": "pop"
+ },
+ {
+   "artist": "Nina Sky",
+   "song": "Move Ya Body",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Baby Bash",
+   "song": "Suga Suga",
+   "genre": "hip hop, pop, R&B, latin"
+ },
+ {
+   "artist": "Petey Pablo",
+   "song": "Freek-A-Leek",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "JAY-Z",
+   "song": "Dirt Off Your Shoulder",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Juanes",
+   "song": "La Camisa Negra",
+   "genre": "pop, latin"
+ },
+ {
+   "artist": "Avril Lavigne",
+   "song": "Nobody's Home",
+   "genre": "pop"
+ },
+ {
+   "artist": "Robbie Williams",
+   "song": "Radio",
+   "genre": "pop, rock"
+ },
+ {
+   "artist": "Black Eyed Peas",
+   "song": "Hey Mama",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Ying Yang Twins",
+   "song": "Salt Shaker",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Enrique Iglesias",
+   "song": "Not In Love - Radio Mix",
+   "genre": "pop, latin"
+ },
+ {
+   "artist": "Kelis",
+   "song": "Milkshake",
+   "genre": "pop, R&B, Dance/Electronic"
+ },
+ {
+   "artist": "Linkin Park",
+   "song": "Breaking the Habit",
+   "genre": "rock, metal"
+ },
+ {
+   "artist": "JoJo",
+   "song": "Leave (Get Out) - Radio Edit",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Christina Milian",
+   "song": "Dip It Low",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Avant",
+   "song": "Read Your Mind",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Eminem",
+   "song": "Just Lose It",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Sugababes",
+   "song": "Too Lost In You",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Snoop Dogg",
+   "song": "Drop It Like It's Hot",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Sean Paul",
+   "song": "I'm Still in Love with You (feat. Sasha)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "The Shapeshifters",
+   "song": "Lola's Theme - Radio Edit",
+   "genre": "Dance/Electronic"
+ },
+ {
+   "artist": "D12",
+   "song": "How Come",
+   "genre": "hip hop, pop, rock"
+ },
+ {
+   "artist": "Basement Jaxx",
+   "song": "Good Luck",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Kevin Lyttle",
+   "song": "Turn Me On",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Chingy",
+   "song": "One Call Away",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "T.I.",
+   "song": "Bring Em Out",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "DJ Casper",
+   "song": "Cha Cha Slide - Hardino Mix",
+   "genre": "set()"
+ },
+ {
+   "artist": "Kylie Minogue",
+   "song": "I Believe in You",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Twista",
+   "song": "Overnight Celebrity",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "N.E.R.D",
+   "song": "She Wants To Move",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Britney Spears",
+   "song": "Everytime",
+   "genre": "pop"
+ },
+ {
+   "artist": "U2",
+   "song": "Vertigo",
+   "genre": "World/Traditional, rock"
+ },
+ {
+   "artist": "Franz Ferdinand",
+   "song": "Take Me Out",
+   "genre": "rock"
+ },
+ {
+   "artist": "J-Kwon",
+   "song": "Tipsy - Club Mix",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "G-Unit",
+   "song": "Wanna Get To Know You",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Lil' Flip",
+   "song": "Sunshine (feat. Lea)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Kanye West",
+   "song": "Jesus Walks",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Evanescence",
+   "song": "My Immortal",
+   "genre": "metal"
+ },
+ {
+   "artist": "Nelly",
+   "song": "My Place",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Lemar",
+   "song": "If There's Any Justice",
+   "genre": "R&B"
+ },
+ {
+   "artist": "No Doubt",
+   "song": "It's My Life",
+   "genre": "rock, pop"
+ },
+ {
+   "artist": "Avril Lavigne",
+   "song": "Don't Tell Me",
+   "genre": "pop"
+ },
+ {
+   "artist": "Twista",
+   "song": "Slow Jamz",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Green Day",
+   "song": "American Idiot",
+   "genre": "rock"
+ },
+ {
+   "artist": "Kelis",
+   "song": "Millionaire",
+   "genre": "pop, R&B, Dance/Electronic"
+ },
+ {
+   "artist": "Scissor Sisters",
+   "song": "Comfortably Numb",
+   "genre": "pop, rock, Dance/Electronic"
+ },
+ {
+   "artist": "Alicia Keys",
+   "song": "Diary (feat. Tony! Toni! Tone! & Jermaine Paul)",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Kanye West",
+   "song": "Through The Wire",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Special D.",
+   "song": "Come With Me - Radio Edit",
+   "genre": "pop"
+ },
+ {
+   "artist": "Ludacris",
+   "song": "Splash Waterfalls",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Avril Lavigne",
+   "song": "My Happy Ending",
+   "genre": "pop"
+ },
+ {
+   "artist": "Dido",
+   "song": "White Flag",
+   "genre": "pop"
+ },
+ {
+   "artist": "Eamon",
+   "song": "Fuck It (I Don't Want You Back)",
+   "genre": "set()"
+ },
+ {
+   "artist": "Beyonc??",
+   "song": "Me, Myself and I",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "3 Doors Down",
+   "song": "Here Without You",
+   "genre": "pop, rock, metal"
+ },
+ {
+   "artist": "Kanye West",
+   "song": "All Falls Down",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Twista",
+   "song": "Sunshine (feat. Anthony Hamilton)",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Katie Melua",
+   "song": "The Closest Thing to Crazy",
+   "genre": "pop, easy listening, jazz"
+ },
+ {
+   "artist": "Usher",
+   "song": "My Boo",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Lloyd",
+   "song": "Southside",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "LMC",
+   "song": "Take Me To The Clouds Above - LMC Vs. U2 / Radio Edit",
+   "genre": "Dance/Electronic"
+ },
+ {
+   "artist": "The Streets",
+   "song": "Fit but You Know It",
+   "genre": "hip hop, Dance/Electronic"
+ },
+ {
+   "artist": "JUVENILE",
+   "song": "Slow Motion",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Outkast",
+   "song": "The Way You Move (feat. Sleepy Brown)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Girls Aloud",
+   "song": "Love Machine",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Jessica Simpson",
+   "song": "With You",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Eminem",
+   "song": "Like Toy Soldiers",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Gary Jules",
+   "song": "Mad World (Feat. Michael Andrews)",
+   "genre": "pop"
+ },
+ {
+   "artist": "Ashlee Simpson",
+   "song": "Pieces Of Me",
+   "genre": "pop"
+ },
+ {
+   "artist": "Will Young",
+   "song": "Leave Right Now",
+   "genre": "pop"
+ },
+ {
+   "artist": "Alicia Keys",
+   "song": "You Don't Know My Name",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Mariah Carey",
+   "song": "We Belong Together",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Mario",
+   "song": "Let Me Love You",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Kanye West",
+   "song": "Gold Digger",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Rihanna",
+   "song": "Pon de Replay",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "50 Cent",
+   "song": "Candy Shop",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "James Blunt",
+   "song": "You're Beautiful",
+   "genre": "pop"
+ },
+ {
+   "artist": "Green Day",
+   "song": "Boulevard of Broken Dreams",
+   "genre": "rock"
+ },
+ {
+   "artist": "The Pussycat Dolls",
+   "song": "Don't Cha",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Daniel Powter",
+   "song": "Bad Day",
+   "genre": "pop"
+ },
+ {
+   "artist": "Akon",
+   "song": "Bananza (Belly Dancer)",
+   "genre": "pop"
+ },
+ {
+   "artist": "Madonna",
+   "song": "Hung Up",
+   "genre": "pop"
+ },
+ {
+   "artist": "50 Cent",
+   "song": "Just A Lil Bit",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Crazy Frog",
+   "song": "Axel F",
+   "genre": "pop"
+ },
+ {
+   "artist": "Eminem",
+   "song": "Ass Like That",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Sean Paul",
+   "song": "We Be Burnin'",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Gwen Stefani",
+   "song": "Rich Girl",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "The Chemical Brothers",
+   "song": "Galvanize",
+   "genre": "Dance/Electronic"
+ },
+ {
+   "artist": "Fort Minor",
+   "song": "Remember the Name (feat. Styles of Beyond)",
+   "genre": "hip hop, pop, rock"
+ },
+ {
+   "artist": "50 Cent",
+   "song": "Disco Inferno",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "The Game",
+   "song": "How We Do",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Chris Brown",
+   "song": "Run It! (feat. Juelz Santana)",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Mariah Carey",
+   "song": "It's Like That",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Black Eyed Peas",
+   "song": "My Humps",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Ciara",
+   "song": "Oh (feat. Ludacris)",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "50 Cent",
+   "song": "Outta Control - Remix",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Baby Bash",
+   "song": "Baby, I'm Back",
+   "genre": "hip hop, pop, R&B, latin"
+ },
+ {
+   "artist": "Jennifer Lopez",
+   "song": "Get Right",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "JAY-Z",
+   "song": "Numb / Encore",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "The Game",
+   "song": "Hate It Or Love It",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Gorillaz",
+   "song": "Feel Good Inc.",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Black Eyed Peas",
+   "song": "Don't Phunk With My Heart",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Akon",
+   "song": "Lonely",
+   "genre": "pop"
+ },
+ {
+   "artist": "Bodyrockers",
+   "song": "I Like The Way - Radio Edit",
+   "genre": "rock, Dance/Electronic"
+ },
+ {
+   "artist": "Sugababes",
+   "song": "Push The Button",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Jeezy",
+   "song": "Soul Survivor",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Eminem",
+   "song": "Mockingbird",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Shakira",
+   "song": "La Tortura (feat. Alejandro Sanz)",
+   "genre": "pop, latin"
+ },
+ {
+   "artist": "Gorillaz",
+   "song": "DARE",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Snoop Dogg",
+   "song": "Signs",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Robbie Williams",
+   "song": "Tripping",
+   "genre": "pop, rock"
+ },
+ {
+   "artist": "David Banner",
+   "song": "Play",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Trillville",
+   "song": "Some Cut",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "D4L",
+   "song": "Laffy Taffy",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Missy Elliott",
+   "song": "Lose Control (feat. Ciara & Fat Man Scoop)",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Rob Thomas",
+   "song": "Lonely No More",
+   "genre": "pop, Folk/Acoustic"
+ },
+ {
+   "artist": "Brian McFadden",
+   "song": "Almost Here",
+   "genre": "set()"
+ },
+ {
+   "artist": "Bobby V.",
+   "song": "Slow Down - 12\" Version",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Backstreet Boys",
+   "song": "Incomplete",
+   "genre": "pop"
+ },
+ {
+   "artist": "Pretty Ricky",
+   "song": "Grind With Me",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Kanye West",
+   "song": "Diamonds From Sierra Leone - Remix",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Snoop Dogg",
+   "song": "Drop It Like It's Hot",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Fat Joe",
+   "song": "Get It Poppin' (feat. Nelly) - Radio Version",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Destiny's Child",
+   "song": "Soldier (feat. T.I. & Lil' Wayne)",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Ciara",
+   "song": "1, 2 Step (feat. Missy Elliott) - Main",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Amerie",
+   "song": "1 Thing",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Ludacris",
+   "song": "Get Back",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Franz Ferdinand",
+   "song": "Do You Want To",
+   "genre": "rock"
+ },
+ {
+   "artist": "Natalie Imbruglia",
+   "song": "Shiver",
+   "genre": "pop, Folk/Acoustic"
+ },
+ {
+   "artist": "Gwen Stefani",
+   "song": "Hollaback Girl",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Pretty Ricky",
+   "song": "Your Body",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Thirty Seconds To Mars",
+   "song": "The Kill",
+   "genre": "rock"
+ },
+ {
+   "artist": "Alicia Keys",
+   "song": "Karma",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "2Pac",
+   "song": "Ghetto Gospel",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Craig David",
+   "song": "Don't Love You No More (I'm Sorry)",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Katie Melua",
+   "song": "Nine Million Bicycles",
+   "genre": "pop, easy listening, jazz"
+ },
+ {
+   "artist": "Lil Jon & The East Side Boyz",
+   "song": "Lovers And Friends",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Mariah Carey",
+   "song": "Don't Forget About Us - Radio Edit",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Ying Yang Twins",
+   "song": "Wait (The Whisper Song)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Will Smith",
+   "song": "Switch",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Bow Wow",
+   "song": "Like You (feat. Ciara)",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Kaiser Chiefs",
+   "song": "Everyday I Love You Less And Less",
+   "genre": "rock"
+ },
+ {
+   "artist": "Kelly Clarkson",
+   "song": "Behind These Hazel Eyes",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Black Eyed Peas",
+   "song": "Don't Lie",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Westlife",
+   "song": "You Raise Me Up",
+   "genre": "pop"
+ },
+ {
+   "artist": "Ray J",
+   "song": "One Wish",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Papa Roach",
+   "song": "Scars",
+   "genre": "rock, metal"
+ },
+ {
+   "artist": "Arctic Monkeys",
+   "song": "I Bet You Look Good On The Dancefloor",
+   "genre": "rock"
+ },
+ {
+   "artist": "Shayne Ward",
+   "song": "That's My Goal",
+   "genre": "pop"
+ },
+ {
+   "artist": "Bow Wow",
+   "song": "Let Me Hold You (feat. Omarion)",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Kaiser Chiefs",
+   "song": "I Predict A Riot",
+   "genre": "rock"
+ },
+ {
+   "artist": "Usher",
+   "song": "Caught Up",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Kelly Clarkson",
+   "song": "Because of You",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "3 Doors Down",
+   "song": "Let Me Go",
+   "genre": "pop, rock, metal"
+ },
+ {
+   "artist": "Nickelback",
+   "song": "Photograph",
+   "genre": "rock, metal"
+ },
+ {
+   "artist": "T-Pain",
+   "song": "I'm Sprung",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Destiny's Child",
+   "song": "Cater 2 U",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "The Pussycat Dolls",
+   "song": "Stickwitu",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Ryan Cabrera",
+   "song": "TRUE",
+   "genre": "pop"
+ },
+ {
+   "artist": "Stereophonics",
+   "song": "Dakota",
+   "genre": "rock, pop"
+ },
+ {
+   "artist": "Eminem",
+   "song": "Like Toy Soldiers",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Nelly",
+   "song": "Over And Over",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Coldplay",
+   "song": "Speed of Sound",
+   "genre": "rock, pop"
+ },
+ {
+   "artist": "KT Tunstall",
+   "song": "Suddenly I See",
+   "genre": "World/Traditional, pop, Folk/Acoustic"
+ },
+ {
+   "artist": "Destiny's Child",
+   "song": "Girl",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Kelly Clarkson",
+   "song": "Since U Been Gone",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "U2",
+   "song": "Sometimes You Can't Make It On Your Own",
+   "genre": "World/Traditional, rock"
+ },
+ {
+   "artist": "The All-American Rejects",
+   "song": "Dirty Little Secret",
+   "genre": "rock, pop"
+ },
+ {
+   "artist": "Toby Keith",
+   "song": "As Good As I Once Was",
+   "genre": "country"
+ },
+ {
+   "artist": "Gwen Stefani",
+   "song": "Cool",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Foo Fighters",
+   "song": "Best of You",
+   "genre": "rock, metal"
+ },
+ {
+   "artist": "Shakira",
+   "song": "Hips Don't Lie (feat. Wyclef Jean)",
+   "genre": "pop, latin"
+ },
+ {
+   "artist": "Sean Paul",
+   "song": "Temperature",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Justin Timberlake",
+   "song": "SexyBack (feat. Timbaland)",
+   "genre": "pop"
+ },
+ {
+   "artist": "Beyonc??",
+   "song": "Irreplaceable",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Amy Winehouse",
+   "song": "Rehab",
+   "genre": "R&B"
+ },
+ {
+   "artist": "Rihanna",
+   "song": "SOS",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Gnarls Barkley",
+   "song": "Crazy",
+   "genre": "hip hop, R&B"
+ },
+ {
+   "artist": "Busta Rhymes",
+   "song": "Touch It",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Nelly Furtado",
+   "song": "Maneater",
+   "genre": "hip hop, pop, latin"
+ },
+ {
+   "artist": "Bob Sinclar",
+   "song": "Rock This Party - Everybody Dance Now",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Diddy",
+   "song": "Come to Me (feat. Nicole Scherzinger)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Madonna",
+   "song": "Sorry",
+   "genre": "pop"
+ },
+ {
+   "artist": "Chamillionaire",
+   "song": "Ridin'",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Black Eyed Peas",
+   "song": "Pump It",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Nelly Furtado",
+   "song": "Promiscuous",
+   "genre": "hip hop, pop, latin"
+ },
+ {
+   "artist": "Fedde Le Grand",
+   "song": "Put Your Hands Up for Detroit - Radio Edit",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Sean Paul",
+   "song": "(When You Gonna) Give It Up to Me (feat. Keyshia Cole) - Radio Version",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "The Pussycat Dolls",
+   "song": "Buttons",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Ciara",
+   "song": "Get Up (feat. Chamillionaire)",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Eminem",
+   "song": "Shake That",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Cherish",
+   "song": "Do It To It",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Muse",
+   "song": "Supermassive Black Hole",
+   "genre": "rock"
+ },
+ {
+   "artist": "Chris Brown",
+   "song": "Gimme That",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Infernal",
+   "song": "From Paris to Berlin",
+   "genre": "pop"
+ },
+ {
+   "artist": "Cassie",
+   "song": "Me & U",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "E-40",
+   "song": "U and Dat (feat. T. Pain & Kandi Girl)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "The Pussycat Dolls",
+   "song": "Beep",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Lil Jon",
+   "song": "Snap Yo Fingers",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Armand Van Helden",
+   "song": "My My My - Radio Edit",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "The Notorious B.I.G.",
+   "song": "Nasty Girl (feat. Diddy, Nelly, Jagged Edge & Avery Storm) - 2005 Remaster",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Yung Joc",
+   "song": "It's Goin' Down (feat. Nitti)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Shayne Ward",
+   "song": "No Promises",
+   "genre": "pop"
+ },
+ {
+   "artist": "Justin Timberlake",
+   "song": "My Love (feat. T.I.)",
+   "genre": "pop"
+ },
+ {
+   "artist": "Nickelback",
+   "song": "Savin' Me",
+   "genre": "rock, metal"
+ },
+ {
+   "artist": "Nelly",
+   "song": "Grillz",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Take That",
+   "song": "Patience",
+   "genre": "pop"
+ },
+ {
+   "artist": "Fergie",
+   "song": "London Bridge",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Cascada",
+   "song": "Everytime We Touch - Radio Edit",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "D4L",
+   "song": "Laffy Taffy",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "LL Cool J",
+   "song": "Control Myself",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Beyonc??",
+   "song": "Deja Vu (feat. Jay-Z)",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "P!nk",
+   "song": "Stupid Girls",
+   "genre": "pop"
+ },
+ {
+   "artist": "Eminem",
+   "song": "When I'm Gone",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Kelis",
+   "song": "Bossy",
+   "genre": "pop, R&B, Dance/Electronic"
+ },
+ {
+   "artist": "Bob Sinclar",
+   "song": "Love Generation - Radio Edit",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Meck",
+   "song": "Thunder in My Heart Again (Radio Edit)",
+   "genre": "set()"
+ },
+ {
+   "artist": "Mary J. Blige",
+   "song": "Be Without You - Kendu Mix",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Girls Aloud",
+   "song": "Something Kinda Ooooh",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Rihanna",
+   "song": "Unfaithful",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Kanye West",
+   "song": "Touch The Sky",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Dem Franchize Boyz",
+   "song": "Lean Wit It, Rock Wit It",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Evanescence",
+   "song": "Call Me When You're Sober",
+   "genre": "metal"
+ },
+ {
+   "artist": "Chingy",
+   "song": "Pullin' Me Back",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Nickelback",
+   "song": "Far Away",
+   "genre": "rock, metal"
+ },
+ {
+   "artist": "Fall Out Boy",
+   "song": "Dance, Dance",
+   "genre": "rock"
+ },
+ {
+   "artist": "Leona Lewis",
+   "song": "A Moment Like This",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "T.I.",
+   "song": "What You Know",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Ludacris",
+   "song": "Money Maker",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Nick Lachey",
+   "song": "What's Left Of Me",
+   "genre": "pop"
+ },
+ {
+   "artist": "Jibbs",
+   "song": "Chain Hang Low",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Arctic Monkeys",
+   "song": "When The Sun Goes Down",
+   "genre": "rock"
+ },
+ {
+   "artist": "Rascal Flatts",
+   "song": "Life is a Highway",
+   "genre": "country"
+ },
+ {
+   "artist": "Beyonc??",
+   "song": "Check On It (feat. Slim Thug)",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Keyshia Cole",
+   "song": "Love",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Lily Allen",
+   "song": "Smile",
+   "genre": "pop"
+ },
+ {
+   "artist": "Ne-Yo",
+   "song": "Sexy Love",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "JoJo",
+   "song": "Too Little Too Late",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Mary J. Blige",
+   "song": "One",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Bubba Sparxxx",
+   "song": "Ms. New Booty",
+   "genre": "hip hop, pop, country"
+ },
+ {
+   "artist": "Amy Winehouse",
+   "song": "You Know I'm No Good",
+   "genre": "R&B"
+ },
+ {
+   "artist": "Rascal Flatts",
+   "song": "What Hurts The Most",
+   "genre": "country"
+ },
+ {
+   "artist": "Red Hot Chili Peppers",
+   "song": "Dani California",
+   "genre": "rock"
+ },
+ {
+   "artist": "Scissor Sisters",
+   "song": "I Don't Feel Like Dancin'",
+   "genre": "pop, rock, Dance/Electronic"
+ },
+ {
+   "artist": "Ne-Yo",
+   "song": "So Sick",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Hinder",
+   "song": "Lips Of An Angel",
+   "genre": "pop, rock, metal"
+ },
+ {
+   "artist": "The Raconteurs",
+   "song": "Steady, As She Goes",
+   "genre": "rock"
+ },
+ {
+   "artist": "The Fratellis",
+   "song": "Chelsea Dagger",
+   "genre": "rock"
+ },
+ {
+   "artist": "Fort Minor",
+   "song": "Where'd You Go (feat. Holly Brook & Jonah Matranga)",
+   "genre": "hip hop, pop, rock"
+ },
+ {
+   "artist": "The Pussycat Dolls",
+   "song": "Stickwitu",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Panic! At The Disco",
+   "song": "I Write Sins Not Tragedies",
+   "genre": "rock"
+ },
+ {
+   "artist": "James Blunt",
+   "song": "Goodbye My Lover",
+   "genre": "pop"
+ },
+ {
+   "artist": "Christina Aguilera",
+   "song": "Ain't No Other Man",
+   "genre": "pop"
+ },
+ {
+   "artist": "Westlife",
+   "song": "The Rose",
+   "genre": "pop"
+ },
+ {
+   "artist": "Keane",
+   "song": "Is It Any Wonder?",
+   "genre": "pop"
+ },
+ {
+   "artist": "Orson",
+   "song": "No Tomorrow",
+   "genre": "pop"
+ },
+ {
+   "artist": "T-Pain",
+   "song": "I'm N Luv (Wit a Stripper) (feat. Mike Jones)",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "KT Tunstall",
+   "song": "Black Horse And The Cherry Tree",
+   "genre": "World/Traditional, pop, Folk/Acoustic"
+ },
+ {
+   "artist": "Natasha Bedingfield",
+   "song": "Unwritten",
+   "genre": "pop"
+ },
+ {
+   "artist": "Razorlight",
+   "song": "America",
+   "genre": "rock, pop"
+ },
+ {
+   "artist": "James Morrison",
+   "song": "You Give Me Something",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Snow Patrol",
+   "song": "You're All I Have",
+   "genre": "World/Traditional, rock, pop"
+ },
+ {
+   "artist": "The Fray",
+   "song": "How to Save a Life",
+   "genre": "pop"
+ },
+ {
+   "artist": "Sandi Thom",
+   "song": "I Wish I Was a Punk Rocker (with Flowers in My Hair)",
+   "genre": "World/Traditional, pop"
+ },
+ {
+   "artist": "My Chemical Romance",
+   "song": "Welcome to the Black Parade",
+   "genre": "rock"
+ },
+ {
+   "artist": "Razorlight",
+   "song": "In The Morning",
+   "genre": "rock, pop"
+ },
+ {
+   "artist": "The All-American Rejects",
+   "song": "Dirty Little Secret",
+   "genre": "rock, pop"
+ },
+ {
+   "artist": "James Morrison",
+   "song": "Wonderful World",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Chris Brown",
+   "song": "Yo (Excuse Me Miss)",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "P!nk",
+   "song": "Who Knew",
+   "genre": "pop"
+ },
+ {
+   "artist": "The Kooks",
+   "song": "Naive",
+   "genre": "rock"
+ },
+ {
+   "artist": "Leona Lewis",
+   "song": "Bleeding Love",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Rihanna",
+   "song": "Umbrella",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Britney Spears",
+   "song": "Gimme More",
+   "genre": "pop"
+ },
+ {
+   "artist": "Fergie",
+   "song": "Big Girls Don't Cry (Personal)",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Mark Ronson",
+   "song": "Valerie (feat. Amy Winehouse) - Version Revisited",
+   "genre": "pop"
+ },
+ {
+   "artist": "Plain White T's",
+   "song": "Hey There Delilah",
+   "genre": "pop"
+ },
+ {
+   "artist": "Justin Timberlake",
+   "song": "What Goes Around.../...Comes Around (Interlude)",
+   "genre": "pop"
+ },
+ {
+   "artist": "Gwen Stefani",
+   "song": "The Sweet Escape",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Timbaland",
+   "song": "The Way I Are",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Nelly Furtado",
+   "song": "Say It Right",
+   "genre": "hip hop, pop, latin"
+ },
+ {
+   "artist": "Ida Corr",
+   "song": "Let Me Think About It",
+   "genre": "set()"
+ },
+ {
+   "artist": "Alex Gaudino",
+   "song": "Destination Calabria - Radio Edit",
+   "genre": "Dance/Electronic"
+ },
+ {
+   "artist": "September",
+   "song": "Cry for You",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Akon",
+   "song": "Smack That",
+   "genre": "pop"
+ },
+ {
+   "artist": "Timbaland",
+   "song": "Give It To Me",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "50 Cent",
+   "song": "Ayo Technology",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Eric Prydz",
+   "song": "Proper Education - Radio Edit",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Fedde Le Grand",
+   "song": "Put Your Hands Up For Detroit - Radio Edit",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Ciara",
+   "song": "Like a Boy",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Kanye West",
+   "song": "Stronger",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Beyonc??",
+   "song": "Beautiful Liar",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Gym Class Heroes",
+   "song": "Cupid's Chokehold / Breakfast in America - Radio Mix",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Akon",
+   "song": "I Wanna Love You",
+   "genre": "pop"
+ },
+ {
+   "artist": "Soulja Boy",
+   "song": "Crank That (Soulja Boy)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Fat Joe",
+   "song": "Make It Rain",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "P!nk",
+   "song": "U + Ur Hand",
+   "genre": "pop"
+ },
+ {
+   "artist": "Rihanna",
+   "song": "Shut Up And Drive",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Lloyd",
+   "song": "Get It Shawty",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Kanye West",
+   "song": "Can't Tell Me Nothing",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Camille Jones",
+   "song": "The Creeps - Fedde Le Grand Radio Mix",
+   "genre": "set()"
+ },
+ {
+   "artist": "Linkin Park",
+   "song": "What I've Done",
+   "genre": "rock, metal"
+ },
+ {
+   "artist": "Keyshia Cole",
+   "song": "Last Night",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Chris Brown",
+   "song": "Kiss Kiss (feat. T-Pain)",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Shop Boyz",
+   "song": "Party Like A Rock Star",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Finger Eleven",
+   "song": "Paralyzer",
+   "genre": "rock, metal"
+ },
+ {
+   "artist": "Justin Timberlake",
+   "song": "Summer Love",
+   "genre": "pop"
+ },
+ {
+   "artist": "MiMS",
+   "song": "This Is Why I'm Hot",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Fabolous",
+   "song": "Make Me Better",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Seether",
+   "song": "Fake It",
+   "genre": "rock, metal"
+ },
+ {
+   "artist": "Take That",
+   "song": "Patience",
+   "genre": "pop"
+ },
+ {
+   "artist": "Arctic Monkeys",
+   "song": "Brianstorm",
+   "genre": "rock"
+ },
+ {
+   "artist": "Justin Timberlake",
+   "song": "My Love (feat. T.I.)",
+   "genre": "pop"
+ },
+ {
+   "artist": "Fergie",
+   "song": "Glamorous",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Linkin Park",
+   "song": "Bleed It Out",
+   "genre": "rock, metal"
+ },
+ {
+   "artist": "My Chemical Romance",
+   "song": "Teenagers",
+   "genre": "rock"
+ },
+ {
+   "artist": "Calvin Harris",
+   "song": "Acceptable in the 80's",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Sugababes",
+   "song": "About You Now",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Avril Lavigne",
+   "song": "Girlfriend",
+   "genre": "pop"
+ },
+ {
+   "artist": "Ne-Yo",
+   "song": "Because Of You",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Daughtry",
+   "song": "It's Not Over",
+   "genre": "pop, rock, metal"
+ },
+ {
+   "artist": "Unk",
+   "song": "Walk It Out",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Lloyd",
+   "song": "You",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Klaxons",
+   "song": "Golden Skans",
+   "genre": "rock"
+ },
+ {
+   "artist": "T-Pain",
+   "song": "Bartender (feat. Akon)",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Baby Boy Da Prince",
+   "song": "The Way I Live - Main Explicit",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Fergie",
+   "song": "Fergalicious",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Omarion",
+   "song": "Ice Box",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Pretty Ricky",
+   "song": "On the Hotline - Amended Version",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Nickelback",
+   "song": "Rockstar",
+   "genre": "rock, metal"
+ },
+ {
+   "artist": "Fall Out Boy",
+   "song": "Thnks fr th Mmrs",
+   "genre": "rock"
+ },
+ {
+   "artist": "Justin Timberlake",
+   "song": "LoveStoned / I Think She Knows (Interlude)",
+   "genre": "pop"
+ },
+ {
+   "artist": "All Time Low",
+   "song": "Dear Maria, Count Me In",
+   "genre": "rock"
+ },
+ {
+   "artist": "Amy Winehouse",
+   "song": "Back To Black",
+   "genre": "R&B"
+ },
+ {
+   "artist": "Keyshia Cole",
+   "song": "Let It Go",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Ciara",
+   "song": "Promise",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Enrique Iglesias",
+   "song": "Do You Know? (The Ping Pong Song)",
+   "genre": "pop, latin"
+ },
+ {
+   "artist": "T2",
+   "song": "Heartbroken - Edit",
+   "genre": "Dance/Electronic"
+ },
+ {
+   "artist": "Robyn",
+   "song": "With Every Heartbeat",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Maroon 5",
+   "song": "Makes Me Wonder",
+   "genre": "pop"
+ },
+ {
+   "artist": "Fall Out Boy",
+   "song": "This Ain't A Scene, It's An Arms Race",
+   "genre": "rock"
+ },
+ {
+   "artist": "Paramore",
+   "song": "Misery Business",
+   "genre": "pop, rock"
+ },
+ {
+   "artist": "Hinder",
+   "song": "Better Than Me",
+   "genre": "pop, rock, metal"
+ },
+ {
+   "artist": "Huey",
+   "song": "Pop, Lock & Drop It - Video Edit",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Foo Fighters",
+   "song": "The Pretender",
+   "genre": "rock, metal"
+ },
+ {
+   "artist": "Plies",
+   "song": "Shawty (feat. T Pain)",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Kaiser Chiefs",
+   "song": "Ruby",
+   "genre": "rock"
+ },
+ {
+   "artist": "Mark Ronson",
+   "song": "Stop Me (feat. Daniel Merriweather)",
+   "genre": "pop"
+ },
+ {
+   "artist": "Bow Wow",
+   "song": "Outta My System (feat. T-Pain & Johnt?? Austin)",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Jim Jones",
+   "song": "We Fly High",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "The Red Jumpsuit Apparatus",
+   "song": "Face Down",
+   "genre": "pop"
+ },
+ {
+   "artist": "MIKA",
+   "song": "Grace Kelly",
+   "genre": "pop"
+ },
+ {
+   "artist": "Christina Aguilera",
+   "song": "Candyman",
+   "genre": "pop"
+ },
+ {
+   "artist": "Sean Kingston",
+   "song": "Beautiful Girls",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Akon",
+   "song": "Don't Matter",
+   "genre": "pop"
+ },
+ {
+   "artist": "James Blunt",
+   "song": "1973",
+   "genre": "pop"
+ },
+ {
+   "artist": "Carrie Underwood",
+   "song": "Before He Cheats",
+   "genre": "pop, country"
+ },
+ {
+   "artist": "Just Jack",
+   "song": "Starz In Their Eyes",
+   "genre": "Dance/Electronic"
+ },
+ {
+   "artist": "T-Pain",
+   "song": "Buy U a Drank (Shawty Snappin') (feat. Yung Joc)",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Bone Thugs-N-Harmony",
+   "song": "I Tried",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Avril Lavigne",
+   "song": "When You're Gone",
+   "genre": "pop"
+ },
+ {
+   "artist": "Rich Boy",
+   "song": "Throw Some D's",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "MIKA",
+   "song": "Love Today",
+   "genre": "pop"
+ },
+ {
+   "artist": "Manic Street Preachers",
+   "song": "Your Love Alone Is Not Enough (feat. Nina Persson)",
+   "genre": "rock, pop"
+ },
+ {
+   "artist": "Elliott Yamin",
+   "song": "Wait for You",
+   "genre": "set()"
+ },
+ {
+   "artist": "Wyclef Jean",
+   "song": "Sweetest Girl (Dollar Bill) (feat. Akon, Lil' Wayne & Niia)",
+   "genre": "set()"
+ },
+ {
+   "artist": "Boys Like Girls",
+   "song": "The Great Escape",
+   "genre": "pop"
+ },
+ {
+   "artist": "Take That",
+   "song": "Rule The World - Radio Edit",
+   "genre": "pop"
+ },
+ {
+   "artist": "J. Holiday",
+   "song": "Bed",
+   "genre": "hip hop, pop, R&B, Dance/Electronic"
+ },
+ {
+   "artist": "Red Hot Chili Peppers",
+   "song": "Snow (Hey Oh)",
+   "genre": "rock"
+ },
+ {
+   "artist": "Ludacris",
+   "song": "Runaway Love",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Flo Rida",
+   "song": "Low (feat. T-Pain)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Katy Perry",
+   "song": "I Kissed A Girl",
+   "genre": "pop"
+ },
+ {
+   "artist": "Rihanna",
+   "song": "Take A Bow",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Alicia Keys",
+   "song": "No One",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Timbaland",
+   "song": "Apologize",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Ne-Yo",
+   "song": "Miss Independent",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Chris Brown",
+   "song": "With You",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Beyonc??",
+   "song": "If I Were a Boy",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Kardinal Offishall",
+   "song": "Dangerous",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Madcon",
+   "song": "Beggin (original version)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "September",
+   "song": "Cry for You",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Rihanna",
+   "song": "Disturbia",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Guru Josh Project",
+   "song": "Infinity 2008",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Britney Spears",
+   "song": "Break the Ice",
+   "genre": "pop"
+ },
+ {
+   "artist": "Lil Wayne",
+   "song": "Lollipop",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Basshunter",
+   "song": "Now You're Gone - Video Edit",
+   "genre": "pop"
+ },
+ {
+   "artist": "Kanye West",
+   "song": "Flashing Lights",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Madonna",
+   "song": "4 Minutes (feat. Justin Timberlake & Timbaland)",
+   "genre": "pop"
+ },
+ {
+   "artist": "Katy Perry",
+   "song": "Hot N Cold",
+   "genre": "pop"
+ },
+ {
+   "artist": "Rihanna",
+   "song": "Don't Stop The Music",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Snoop Dogg",
+   "song": "Sensual Seduction",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Akon",
+   "song": "Right Now (Na Na Na)",
+   "genre": "pop"
+ },
+ {
+   "artist": "Britney Spears",
+   "song": "Womanizer",
+   "genre": "pop"
+ },
+ {
+   "artist": "Eric Prydz",
+   "song": "Pjanoo - Radio Edit",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Kelly Rowland",
+   "song": "Work",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Jeezy",
+   "song": "Put On",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Madonna",
+   "song": "Give It 2 Me",
+   "genre": "pop"
+ },
+ {
+   "artist": "The Pussycat Dolls",
+   "song": "When I Grow Up",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "will.i.am",
+   "song": "Heartbreaker",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Soulja Boy",
+   "song": "Crank That (Soulja Boy)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Britney Spears",
+   "song": "Piece of Me",
+   "genre": "pop"
+ },
+ {
+   "artist": "T.I.",
+   "song": "Live Your Life",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Ne-Yo",
+   "song": "Closer",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Lil Wayne",
+   "song": "A Milli",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Colby O'Donis",
+   "song": "What You Got",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Miley Cyrus",
+   "song": "See You Again",
+   "genre": "pop"
+ },
+ {
+   "artist": "Basshunter",
+   "song": "All I Ever Wanted - Radio Edit",
+   "genre": "pop"
+ },
+ {
+   "artist": "Chris Brown",
+   "song": "Kiss Kiss (feat. T-Pain)",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Finger Eleven",
+   "song": "Paralyzer",
+   "genre": "rock, metal"
+ },
+ {
+   "artist": "Alesha Dixon",
+   "song": "The Boy Does Nothing",
+   "genre": "pop"
+ },
+ {
+   "artist": "Dizzee Rascal",
+   "song": "Dance Wiv Me - Radio Edit",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Gabriella Cilmi",
+   "song": "Sweet About Me",
+   "genre": "R&B"
+ },
+ {
+   "artist": "Jack White",
+   "song": "Another Way to Die",
+   "genre": "rock, blues"
+ },
+ {
+   "artist": "Plies",
+   "song": "Hypnotized (feat. Akon)",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "The Pussycat Dolls",
+   "song": "I Hate This Part",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Sean Kingston",
+   "song": "Take You There",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Natasha Bedingfield",
+   "song": "Pocketful of Sunshine",
+   "genre": "pop"
+ },
+ {
+   "artist": "The Offspring",
+   "song": "You're Gonna Go Far, Kid",
+   "genre": "rock, pop, metal"
+ },
+ {
+   "artist": "Kanye West",
+   "song": "Homecoming",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Estelle",
+   "song": "American Boy",
+   "genre": "R&B"
+ },
+ {
+   "artist": "Saving Abel",
+   "song": "Addicted",
+   "genre": "rock, metal"
+ },
+ {
+   "artist": "Pendulum",
+   "song": "Propane Nightmares",
+   "genre": "Dance/Electronic"
+ },
+ {
+   "artist": "The Game",
+   "song": "My Life",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Danity Kane",
+   "song": "Damaged",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "P!nk",
+   "song": "So What",
+   "genre": "pop"
+ },
+ {
+   "artist": "Kanye West",
+   "song": "Love Lockdown",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Gym Class Heroes",
+   "song": "Cookie Jar (feat. The-Dream)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "M.I.A.",
+   "song": "Paper Planes",
+   "genre": "pop, rock"
+ },
+ {
+   "artist": "3 Doors Down",
+   "song": "It's Not My Time",
+   "genre": "pop, rock, metal"
+ },
+ {
+   "artist": "Kylie Minogue",
+   "song": "Wow",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Mariah Carey",
+   "song": "Touch My Body",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "MGMT",
+   "song": "Kids",
+   "genre": "rock"
+ },
+ {
+   "artist": "The Ting Tings",
+   "song": "Shut Up and Let Me Go",
+   "genre": "pop, rock, Dance/Electronic"
+ },
+ {
+   "artist": "Lil Wayne",
+   "song": "Got Money",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Santana",
+   "song": "Into the Night (feat. Chad Kroeger)",
+   "genre": "rock, blues, latin"
+ },
+ {
+   "artist": "The-Dream",
+   "song": "I Luv Your Girl",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Wiley",
+   "song": "Wearing My Rolex - Radio Edit",
+   "genre": "hip hop, Dance/Electronic"
+ },
+ {
+   "artist": "Usher",
+   "song": "Love in This Club (feat. Young Jeezy)",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Sam Sparro",
+   "song": "Black & Gold - Radio Edit",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "H \"two\" O",
+   "song": "What's It Gonna Be (feat. Platnum)",
+   "genre": "Dance/Electronic"
+ },
+ {
+   "artist": "The Ting Tings",
+   "song": "That's Not My Name",
+   "genre": "pop, rock, Dance/Electronic"
+ },
+ {
+   "artist": "Plies",
+   "song": "Bust It Baby, Pt. 2 (feat. Ne-Yo)",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "James Morrison",
+   "song": "Broken Strings",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Leona Lewis",
+   "song": "Run",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Metro Station",
+   "song": "Shake It",
+   "genre": "pop, rock"
+ },
+ {
+   "artist": "T.I.",
+   "song": "Whatever You Like",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Trey Songz",
+   "song": "Can't Help but Wait",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "OneRepublic",
+   "song": "Stop And Stare",
+   "genre": "pop"
+ },
+ {
+   "artist": "Alexandra Burke",
+   "song": "Hallelujah",
+   "genre": "pop"
+ },
+ {
+   "artist": "Mary J. Blige",
+   "song": "Just Fine",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Jordin Sparks",
+   "song": "One Step At a Time",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Coldplay",
+   "song": "Viva La Vida",
+   "genre": "rock, pop"
+ },
+ {
+   "artist": "Kings of Leon",
+   "song": "Sex on Fire",
+   "genre": "rock"
+ },
+ {
+   "artist": "Kanye West",
+   "song": "Good Life",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Duffy",
+   "song": "Mercy",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "David Archuleta",
+   "song": "Crush",
+   "genre": "pop"
+ },
+ {
+   "artist": "J. Holiday",
+   "song": "Suffocate - Superclean",
+   "genre": "hip hop, pop, R&B, Dance/Electronic"
+ },
+ {
+   "artist": "Gavin DeGraw",
+   "song": "In Love With a Girl",
+   "genre": "pop, Folk/Acoustic"
+ },
+ {
+   "artist": "Jordin Sparks",
+   "song": "Tattoo",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Coldplay",
+   "song": "Violet Hill",
+   "genre": "rock, pop"
+ },
+ {
+   "artist": "Ray J",
+   "song": "Sexy Can I feat. Yung Berg",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Jennifer Hudson",
+   "song": "Spotlight",
+   "genre": "pop, R&B, easy listening"
+ },
+ {
+   "artist": "John Legend",
+   "song": "Green Light (feat. Andr?? 3000)",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Jonas Brothers",
+   "song": "Burnin' Up",
+   "genre": "pop"
+ },
+ {
+   "artist": "Lupe Fiasco",
+   "song": "Superstar (feat. Matthew Santos)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Chris Brown",
+   "song": "Forever",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Adele",
+   "song": "Chasing Pavements",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Leona Lewis",
+   "song": "Better in Time",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Fergie",
+   "song": "Clumsy",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "T-Pain",
+   "song": "Can't Believe It (feat. Lil' Wayne)",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Black Eyed Peas",
+   "song": "I Gotta Feeling",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Lady Gaga",
+   "song": "Poker Face",
+   "genre": "pop"
+ },
+ {
+   "artist": "Beyonc??",
+   "song": "Halo",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "David Guetta",
+   "song": "Sexy Bitch (feat. Akon)",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Flo Rida",
+   "song": "Right Round",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Taylor Swift",
+   "song": "Love Story",
+   "genre": "pop"
+ },
+ {
+   "artist": "Pitbull",
+   "song": "Hotel Room Service",
+   "genre": "hip hop, pop, latin"
+ },
+ {
+   "artist": "Britney Spears",
+   "song": "Circus",
+   "genre": "pop"
+ },
+ {
+   "artist": "Lady Gaga",
+   "song": "LoveGame",
+   "genre": "pop"
+ },
+ {
+   "artist": "Skillet",
+   "song": "Monster",
+   "genre": "rock, pop, metal"
+ },
+ {
+   "artist": "The Prodigy",
+   "song": "Omen",
+   "genre": "rock, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Black Eyed Peas",
+   "song": "Meet Me Halfway",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Kanye West",
+   "song": "Heartless",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Kid Cudi",
+   "song": "Day 'N' Nite (Nightmare)",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Lady Gaga",
+   "song": "Just Dance",
+   "genre": "pop"
+ },
+ {
+   "artist": "Britney Spears",
+   "song": "If U Seek Amy",
+   "genre": "pop"
+ },
+ {
+   "artist": "Pitbull",
+   "song": "I Know You Want Me (Calle Ocho)",
+   "genre": "hip hop, pop, latin"
+ },
+ {
+   "artist": "Mariah Carey",
+   "song": "Obsessed",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Beyonc??",
+   "song": "Sweet Dreams",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Agnes",
+   "song": "Release Me",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Black Eyed Peas",
+   "song": "Boom Boom Pow",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Shakira",
+   "song": "She Wolf",
+   "genre": "pop, latin"
+ },
+ {
+   "artist": "Lady Gaga",
+   "song": "Paparazzi",
+   "genre": "pop"
+ },
+ {
+   "artist": "JAY-Z",
+   "song": "Empire State Of Mind",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "OneRepublic",
+   "song": "All The Right Moves",
+   "genre": "pop"
+ },
+ {
+   "artist": "Jeremih",
+   "song": "Birthday Sex",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Cascada",
+   "song": "Evacuate The Dancefloor",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Linkin Park",
+   "song": "New Divide",
+   "genre": "rock, metal"
+ },
+ {
+   "artist": "Kevin Rudolf",
+   "song": "Let It Rock",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "JAY-Z",
+   "song": "Run This Town",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Lady Gaga",
+   "song": "Bad Romance",
+   "genre": "pop"
+ },
+ {
+   "artist": "T.I.",
+   "song": "Live Your Life",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Eminem",
+   "song": "We Made You",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Dizzee Rascal",
+   "song": "Bonkers",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Ciara",
+   "song": "Love Sex Magic (feat. Justin Timberlake)",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Rihanna",
+   "song": "Russian Roulette",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Soulja Boy",
+   "song": "Turn My Swag On",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "The xx",
+   "song": "Intro",
+   "genre": "rock"
+ },
+ {
+   "artist": "Jay Sean",
+   "song": "Down",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Keri Hilson",
+   "song": "Turnin Me On - Original Dirty",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "David Guetta",
+   "song": "When Love Takes Over (feat. Kelly Rowland)",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Cheryl",
+   "song": "Fight For This Love",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Soulja Boy",
+   "song": "Kiss Me Thru The Phone",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Eminem",
+   "song": "Crack A Bottle",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "P!nk",
+   "song": "Sober",
+   "genre": "pop"
+ },
+ {
+   "artist": "Tinchy Stryder",
+   "song": "Number 1",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Pixie Lott",
+   "song": "Mama Do (Uh Oh, Uh Oh)",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "JLS",
+   "song": "Beat Again - Radio Edit",
+   "genre": "pop"
+ },
+ {
+   "artist": "3OH!3",
+   "song": "DONTTRUSTME",
+   "genre": "hip hop, pop, rock"
+ },
+ {
+   "artist": "A.R. Rahman",
+   "song": "Jai Ho! (You Are My Destiny)",
+   "genre": "set()"
+ },
+ {
+   "artist": "The Pussycat Dolls",
+   "song": "I Hate This Part",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Akon",
+   "song": "Beautiful",
+   "genre": "pop"
+ },
+ {
+   "artist": "Alexandra Burke",
+   "song": "Bad Boys (feat. Flo Rida)",
+   "genre": "pop"
+ },
+ {
+   "artist": "Mario",
+   "song": "Break Up",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Drake",
+   "song": "Forever",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Selena Gomez & The Scene",
+   "song": "Naturally",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Kanye West",
+   "song": "Love Lockdown",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "The Veronicas",
+   "song": "Untouched",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Fabolous",
+   "song": "Throw It In The Bag",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Jason Derulo",
+   "song": "Whatcha Say",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Lily Allen",
+   "song": "Not Fair",
+   "genre": "pop"
+ },
+ {
+   "artist": "T.I.",
+   "song": "Dead And Gone",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Sean Kingston",
+   "song": "Fire Burning",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Empire of the Sun",
+   "song": "Walking On A Dream",
+   "genre": "rock, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Cobra Starship",
+   "song": "Good Girls Go Bad (feat. Leighton Meester)",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Nickelback",
+   "song": "If Today Was Your Last Day",
+   "genre": "rock, metal"
+ },
+ {
+   "artist": "La Roux",
+   "song": "Bulletproof",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Kasabian",
+   "song": "Fire",
+   "genre": "rock"
+ },
+ {
+   "artist": "Calvin Harris",
+   "song": "I'm Not Alone - Radio Edit",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Justin Bieber",
+   "song": "One Time",
+   "genre": "pop"
+ },
+ {
+   "artist": "Jamie Foxx",
+   "song": "Blame It",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "La Roux",
+   "song": "In For The Kill",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Muse",
+   "song": "Uprising",
+   "genre": "rock"
+ },
+ {
+   "artist": "Nickelback",
+   "song": "Gotta Be Somebody",
+   "genre": "rock, metal"
+ },
+ {
+   "artist": "James Morrison",
+   "song": "Broken Strings",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "T.I.",
+   "song": "Whatever You Like",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Dizzee Rascal",
+   "song": "Holiday",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Beyonc??",
+   "song": "Single Ladies (Put a Ring on It)",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Boys Like Girls",
+   "song": "Love Drunk",
+   "genre": "pop"
+ },
+ {
+   "artist": "The-Dream",
+   "song": "Rockin' That Shit",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "OneRepublic",
+   "song": "Secrets",
+   "genre": "pop"
+ },
+ {
+   "artist": "JLS",
+   "song": "Everybody in Love",
+   "genre": "pop"
+ },
+ {
+   "artist": "Jason Aldean",
+   "song": "Big Green Tractor",
+   "genre": "country"
+ },
+ {
+   "artist": "The Fray",
+   "song": "Never Say Never",
+   "genre": "pop"
+ },
+ {
+   "artist": "Lily Allen",
+   "song": "The Fear",
+   "genre": "pop"
+ },
+ {
+   "artist": "Kings of Leon",
+   "song": "Sex on Fire",
+   "genre": "rock"
+ },
+ {
+   "artist": "Drake",
+   "song": "Best I Ever Had",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Kelly Clarkson",
+   "song": "Already Gone",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Miley Cyrus",
+   "song": "Party In The U.S.A.",
+   "genre": "pop"
+ },
+ {
+   "artist": "Jordin Sparks",
+   "song": "Battlefield",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Ne-Yo",
+   "song": "Mad",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Green Day",
+   "song": "21 Guns",
+   "genre": "rock"
+ },
+ {
+   "artist": "Keri Hilson",
+   "song": "Knock You Down",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Taylor Swift",
+   "song": "You Belong With Me",
+   "genre": "pop"
+ },
+ {
+   "artist": "Shinedown",
+   "song": "Second Chance",
+   "genre": "rock, metal"
+ },
+ {
+   "artist": "Asher Roth",
+   "song": "I Love College",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Katy Perry",
+   "song": "Waking Up In Vegas",
+   "genre": "pop"
+ },
+ {
+   "artist": "Kelly Clarkson",
+   "song": "My Life Would Suck Without You",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Mumford & Sons",
+   "song": "Little Lion Man",
+   "genre": "Folk/Acoustic, rock, pop"
+ },
+ {
+   "artist": "The Fray",
+   "song": "You Found Me",
+   "genre": "pop"
+ },
+ {
+   "artist": "Bruno Mars",
+   "song": "Just the Way You Are",
+   "genre": "pop"
+ },
+ {
+   "artist": "Eminem",
+   "song": "Love The Way You Lie",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Lady Gaga",
+   "song": "Bad Romance",
+   "genre": "pop"
+ },
+ {
+   "artist": "Stromae",
+   "song": "Alors on danse - Radio Edit",
+   "genre": "pop"
+ },
+ {
+   "artist": "Kesha",
+   "song": "TiK ToK",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "David Guetta",
+   "song": "Memories (feat. Kid Cudi)",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Taio Cruz",
+   "song": "Dynamite",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Rihanna",
+   "song": "Only Girl (In The World)",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Katy Perry",
+   "song": "California Gurls",
+   "genre": "pop"
+ },
+ {
+   "artist": "Kesha",
+   "song": "Take It Off",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "INNA",
+   "song": "Hot - Play & Win Radio Version",
+   "genre": "pop"
+ },
+ {
+   "artist": "Far East Movement",
+   "song": "Like A G6",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "David Guetta",
+   "song": "Gettin' Over You (feat. Fergie & LMFAO)",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Duck Sauce",
+   "song": "Barbra Streisand - Radio Edit",
+   "genre": "Dance/Electronic"
+ },
+ {
+   "artist": "Lucenzo",
+   "song": "Danza Kuduro (feat. Don Omar)",
+   "genre": "latin"
+ },
+ {
+   "artist": "Rihanna",
+   "song": "Te Amo",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Timbaland",
+   "song": "Carry Out (Featuring Justin Timberlake)",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "DJ Fresh",
+   "song": "Gold Dust - Radio Edit",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Edward Maya",
+   "song": "Stereo Love - Radio Edit",
+   "genre": "pop"
+ },
+ {
+   "artist": "Taio Cruz",
+   "song": "Break Your Heart",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Black Eyed Peas",
+   "song": "Imma Be",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Sidney Samson",
+   "song": "Riverside",
+   "genre": "Dance/Electronic"
+ },
+ {
+   "artist": "Eminem",
+   "song": "Not Afraid",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Lady Gaga",
+   "song": "Alejandro",
+   "genre": "pop"
+ },
+ {
+   "artist": "Rihanna",
+   "song": "Rude Boy",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Ne-Yo",
+   "song": "Beautiful Monster",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "3OH!3",
+   "song": "Starstrukk",
+   "genre": "hip hop, pop, rock"
+ },
+ {
+   "artist": "Black Eyed Peas",
+   "song": "The Time (Dirty Bit)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Kelly Rowland",
+   "song": "Commander",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Swedish House Mafia",
+   "song": "One (Your Name) - Radio Edit",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Chris Brown",
+   "song": "Deuces (feat. Tyga & Kevin McCall)",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Usher",
+   "song": "DJ Got Us Fallin' In Love (feat. Pitbull)",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Iyaz",
+   "song": "Replay",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Flo Rida",
+   "song": "Club Can't Handle Me (feat. David Guetta)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Sean Kingston",
+   "song": "Eenie Meenie",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Waka Flocka Flame",
+   "song": "No Hands (feat. Roscoe Dash & Wale)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Tinie Tempah",
+   "song": "Written in the Stars (feat. Eric Turner)",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Bruno Mars",
+   "song": "Talking to the Moon",
+   "genre": "pop"
+ },
+ {
+   "artist": "Miley Cyrus",
+   "song": "Can't Be Tamed",
+   "genre": "pop"
+ },
+ {
+   "artist": "Mike Posner",
+   "song": "Cooler Than Me - Single Mix",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Lady Gaga",
+   "song": "Telephone",
+   "genre": "pop"
+ },
+ {
+   "artist": "Yolanda Be Cool",
+   "song": "We No Speak Americano (JT Radio Edit)",
+   "genre": "Dance/Electronic"
+ },
+ {
+   "artist": "Rihanna",
+   "song": "Hard",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Tinie Tempah",
+   "song": "Pass Out",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Adam Lambert",
+   "song": "Whataya Want from Me",
+   "genre": "pop"
+ },
+ {
+   "artist": "Trey Songz",
+   "song": "Bottoms Up (feat. Nicki Minaj)",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Timbaland",
+   "song": "If We Ever Meet Again (Featuring Katy Perry)",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Enrique Iglesias",
+   "song": "I Like It",
+   "genre": "pop, latin"
+ },
+ {
+   "artist": "Tim Berg",
+   "song": "Seek Bromance - Avicii?�?s Vocal Edit",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Usher",
+   "song": "OMG (feat. will.i.am)",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Maroon 5",
+   "song": "Misery",
+   "genre": "pop"
+ },
+ {
+   "artist": "Jay Sean",
+   "song": "Down",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Rihanna",
+   "song": "Man Down",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "3OH!3",
+   "song": "My First Kiss (feat. Ke$ha)",
+   "genre": "hip hop, pop, rock"
+ },
+ {
+   "artist": "Justin Bieber",
+   "song": "Baby",
+   "genre": "pop"
+ },
+ {
+   "artist": "Cali Swag District",
+   "song": "Teach Me How to Dougie",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Swedish House Mafia",
+   "song": "Miami 2 Ibiza - Swedish House Mafia vs. Tinie Tempah",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "K'NAAN",
+   "song": "Wavin' Flag",
+   "genre": "set()"
+ },
+ {
+   "artist": "Ludacris",
+   "song": "How Low",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Kesha",
+   "song": "Blah Blah Blah (feat. 3OH!3)",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "DJ Khaled",
+   "song": "All I Do Is Win (feat. T-Pain, Ludacris, Snoop Dogg & Rick Ross)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Jason Derulo",
+   "song": "In My Head",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Aloe Blacc",
+   "song": "I Need A Dollar",
+   "genre": "R&B"
+ },
+ {
+   "artist": "B.o.B",
+   "song": "Airplanes (feat. Hayley Williams of Paramore)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Ludacris",
+   "song": "My Chick Bad",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Nelly",
+   "song": "Just A Dream",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Rihanna",
+   "song": "What's My Name?",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Shontelle",
+   "song": "Impossible",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Take That",
+   "song": "The Flood",
+   "genre": "pop"
+ },
+ {
+   "artist": "Trey Songz",
+   "song": "Say Aah (feat. Fabolous)",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Jason Derulo",
+   "song": "Whatcha Say",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Drake",
+   "song": "Over",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Example",
+   "song": "Kickstarts",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Plan B",
+   "song": "She Said",
+   "genre": "Dance/Electronic"
+ },
+ {
+   "artist": "The Saturdays",
+   "song": "Higher",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Jay Sean",
+   "song": "Do You Remember",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Usher",
+   "song": "Hey Daddy (Daddy's Home)",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Lil Wayne",
+   "song": "Right Above It",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "The Wanted",
+   "song": "All Time Low",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Kesha",
+   "song": "Your Love Is My Drug",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Ellie Goulding",
+   "song": "Starry Eyed",
+   "genre": "pop, rock, Dance/Electronic"
+ },
+ {
+   "artist": "Drake",
+   "song": "Find Your Love",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Jason Derulo",
+   "song": "Ridin' Solo",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Two Door Cinema Club",
+   "song": "What You Know",
+   "genre": "World/Traditional, rock, pop"
+ },
+ {
+   "artist": "JAY-Z",
+   "song": "Young Forever",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Young Money",
+   "song": "BedRock",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "B.o.B",
+   "song": "Nothin' on You (feat. Bruno Mars)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Katy Perry",
+   "song": "Teenage Dream",
+   "genre": "pop"
+ },
+ {
+   "artist": "Scouting For Girls",
+   "song": "This Ain't a Love Song",
+   "genre": "pop, rock"
+ },
+ {
+   "artist": "Travie McCoy",
+   "song": "Billionaire (feat. Bruno Mars)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Owl City",
+   "song": "Fireflies",
+   "genre": "rock, pop"
+ },
+ {
+   "artist": "Alicia Keys",
+   "song": "Empire State of Mind (Part II) Broken Down",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Lady A",
+   "song": "Need You Now",
+   "genre": "pop, country"
+ },
+ {
+   "artist": "Taylor Swift",
+   "song": "Back To December",
+   "genre": "pop"
+ },
+ {
+   "artist": "Neon Trees",
+   "song": "Animal",
+   "genre": "rock, pop"
+ },
+ {
+   "artist": "Kris Allen",
+   "song": "Live Like We're Dying",
+   "genre": "pop"
+ },
+ {
+   "artist": "Matt Cardle",
+   "song": "When We Collide",
+   "genre": "pop"
+ },
+ {
+   "artist": "Robyn",
+   "song": "Dancing On My Own",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "The Band Perry",
+   "song": "If I Die Young",
+   "genre": "country"
+ },
+ {
+   "artist": "B.o.B",
+   "song": "Magic (feat. Rivers Cuomo)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Adele",
+   "song": "Rolling in the Deep",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Maroon 5",
+   "song": "Moves Like Jagger - Studio Recording From \"The Voice\" Performance",
+   "genre": "pop"
+ },
+ {
+   "artist": "LMFAO",
+   "song": "Party Rock Anthem",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Katy Perry",
+   "song": "Firework",
+   "genre": "pop"
+ },
+ {
+   "artist": "Bruno Mars",
+   "song": "Grenade",
+   "genre": "pop"
+ },
+ {
+   "artist": "Pitbull",
+   "song": "Hey Baby (Drop It to the Floor) (feat. T-Pain)",
+   "genre": "hip hop, pop, latin"
+ },
+ {
+   "artist": "Alexandra Stan",
+   "song": "Mr. Saxobeat",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "David Guetta",
+   "song": "Who's That Chick? (feat. Rihanna)",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Jennifer Lopez",
+   "song": "On The Floor",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Rihanna",
+   "song": "S&M",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Kesha",
+   "song": "Blow",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Snoop Dogg",
+   "song": "Sweat - Remix",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Taio Cruz",
+   "song": "Higher",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Usher",
+   "song": "More - RedOne Jimmy Joker Remix",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Example",
+   "song": "Changed the Way You Kiss Me - Radio Edit",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Black Eyed Peas",
+   "song": "Just Can?�?t Get Enough",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "David Guetta",
+   "song": "Where Them Girls At (feat. Nicki Minaj & Flo Rida)",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Lykke Li",
+   "song": "I Follow Rivers - The Magician Remix",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Pitbull",
+   "song": "Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)",
+   "genre": "hip hop, pop, latin"
+ },
+ {
+   "artist": "Selena Gomez & The Scene",
+   "song": "Love You Like A Love Song",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Wiz Khalifa",
+   "song": "Black and Yellow",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Katy Perry",
+   "song": "E.T.",
+   "genre": "pop"
+ },
+ {
+   "artist": "Britney Spears",
+   "song": "I Wanna Go",
+   "genre": "pop"
+ },
+ {
+   "artist": "Gym Class Heroes",
+   "song": "Stereo Hearts (feat. Adam Levine)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Edward Maya",
+   "song": "Stereo Love - Radio Edit",
+   "genre": "pop"
+ },
+ {
+   "artist": "Enrique Iglesias",
+   "song": "Tonight (I'm Fuckin' You)",
+   "genre": "pop, latin"
+ },
+ {
+   "artist": "Jeremih",
+   "song": "Down On Me",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Sak Noel",
+   "song": "Loca People - Radio Edit",
+   "genre": "Dance/Electronic"
+ },
+ {
+   "artist": "Olly Murs",
+   "song": "Heart Skips a Beat (feat. Rizzle Kicks)",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "LMFAO",
+   "song": "Sexy And I Know It",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Cobra Starship",
+   "song": "You Make Me Feel... (feat. Sabi)",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Jessie J",
+   "song": "Do It Like A Dude",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "DJ Fresh",
+   "song": "Louder (feat. Sian Evans) - Radio Edit",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Waka Flocka Flame",
+   "song": "No Hands (feat. Roscoe Dash & Wale)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Nickelback",
+   "song": "When We Stand Together",
+   "genre": "rock, metal"
+ },
+ {
+   "artist": "M83",
+   "song": "Midnight City",
+   "genre": "rock, pop, metal, Dance/Electronic"
+ },
+ {
+   "artist": "Britney Spears",
+   "song": "Till the World Ends",
+   "genre": "pop"
+ },
+ {
+   "artist": "Labrinth",
+   "song": "Earthquake (feat. Tinie Tempah)",
+   "genre": "pop"
+ },
+ {
+   "artist": "Jason Derulo",
+   "song": "Don't Wanna Go Home",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Coldplay",
+   "song": "Paradise",
+   "genre": "rock, pop"
+ },
+ {
+   "artist": "Katy Perry",
+   "song": "Last Friday Night (T.G.I.F.)",
+   "genre": "pop"
+ },
+ {
+   "artist": "Adele",
+   "song": "Set Fire to the Rain",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Dr. Dre",
+   "song": "I Need A Doctor",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Lil Wayne",
+   "song": "6 Foot 7 Foot",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "DJ Khaled",
+   "song": "I'm On One",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Chris Brown",
+   "song": "Look At Me Now (feat. Lil' Wayne & Busta Rhymes)",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Far East Movement",
+   "song": "Rocketeer",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "The Wanted",
+   "song": "Glad You Came",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Kesha",
+   "song": "We R Who We R",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Kelly Rowland",
+   "song": "Motivation",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Rihanna",
+   "song": "We Found Love",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Nicole Scherzinger",
+   "song": "Don't Hold Your Breath",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Mann",
+   "song": "Buzzin Remix",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Chris Brown",
+   "song": "Yeah 3x",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Swedish House Mafia",
+   "song": "Save The World",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Kanye West",
+   "song": "All Of The Lights",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Miguel",
+   "song": "Sure Thing",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Diddy - Dirty Money",
+   "song": "Coming Home",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Rihanna",
+   "song": "What's My Name?",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Chris Brown",
+   "song": "Beautiful People",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Avril Lavigne",
+   "song": "What the Hell",
+   "genre": "pop"
+ },
+ {
+   "artist": "Professor Green",
+   "song": "Read All About It",
+   "genre": "Dance/Electronic"
+ },
+ {
+   "artist": "Chase & Status",
+   "song": "Blind Faith",
+   "genre": "Dance/Electronic"
+ },
+ {
+   "artist": "Chip",
+   "song": "Champion (feat. Chris Brown)",
+   "genre": "hip hop, Dance/Electronic"
+ },
+ {
+   "artist": "Selena Gomez & The Scene",
+   "song": "Who Says",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Rizzle Kicks",
+   "song": "Down With The Trumpets",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Lady Gaga",
+   "song": "Born This Way",
+   "genre": "pop"
+ },
+ {
+   "artist": "Nicki Minaj",
+   "song": "Super Bass",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Mac Miller",
+   "song": "Donald Trump",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Calvin Harris",
+   "song": "Bounce (feat. Kelis) - Radio Edit",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "David Guetta",
+   "song": "Without You (feat. Usher)",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Foster The People",
+   "song": "Pumped Up Kicks",
+   "genre": "rock, pop"
+ },
+ {
+   "artist": "Drake",
+   "song": "Headlines",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Jessie J",
+   "song": "Price Tag",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Jason Aldean",
+   "song": "Dirt Road Anthem",
+   "genre": "country"
+ },
+ {
+   "artist": "Wiz Khalifa",
+   "song": "Roll Up",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "OneRepublic",
+   "song": "Good Life",
+   "genre": "pop"
+ },
+ {
+   "artist": "Bad Meets Evil",
+   "song": "Lighters",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Bruno Mars",
+   "song": "The Lazy Song",
+   "genre": "pop"
+ },
+ {
+   "artist": "Lupe Fiasco",
+   "song": "The Show Goes On",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "James Morrison",
+   "song": "I Won't Let You Go",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Jason Derulo",
+   "song": "It Girl",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Adele",
+   "song": "Someone Like You",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Red Hot Chili Peppers",
+   "song": "The Adventures of Rain Dance Maggie",
+   "genre": "rock"
+ },
+ {
+   "artist": "Keri Hilson",
+   "song": "Pretty Girl Rock",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "P!nk",
+   "song": "F**kin' Perfect",
+   "genre": "pop"
+ },
+ {
+   "artist": "Blake Shelton",
+   "song": "Honey Bee",
+   "genre": "country"
+ },
+ {
+   "artist": "Lady Gaga",
+   "song": "The Edge Of Glory",
+   "genre": "pop"
+ },
+ {
+   "artist": "Lady A",
+   "song": "Just A Kiss",
+   "genre": "pop, country"
+ },
+ {
+   "artist": "Hot Chelle Rae",
+   "song": "Tonight Tonight",
+   "genre": "hip hop, pop, rock"
+ },
+ {
+   "artist": "Grouplove",
+   "song": "Tongue Tied",
+   "genre": "pop, rock, Folk/Acoustic"
+ },
+ {
+   "artist": "Coldplay",
+   "song": "Every Teardrop Is a Waterfall",
+   "genre": "rock, pop"
+ },
+ {
+   "artist": "Beyonc??",
+   "song": "Best Thing I Never Had",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "P!nk",
+   "song": "Raise Your Glass",
+   "genre": "pop"
+ },
+ {
+   "artist": "Christina Perri",
+   "song": "Jar of Hearts",
+   "genre": "pop"
+ },
+ {
+   "artist": "Bruno Mars",
+   "song": "Marry You",
+   "genre": "pop"
+ },
+ {
+   "artist": "The Band Perry",
+   "song": "If I Die Young",
+   "genre": "country"
+ },
+ {
+   "artist": "Lil Wayne",
+   "song": "How To Love",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Charlene Soraia",
+   "song": "Wherever You Will Go",
+   "genre": "pop"
+ },
+ {
+   "artist": "Christina Perri",
+   "song": "A Thousand Years",
+   "genre": "pop"
+ },
+ {
+   "artist": "Rihanna",
+   "song": "We Found Love",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Carly Rae Jepsen",
+   "song": "Call Me Maybe",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "fun.",
+   "song": "We Are Young (feat. Janelle Mon??e)",
+   "genre": "rock, pop"
+ },
+ {
+   "artist": "Sean Paul",
+   "song": "She Doesn't Mind",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Pitbull",
+   "song": "International Love (feat. Chris Brown)",
+   "genre": "hip hop, pop, latin"
+ },
+ {
+   "artist": "DEV",
+   "song": "In The Dark",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Adele",
+   "song": "Skyfall",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "David Guetta",
+   "song": "Turn Me On (feat. Nicki Minaj)",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Rihanna",
+   "song": "Where Have You Been",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "JAY-Z",
+   "song": "Ni**as In Paris",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Maroon 5",
+   "song": "One More Night",
+   "genre": "pop"
+ },
+ {
+   "artist": "Skrillex",
+   "song": "Bangarang (feat. Sirah)",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "The Wanted",
+   "song": "Chasing The Sun",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Flo Rida",
+   "song": "Whistle",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "will.i.am",
+   "song": "This Is Love",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "David Guetta",
+   "song": "She Wolf (Falling to Pieces) [feat. Sia]",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Nicki Minaj",
+   "song": "Pound The Alarm",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Kendrick Lamar",
+   "song": "Swimming Pools (Drank) - Extended Version",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "MARINA",
+   "song": "Primadonna",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Kanye West",
+   "song": "Mercy",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "DJ Fresh",
+   "song": "Hot Right Now (feat. RITA ORA) - Radio Edit",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "LMFAO",
+   "song": "Sexy And I Know It",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "PSY",
+   "song": "Gangnam Style (???????????�???)",
+   "genre": "pop"
+ },
+ {
+   "artist": "Kesha",
+   "song": "Die Young",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Usher",
+   "song": "Scream",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Olly Murs",
+   "song": "Troublemaker (feat. Flo Rida)",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Linkin Park",
+   "song": "BURN IT DOWN",
+   "genre": "rock, metal"
+ },
+ {
+   "artist": "Bruno Mars",
+   "song": "Locked out of Heaven",
+   "genre": "pop"
+ },
+ {
+   "artist": "Avicii",
+   "song": "Levels - Radio Edit",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Flo Rida",
+   "song": "Good Feeling",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Rihanna",
+   "song": "Diamonds",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Wiz Khalifa",
+   "song": "Work Hard, Play Hard",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Katy Perry",
+   "song": "Part Of Me",
+   "genre": "pop"
+ },
+ {
+   "artist": "Nicki Minaj",
+   "song": "Starships",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Kendrick Lamar",
+   "song": "m.A.A.d city",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Asaf Avidan & the Mojos",
+   "song": "One Day / Reckoning Song (Wankelmut Remix) [Radio Edit]",
+   "genre": "pop"
+ },
+ {
+   "artist": "Florence + The Machine",
+   "song": "Spectrum (Say My Name) - Calvin Harris Remix",
+   "genre": "rock, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Azealia Banks",
+   "song": "212",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Maroon 5",
+   "song": "Payphone",
+   "genre": "pop"
+ },
+ {
+   "artist": "James Arthur",
+   "song": "Impossible",
+   "genre": "pop"
+ },
+ {
+   "artist": "Michel Tel??",
+   "song": "Ai Se Eu Te Pego - Live",
+   "genre": "country, latin"
+ },
+ {
+   "artist": "Otto Knows",
+   "song": "Million Voices - Radio Edit",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Icona Pop",
+   "song": "I Love It",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Tyga",
+   "song": "Rack City",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Calvin Harris",
+   "song": "Feel So Close - Radio Edit",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Jennifer Lopez",
+   "song": "Dance Again",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Grimes",
+   "song": "Oblivion",
+   "genre": "pop, rock, Dance/Electronic"
+ },
+ {
+   "artist": "Adele",
+   "song": "Rumour Has It",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Coldplay",
+   "song": "Paradise",
+   "genre": "rock, pop"
+ },
+ {
+   "artist": "Chris Brown",
+   "song": "Turn Up the Music",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Frank Ocean",
+   "song": "Lost",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Calvin Harris",
+   "song": "Let's Go (feat. Ne-Yo)",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "The Script",
+   "song": "Hall of Fame (feat. will.i.am)",
+   "genre": "pop, rock"
+ },
+ {
+   "artist": "Swedish House Mafia",
+   "song": "Don't You Worry Child - Radio Edit",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "MARINA",
+   "song": "How to Be a Heartbreaker",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Justin Bieber",
+   "song": "Boyfriend",
+   "genre": "pop"
+ },
+ {
+   "artist": "David Guetta",
+   "song": "Titanium (feat. Sia)",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Jessie J",
+   "song": "Domino",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Taylor Swift",
+   "song": "I Knew You Were Trouble.",
+   "genre": "pop"
+ },
+ {
+   "artist": "ScHoolboy Q",
+   "song": "Hands on the Wheel (feat. Asap Rocky)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "P!nk",
+   "song": "Try",
+   "genre": "pop"
+ },
+ {
+   "artist": "Robbie Williams",
+   "song": "Candy",
+   "genre": "pop, rock"
+ },
+ {
+   "artist": "Snoop Dogg",
+   "song": "Young, Wild & Free (feat. Bruno Mars)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Justin Bieber",
+   "song": "As Long As You Love Me",
+   "genre": "pop"
+ },
+ {
+   "artist": "Rita Ora",
+   "song": "R.I.P. (feat. Tinie Tempah)",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Alex Clare",
+   "song": "Too Close",
+   "genre": "rock"
+ },
+ {
+   "artist": "Tyga",
+   "song": "Faded",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Alesso",
+   "song": "Years - ???????????????????????????",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Guy Sebastian",
+   "song": "Battle Scars (feat. Lupe Fiasco)",
+   "genre": "pop"
+ },
+ {
+   "artist": "Katy Perry",
+   "song": "The One That Got Away",
+   "genre": "pop"
+ },
+ {
+   "artist": "Avicii",
+   "song": "Silhouettes - Original Radio Edit",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Gotye",
+   "song": "Somebody That I Used To Know",
+   "genre": "set()"
+ },
+ {
+   "artist": "Flo Rida",
+   "song": "Wild Ones (feat. Sia)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "One Direction",
+   "song": "What Makes You Beautiful",
+   "genre": "pop"
+ },
+ {
+   "artist": "Lana Del Rey",
+   "song": "Born To Die",
+   "genre": "pop"
+ },
+ {
+   "artist": "Kesha",
+   "song": "C'Mon",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Owl City",
+   "song": "Good Time",
+   "genre": "rock, pop"
+ },
+ {
+   "artist": "Calvin Harris",
+   "song": "We'll Be Coming Back (feat. Example)",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Emeli Sand??",
+   "song": "Read All About It, Pt. III",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Ellie Goulding",
+   "song": "Lights - Single Version",
+   "genre": "pop, rock, Dance/Electronic"
+ },
+ {
+   "artist": "Train",
+   "song": "Drive By",
+   "genre": "pop"
+ },
+ {
+   "artist": "Disclosure",
+   "song": "Latch",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Coldplay",
+   "song": "Princess of China",
+   "genre": "rock, pop"
+ },
+ {
+   "artist": "One Direction",
+   "song": "Live While We're Young",
+   "genre": "pop"
+ },
+ {
+   "artist": "Gym Class Heroes",
+   "song": "Ass Back Home (feat. Neon Hitch)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Carrie Underwood",
+   "song": "Blown Away",
+   "genre": "pop, country"
+ },
+ {
+   "artist": "alt-J",
+   "song": "Breezeblocks",
+   "genre": "rock"
+ },
+ {
+   "artist": "Chris Brown",
+   "song": "Don't Wake Me Up",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Kelly Clarkson",
+   "song": "Stronger (What Doesn't Kill You)",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Drake",
+   "song": "The Motto",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Katy Perry",
+   "song": "Wide Awake",
+   "genre": "pop"
+ },
+ {
+   "artist": "Rita Ora",
+   "song": "How We Do (Party)",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Rudimental",
+   "song": "Feel the Love (feat. John Newman)",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Lana Del Rey",
+   "song": "Ride",
+   "genre": "pop"
+ },
+ {
+   "artist": "Ne-Yo",
+   "song": "Let Me Love You (Until You Learn To Love Yourself)",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Demi Lovato",
+   "song": "Give Your Heart a Break",
+   "genre": "pop"
+ },
+ {
+   "artist": "Drake",
+   "song": "Take Care",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Little Mix",
+   "song": "Wings",
+   "genre": "pop"
+ },
+ {
+   "artist": "Bruno Mars",
+   "song": "It Will Rain",
+   "genre": "pop"
+ },
+ {
+   "artist": "Cher Lloyd",
+   "song": "Want U Back",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Lorde",
+   "song": "Royals",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Robin Thicke",
+   "song": "Blurred Lines",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Imagine Dragons",
+   "song": "Radioactive",
+   "genre": "rock"
+ },
+ {
+   "artist": "Avicii",
+   "song": "Wake Me Up",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Bruno Mars",
+   "song": "Locked out of Heaven",
+   "genre": "pop"
+ },
+ {
+   "artist": "Macklemore & Ryan Lewis",
+   "song": "Thrift Shop (feat. Wanz)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Daft Punk",
+   "song": "Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit",
+   "genre": "hip hop, Dance/Electronic"
+ },
+ {
+   "artist": "will.i.am",
+   "song": "Scream & Shout",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Stromae",
+   "song": "Papaoutai",
+   "genre": "pop"
+ },
+ {
+   "artist": "Bingo Players",
+   "song": "Get Up (Rattle) - Vocal Edit",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Naughty Boy",
+   "song": "La La La",
+   "genre": "Dance/Electronic"
+ },
+ {
+   "artist": "Tom Odell",
+   "song": "Another Love",
+   "genre": "pop"
+ },
+ {
+   "artist": "2 Chainz",
+   "song": "We Own It (Fast & Furious)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "David Guetta",
+   "song": "Play Hard (feat. Ne-Yo & Akon)",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Pitbull",
+   "song": "Feel This Moment (feat. Christina Aguilera)",
+   "genre": "hip hop, pop, latin"
+ },
+ {
+   "artist": "will.i.am",
+   "song": "#thatPOWER",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Lil Wayne",
+   "song": "Love Me",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Macklemore & Ryan Lewis",
+   "song": "Can't Hold Us (feat. Ray Dalton)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Martin Garrix",
+   "song": "Animals - Radio Edit",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Jason Derulo",
+   "song": "Talk Dirty (feat. 2 Chainz)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "John Newman",
+   "song": "Love Me Again",
+   "genre": "set()"
+ },
+ {
+   "artist": "Britney Spears",
+   "song": "Work B**ch",
+   "genre": "pop"
+ },
+ {
+   "artist": "The Neighbourhood",
+   "song": "Sweater Weather",
+   "genre": "rock, pop"
+ },
+ {
+   "artist": "Sebastian Ingrosso",
+   "song": "Reload - Radio Edit",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Capital Cities",
+   "song": "Safe And Sound",
+   "genre": "pop"
+ },
+ {
+   "artist": "Demi Lovato",
+   "song": "Heart Attack",
+   "genre": "pop"
+ },
+ {
+   "artist": "Arctic Monkeys",
+   "song": "Why'd You Only Call Me When You're High?",
+   "genre": "rock"
+ },
+ {
+   "artist": "Justin Bieber",
+   "song": "Beauty And A Beat",
+   "genre": "pop"
+ },
+ {
+   "artist": "Eminem",
+   "song": "The Monster",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Pitbull",
+   "song": "Don't Stop the Party (feat. TJR)",
+   "genre": "hip hop, pop, latin"
+ },
+ {
+   "artist": "Selena Gomez",
+   "song": "Come & Get It",
+   "genre": "pop"
+ },
+ {
+   "artist": "P!nk",
+   "song": "True Love (feat. Lily Allen)",
+   "genre": "pop"
+ },
+ {
+   "artist": "Disclosure",
+   "song": "White Noise",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Flo Rida",
+   "song": "I Cry",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Kanye West",
+   "song": "Black Skinhead",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Lana Del Rey",
+   "song": "Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix",
+   "genre": "pop"
+ },
+ {
+   "artist": "Eminem",
+   "song": "Berzerk",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Icona Pop",
+   "song": "I Love It (feat. Charli XCX)",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Fall Out Boy",
+   "song": "My Songs Know What You Did In The Dark (Light Em Up)",
+   "genre": "rock"
+ },
+ {
+   "artist": "Lorde",
+   "song": "Team",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Avicii",
+   "song": "I Could Be The One (Avicii Vs. Nicky Romero) - Radio Edit",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Imagine Dragons",
+   "song": "Demons",
+   "genre": "rock"
+ },
+ {
+   "artist": "One Direction",
+   "song": "One Way or Another (Teenage Kicks)",
+   "genre": "pop"
+ },
+ {
+   "artist": "Taylor Swift",
+   "song": "I Knew You Were Trouble.",
+   "genre": "pop"
+ },
+ {
+   "artist": "Arctic Monkeys",
+   "song": "Do I Wanna Know?",
+   "genre": "rock"
+ },
+ {
+   "artist": "Rudimental",
+   "song": "Waiting All Night (feat. Ella Eyre)",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Klangkarussell",
+   "song": "Sonnentanz - Sun Don't Shine",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Calvin Harris",
+   "song": "Drinking from the Bottle (feat. Tinie Tempah)",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "A$AP Rocky",
+   "song": "F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar)",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "P!nk",
+   "song": "Try",
+   "genre": "pop"
+ },
+ {
+   "artist": "Ylvis",
+   "song": "The Fox (What Does the Fox Say?)",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Ellie Goulding",
+   "song": "Burn",
+   "genre": "pop, rock, Dance/Electronic"
+ },
+ {
+   "artist": "Baauer",
+   "song": "Harlem Shake",
+   "genre": "Dance/Electronic"
+ },
+ {
+   "artist": "Calvin Harris",
+   "song": "I Need Your Love (feat. Ellie Goulding)",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Katy Perry",
+   "song": "This Is How We Do",
+   "genre": "pop"
+ },
+ {
+   "artist": "AWOLNATION",
+   "song": "Sail",
+   "genre": "pop, rock"
+ },
+ {
+   "artist": "Duke Dumont",
+   "song": "Need U (100%) [feat. A*M*E] - Radio Edit",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Jason Derulo",
+   "song": "The Other Side",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Storm Queen",
+   "song": "Look Right Through - MK Vocal Edit",
+   "genre": "Dance/Electronic"
+ },
+ {
+   "artist": "Calvin Harris",
+   "song": "Sweet Nothing (feat. Florence Welch)",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Katy Perry",
+   "song": "Unconditionally",
+   "genre": "pop"
+ },
+ {
+   "artist": "Wale",
+   "song": "Bad (feat. Rihanna) - Remix",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Ciara",
+   "song": "Body Party",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Drake",
+   "song": "Started From the Bottom",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Birdy",
+   "song": "Wings",
+   "genre": "pop"
+ },
+ {
+   "artist": "Bastille",
+   "song": "Of The Night",
+   "genre": "pop, rock"
+ },
+ {
+   "artist": "Olly Murs",
+   "song": "Dear Darlin'",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Katy Perry",
+   "song": "Roar",
+   "genre": "pop"
+ },
+ {
+   "artist": "Blake Shelton",
+   "song": "Sure Be Cool If You Did",
+   "genre": "country"
+ },
+ {
+   "artist": "Calvin Harris",
+   "song": "Thinking About You (feat. Ayah Marar)",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "JAY-Z",
+   "song": "Holy Grail",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Bridgit Mendler",
+   "song": "Ready or Not",
+   "genre": "pop"
+ },
+ {
+   "artist": "The Saturdays",
+   "song": "What About Us",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Bastille",
+   "song": "Pompeii",
+   "genre": "pop, rock"
+ },
+ {
+   "artist": "One Direction",
+   "song": "Best Song Ever",
+   "genre": "pop"
+ },
+ {
+   "artist": "Nelly",
+   "song": "Hey Porsche",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Zedd",
+   "song": "Clarity",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Miley Cyrus",
+   "song": "Wrecking Ball",
+   "genre": "pop"
+ },
+ {
+   "artist": "Chris Brown",
+   "song": "Fine China",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Daft Punk",
+   "song": "Lose Yourself to Dance (feat. Pharrell Williams)",
+   "genre": "hip hop, Dance/Electronic"
+ },
+ {
+   "artist": "Armin van Buuren",
+   "song": "This Is What It Feels Like",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Justin Timberlake",
+   "song": "Mirrors",
+   "genre": "pop"
+ },
+ {
+   "artist": "Bruno Mars",
+   "song": "Treasure",
+   "genre": "pop"
+ },
+ {
+   "artist": "Of Monsters and Men",
+   "song": "Little Talks",
+   "genre": "pop, rock, Folk/Acoustic"
+ },
+ {
+   "artist": "Miley Cyrus",
+   "song": "We Can't Stop",
+   "genre": "pop"
+ },
+ {
+   "artist": "J. Cole",
+   "song": "Power Trip (feat. Miguel)",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Paramore",
+   "song": "Still into You",
+   "genre": "pop, rock"
+ },
+ {
+   "artist": "Christina Perri",
+   "song": "human",
+   "genre": "pop"
+ },
+ {
+   "artist": "Drake",
+   "song": "Hold On, We're Going Home",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "James Blunt",
+   "song": "Bonfire Heart",
+   "genre": "pop"
+ },
+ {
+   "artist": "Maroon 5",
+   "song": "Daylight",
+   "genre": "pop"
+ },
+ {
+   "artist": "Childish Gambino",
+   "song": "3005",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Avril Lavigne",
+   "song": "Here's to Never Growing Up",
+   "genre": "pop"
+ },
+ {
+   "artist": "Taylor Swift",
+   "song": "22",
+   "genre": "pop"
+ },
+ {
+   "artist": "Passenger",
+   "song": "Let Her Go",
+   "genre": "pop"
+ },
+ {
+   "artist": "Ariana Grande",
+   "song": "The Way",
+   "genre": "pop"
+ },
+ {
+   "artist": "Rihanna",
+   "song": "Stay",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Justin Timberlake",
+   "song": "Suit & Tie (feat. Jay-Z)",
+   "genre": "pop"
+ },
+ {
+   "artist": "Bruno Mars",
+   "song": "When I Was Your Man",
+   "genre": "pop"
+ },
+ {
+   "artist": "Florida Georgia Line",
+   "song": "Cruise",
+   "genre": "country"
+ },
+ {
+   "artist": "Pharrell Williams",
+   "song": "Happy - From \"Despicable Me 2\"",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Katy Perry",
+   "song": "Dark Horse",
+   "genre": "pop"
+ },
+ {
+   "artist": "ScHoolboy Q",
+   "song": "Collard Greens",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Iggy Azalea",
+   "song": "Fancy",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Maroon 5",
+   "song": "Animals",
+   "genre": "pop"
+ },
+ {
+   "artist": "Sam Smith",
+   "song": "Stay With Me",
+   "genre": "pop"
+ },
+ {
+   "artist": "MAGIC!",
+   "song": "Rude",
+   "genre": "set()"
+ },
+ {
+   "artist": "Sia",
+   "song": "Chandelier",
+   "genre": "pop"
+ },
+ {
+   "artist": "John Legend",
+   "song": "All of Me",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "ZHU",
+   "song": "Faded",
+   "genre": "Dance/Electronic"
+ },
+ {
+   "artist": "Meghan Trainor",
+   "song": "All About That Bass",
+   "genre": "pop"
+ },
+ {
+   "artist": "David Guetta",
+   "song": "Lovers on the Sun (feat. Sam Martin)",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Iggy Azalea",
+   "song": "Black Widow",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Tove Lo",
+   "song": "Habits (Stay High)",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Oliver Heldens",
+   "song": "Gecko (Overdrive) - Radio Edit",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "DJ Snake",
+   "song": "You Know You Like It",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Jason Derulo",
+   "song": "Talk Dirty (feat. 2 Chainz)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Maroon 5",
+   "song": "Maps",
+   "genre": "pop"
+ },
+ {
+   "artist": "David Guetta",
+   "song": "Bad (feat. Vassy) - Radio Edit",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Tinashe",
+   "song": "2 On (feat. ScHoolboy Q)",
+   "genre": "hip hop, pop, R&B, Dance/Electronic"
+ },
+ {
+   "artist": "Route 94",
+   "song": "My Love (feat. Jess Glynne)",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Taylor Swift",
+   "song": "Bad Blood",
+   "genre": "pop"
+ },
+ {
+   "artist": "Trey Songz",
+   "song": "Na Na",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Calvin Harris",
+   "song": "Under Control (feat. Hurts)",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "O.T. Genasis",
+   "song": "CoCo",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Jason Derulo",
+   "song": "Wiggle (feat. Snoop Dogg)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Lilly Wood and The Prick",
+   "song": "Prayer in C - Robin Schulz Radio Edit",
+   "genre": "pop, rock"
+ },
+ {
+   "artist": "Jeremih",
+   "song": "Don't Tell 'Em",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Nicki Minaj",
+   "song": "Anaconda",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Calvin Harris",
+   "song": "Blame (feat. John Newman)",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "DJ Snake",
+   "song": "Turn Down for What",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Pitbull",
+   "song": "Timber (feat. Ke$ha)",
+   "genre": "hip hop, pop, latin"
+ },
+ {
+   "artist": "OneRepublic",
+   "song": "Counting Stars",
+   "genre": "pop"
+ },
+ {
+   "artist": "Bobby Shmurda",
+   "song": "Hot N*gga",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Calvin Harris",
+   "song": "Summer",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "ScHoolboy Q",
+   "song": "Man Of The Year",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Nico & Vinz",
+   "song": "Am I Wrong",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Becky G",
+   "song": "Shower",
+   "genre": "pop, latin"
+ },
+ {
+   "artist": "Sigma",
+   "song": "Nobody To Love - Radio Edit",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "The Chainsmokers",
+   "song": "#SELFIE - Original Mix",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Lorde",
+   "song": "Team",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Rixton",
+   "song": "Me And My Broken Heart",
+   "genre": "pop"
+ },
+ {
+   "artist": "Klingande",
+   "song": "Jubel - Radio Edit",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Mr. Probz",
+   "song": "Waves - Robin Schulz Radio Edit",
+   "genre": "hip hop, Dance/Electronic"
+ },
+ {
+   "artist": "Paloma Faith",
+   "song": "Only Love Can Hurt Like This",
+   "genre": "pop, R&B, Dance/Electronic"
+ },
+ {
+   "artist": "Kiesza",
+   "song": "Hideaway",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Ellie Goulding",
+   "song": "Burn",
+   "genre": "pop, rock, Dance/Electronic"
+ },
+ {
+   "artist": "Ariana Grande",
+   "song": "Break Free",
+   "genre": "pop"
+ },
+ {
+   "artist": "Kid Ink",
+   "song": "Show Me (feat. Chris Brown)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Tove Lo",
+   "song": "Talking Body",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Chris Brown",
+   "song": "Loyal (feat. Lil Wayne & Tyga)",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "OneRepublic",
+   "song": "Love Runs Out",
+   "genre": "pop"
+ },
+ {
+   "artist": "Olly Murs",
+   "song": "Up (feat. Demi Lovato)",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Peking Duk",
+   "song": "High (feat. Nicole Millar)",
+   "genre": "Dance/Electronic"
+ },
+ {
+   "artist": "Milky Chance",
+   "song": "Stolen Dance",
+   "genre": "set()"
+ },
+ {
+   "artist": "Ed Sheeran",
+   "song": "Don't",
+   "genre": "pop"
+ },
+ {
+   "artist": "Ariana Grande",
+   "song": "Love Me Harder",
+   "genre": "pop"
+ },
+ {
+   "artist": "Enrique Iglesias",
+   "song": "Bailando - Spanish Version",
+   "genre": "pop, latin"
+ },
+ {
+   "artist": "Avicii",
+   "song": "Hey Brother",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Jessie J",
+   "song": "Bang Bang",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Duke Dumont",
+   "song": "I Got U",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Gorgon City",
+   "song": "Ready For Your Love",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Taylor Swift",
+   "song": "Style",
+   "genre": "pop"
+ },
+ {
+   "artist": "MKTO",
+   "song": "Classic",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Disclosure",
+   "song": "Latch",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Ariana Grande",
+   "song": "Problem",
+   "genre": "pop"
+ },
+ {
+   "artist": "Charli XCX",
+   "song": "Boom Clap",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "One Direction",
+   "song": "Steal My Girl",
+   "genre": "pop"
+ },
+ {
+   "artist": "Ti??sto",
+   "song": "Red Lights",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Selena Gomez",
+   "song": "The Heart Wants What It Wants",
+   "genre": "pop"
+ },
+ {
+   "artist": "Rita Ora",
+   "song": "I Will Never Let You Down",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "5 Seconds of Summer",
+   "song": "She Looks So Perfect",
+   "genre": "pop"
+ },
+ {
+   "artist": "The Script",
+   "song": "Superheroes",
+   "genre": "pop, rock"
+ },
+ {
+   "artist": "Taylor Swift",
+   "song": "Shake It Off",
+   "genre": "pop"
+ },
+ {
+   "artist": "One Direction",
+   "song": "Night Changes",
+   "genre": "pop"
+ },
+ {
+   "artist": "Ed Sheeran",
+   "song": "Sing",
+   "genre": "pop"
+ },
+ {
+   "artist": "Alesso",
+   "song": "Heroes (we could be)",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Ti??sto",
+   "song": "Wasted",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "G.R.L.",
+   "song": "Ugly Heart",
+   "genre": "pop"
+ },
+ {
+   "artist": "Coldplay",
+   "song": "A Sky Full of Stars",
+   "genre": "rock, pop"
+ },
+ {
+   "artist": "Clean Bandit",
+   "song": "Rather Be (feat. Jess Glynne)",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Zedd",
+   "song": "Stay The Night - Featuring Hayley Williams Of Paramore",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Sia",
+   "song": "Elastic Heart",
+   "genre": "pop"
+ },
+ {
+   "artist": "One Direction",
+   "song": "Story of My Life",
+   "genre": "pop"
+ },
+ {
+   "artist": "Alex & Sierra",
+   "song": "Little Do You Know",
+   "genre": "pop"
+ },
+ {
+   "artist": "Omarion",
+   "song": "Post to Be (feat. Chris Brown & Jhene Aiko)",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Echosmith",
+   "song": "Cool Kids",
+   "genre": "pop"
+ },
+ {
+   "artist": "Natalie La Rose",
+   "song": "Somebody",
+   "genre": "set()"
+ },
+ {
+   "artist": "Vance Joy",
+   "song": "Riptide",
+   "genre": "rock, pop"
+ },
+ {
+   "artist": "Beyonc??",
+   "song": "Drunk in Love (feat. Jay-Z)",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Maroon 5",
+   "song": "Sugar",
+   "genre": "pop"
+ },
+ {
+   "artist": "Ella Henderson",
+   "song": "Ghost",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Ed Sheeran",
+   "song": "I See Fire - From \"The Hobbit - The Desolation Of Smaug\"",
+   "genre": "pop"
+ },
+ {
+   "artist": "Chris Brown",
+   "song": "New Flame (feat. Usher & Rick Ross)",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Sheppard",
+   "song": "Geronimo",
+   "genre": "pop, rock, Dance/Electronic"
+ },
+ {
+   "artist": "Olly Murs",
+   "song": "Wrapped Up (feat. Travie McCoy)",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Sam Smith",
+   "song": "Money On My Mind",
+   "genre": "pop"
+ },
+ {
+   "artist": "Jason Derulo",
+   "song": "Trumpets",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Nicki Minaj",
+   "song": "Bed Of Lies",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Nick Jonas",
+   "song": "Jealous - Remix",
+   "genre": "pop"
+ },
+ {
+   "artist": "Mark Ronson",
+   "song": "Uptown Funk (feat. Bruno Mars)",
+   "genre": "pop"
+ },
+ {
+   "artist": "Ed Sheeran",
+   "song": "Thinking out Loud",
+   "genre": "pop"
+ },
+ {
+   "artist": "Wiz Khalifa",
+   "song": "See You Again (feat. Charlie Puth)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Justin Bieber",
+   "song": "What Do You Mean?",
+   "genre": "pop"
+ },
+ {
+   "artist": "Major Lazer",
+   "song": "Lean On (feat. M?? & DJ Snake)",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "The Weeknd",
+   "song": "Earned It (Fifty Shades Of Grey) - From The \"Fifty Shades Of Grey\" Soundtrack",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Ellie Goulding",
+   "song": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
+   "genre": "pop, rock, Dance/Electronic"
+ },
+ {
+   "artist": "Calvin Harris",
+   "song": "Outside (feat. Ellie Goulding)",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "David Guetta",
+   "song": "Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Demi Lovato",
+   "song": "Cool for the Summer",
+   "genre": "pop"
+ },
+ {
+   "artist": "Taylor Swift",
+   "song": "Blank Space",
+   "genre": "pop"
+ },
+ {
+   "artist": "The Weeknd",
+   "song": "The Hills",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "The Neighbourhood",
+   "song": "Daddy Issues",
+   "genre": "rock, pop"
+ },
+ {
+   "artist": "Deorro",
+   "song": "Five More Hours",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Avicii",
+   "song": "The Nights",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "DJ Snake",
+   "song": "You Know You Like It",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Adam Lambert",
+   "song": "Ghost Town",
+   "genre": "pop"
+ },
+ {
+   "artist": "Rae Sremmurd",
+   "song": "No Type",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Taylor Swift",
+   "song": "Bad Blood",
+   "genre": "pop"
+ },
+ {
+   "artist": "Flo Rida",
+   "song": "GDFR (feat. Sage the Gemini & Lookas)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Robin Schulz",
+   "song": "Sugar (feat. Francesco Yates)",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Calvin Harris",
+   "song": "How Deep Is Your Love",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Philip George",
+   "song": "Wish You Were Mine - Radio Edit",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Trey Songz",
+   "song": "Na Na",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Fall Out Boy",
+   "song": "Centuries",
+   "genre": "rock"
+ },
+ {
+   "artist": "Rob $tone",
+   "song": "Chill Bill (feat. J. Davi$ & Spooks)",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Lost Frequencies",
+   "song": "Are You With Me - Radio Edit",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Twenty One Pilots",
+   "song": "Stressed Out",
+   "genre": "rock"
+ },
+ {
+   "artist": "Fifth Harmony",
+   "song": "Worth It (feat. Kid Ink)",
+   "genre": "pop"
+ },
+ {
+   "artist": "KALEO",
+   "song": "Way down We Go",
+   "genre": "rock, classical"
+ },
+ {
+   "artist": "Sam Smith",
+   "song": "Like I Can",
+   "genre": "pop"
+ },
+ {
+   "artist": "Major Lazer",
+   "song": "Light It Up (feat. Nyla & Fuse ODG) - Remix",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Martin Solveig",
+   "song": "Intoxicated - New Radio Mix",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Avicii",
+   "song": "Waiting For Love",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Felix Jaehn",
+   "song": "Ain't Nobody (Loves Me Better) (feat. Jasmine Thompson)",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Taylor Swift",
+   "song": "Wildest Dreams",
+   "genre": "pop"
+ },
+ {
+   "artist": "The Weeknd",
+   "song": "In The Night",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Pitbull",
+   "song": "Time of Our Lives",
+   "genre": "hip hop, pop, latin"
+ },
+ {
+   "artist": "Galantis",
+   "song": "Runaway (U & I)",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Rihanna",
+   "song": "Bitch Better Have My Money",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Zara Larsson",
+   "song": "Lush Life",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "One Direction",
+   "song": "Drag Me Down",
+   "genre": "pop"
+ },
+ {
+   "artist": "Travis Scott",
+   "song": "Antidote",
+   "genre": "hip hop, Dance/Electronic"
+ },
+ {
+   "artist": "Years & Years",
+   "song": "King",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Demi Lovato",
+   "song": "Confident",
+   "genre": "pop"
+ },
+ {
+   "artist": "Lemaitre",
+   "song": "Closer",
+   "genre": "pop"
+ },
+ {
+   "artist": "Selena Gomez",
+   "song": "Same Old Love",
+   "genre": "pop"
+ },
+ {
+   "artist": "Pia Mia",
+   "song": "Do It Again",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Flo Rida",
+   "song": "My House",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Silent??",
+   "song": "Watch Me (Whip / Nae Nae)",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Chris Brown",
+   "song": "Ayo",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "The Strumbellas",
+   "song": "Spirits",
+   "genre": "rock, Folk/Acoustic, pop"
+ },
+ {
+   "artist": "Fetty Wap",
+   "song": "Trap Queen",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Tove Lo",
+   "song": "Talking Body",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Beyonc??",
+   "song": "11-7��",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Lana Del Rey",
+   "song": "High By The Beach",
+   "genre": "pop"
+ },
+ {
+   "artist": "Zara Larsson",
+   "song": "Never Forget You",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Jeremih",
+   "song": "oui",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Drake",
+   "song": "Hotline Bling",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Selena Gomez",
+   "song": "Kill Em With Kindness",
+   "genre": "pop"
+ },
+ {
+   "artist": "Birdy",
+   "song": "Let It All Go",
+   "genre": "pop"
+ },
+ {
+   "artist": "Fetty Wap",
+   "song": "679 (feat. Remy Boyz)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Ariana Grande",
+   "song": "Love Me Harder",
+   "genre": "pop"
+ },
+ {
+   "artist": "The Weeknd",
+   "song": "Can't Feel My Face",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "SAYGRACE",
+   "song": "You Don't Own Me (feat. G-Eazy)",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "X Ambassadors",
+   "song": "Renegades",
+   "genre": "hip hop, rock, pop"
+ },
+ {
+   "artist": "R. City",
+   "song": "Locked Away (feat. Adam Levine)",
+   "genre": "pop"
+ },
+ {
+   "artist": "Kygo",
+   "song": "Stole the Show",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Tame Impala",
+   "song": "The Less I Know The Better",
+   "genre": "metal"
+ },
+ {
+   "artist": "Selena Gomez",
+   "song": "Good For You",
+   "genre": "pop"
+ },
+ {
+   "artist": "Fetty Wap",
+   "song": "My Way (feat. Monty)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Hozier",
+   "song": "Take Me To Church",
+   "genre": "Folk/Acoustic, pop"
+ },
+ {
+   "artist": "Taylor Swift",
+   "song": "Style",
+   "genre": "pop"
+ },
+ {
+   "artist": "Alessia Cara",
+   "song": "Here",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Sam Smith",
+   "song": "Writing's On The Wall - From \"Spectre\" Soundtrack",
+   "genre": "pop"
+ },
+ {
+   "artist": "David Guetta",
+   "song": "Bang My Head (feat. Sia & Fetty Wap)",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Meek Mill",
+   "song": "All Eyes on You (feat. Chris Brown & Nicki Minaj)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Big Sean",
+   "song": "I Don't Fuck With You",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Kygo",
+   "song": "Firestone",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Drake",
+   "song": "Jumpman",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Petit Biscuit",
+   "song": "Sunset Lover",
+   "genre": "Dance/Electronic"
+ },
+ {
+   "artist": "Shawn Mendes",
+   "song": "Stitches",
+   "genre": "pop"
+ },
+ {
+   "artist": "Flo Rida",
+   "song": "I Don't Like It, I Love It (feat. Robin Thicke & Verdine White)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Selena Gomez",
+   "song": "The Heart Wants What It Wants",
+   "genre": "pop"
+ },
+ {
+   "artist": "Jack ??",
+   "song": "Where Are ?? Now (with Justin Bieber)",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Ellie Goulding",
+   "song": "On My Mind",
+   "genre": "pop, rock, Dance/Electronic"
+ },
+ {
+   "artist": "Bryson Tiller",
+   "song": "Don't",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Rich Homie Quan",
+   "song": "Flex (Ooh, Ooh, Ooh)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Joel Adams",
+   "song": "Please Don't Go",
+   "genre": "R&B"
+ },
+ {
+   "artist": "Zedd",
+   "song": "I Want You To Know",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Jonas Blue",
+   "song": "Fast Car",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "B??RNS",
+   "song": "Electric Love",
+   "genre": "rock, pop"
+ },
+ {
+   "artist": "Sigala",
+   "song": "Easy Love",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Justin Bieber",
+   "song": "Sorry",
+   "genre": "pop"
+ },
+ {
+   "artist": "Ariana Grande",
+   "song": "One Last Time",
+   "genre": "pop"
+ },
+ {
+   "artist": "Little Mix",
+   "song": "Black Magic",
+   "genre": "pop"
+ },
+ {
+   "artist": "One Direction",
+   "song": "Perfect",
+   "genre": "pop"
+ },
+ {
+   "artist": "Years & Years",
+   "song": "Shine",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Meghan Trainor",
+   "song": "Lips Are Movin",
+   "genre": "pop"
+ },
+ {
+   "artist": "Nicky Jam",
+   "song": "El Perd??n - Forgiveness",
+   "genre": "latin"
+ },
+ {
+   "artist": "The Weeknd",
+   "song": "Starboy",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Drake",
+   "song": "One Dance",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Justin Bieber",
+   "song": "Love Yourself",
+   "genre": "pop"
+ },
+ {
+   "artist": "The Chainsmokers",
+   "song": "Closer",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Adele",
+   "song": "Hello",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Desiigner",
+   "song": "Panda",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Burak Yeter",
+   "song": "Tuesday (feat. Danelle Sandoval)",
+   "genre": "Dance/Electronic"
+ },
+ {
+   "artist": "Sia",
+   "song": "Cheap Thrills (feat. Sean Paul)",
+   "genre": "pop"
+ },
+ {
+   "artist": "OneRepublic",
+   "song": "Wherever I Go",
+   "genre": "pop"
+ },
+ {
+   "artist": "Rihanna",
+   "song": "Work",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Coldplay",
+   "song": "Hymn for the Weekend",
+   "genre": "rock, pop"
+ },
+ {
+   "artist": "Justin Bieber",
+   "song": "Sorry",
+   "genre": "pop"
+ },
+ {
+   "artist": "Justin Timberlake",
+   "song": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
+   "genre": "pop"
+ },
+ {
+   "artist": "WILLOW",
+   "song": "Wait a Minute!",
+   "genre": "pop, R&B, Dance/Electronic"
+ },
+ {
+   "artist": "Desiigner",
+   "song": "Tiimmy Turner",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "G-Eazy",
+   "song": "Me, Myself & I",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "David Guetta",
+   "song": "This One's for You (feat. Zara Larsson) (Official Song UEFA EURO 2016)",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Astrid S",
+   "song": "Hurts So Good",
+   "genre": "rock, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Lil Wayne",
+   "song": "Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Twenty One Pilots",
+   "song": "Heathens",
+   "genre": "rock"
+ },
+ {
+   "artist": "Future",
+   "song": "Low Life (feat. The Weeknd)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Galantis",
+   "song": "No Money",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "The Chainsmokers",
+   "song": "Don't Let Me Down",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Tinie Tempah",
+   "song": "Girls Like (feat. Zara Larsson)",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Alok",
+   "song": "Hear Me Now",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Jon Bellion",
+   "song": "All Time Low",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Cheat Codes",
+   "song": "Sex",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Meghan Trainor",
+   "song": "NO",
+   "genre": "pop"
+ },
+ {
+   "artist": "Dua Lipa",
+   "song": "Hotter Than Hell",
+   "genre": "pop"
+ },
+ {
+   "artist": "Martin Garrix",
+   "song": "In the Name of Love",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Alan Walker",
+   "song": "Faded",
+   "genre": "Dance/Electronic"
+ },
+ {
+   "artist": "Tove Lo",
+   "song": "Cool Girl",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "DJ Snake",
+   "song": "Let Me Love You",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Calvin Harris",
+   "song": "This Is What You Came For (feat. Rihanna)",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Mike Posner",
+   "song": "I Took A Pill In Ibiza - Seeb Remix",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Kevin Gates",
+   "song": "2 Phones",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Rihanna",
+   "song": "Needed Me",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Ariana Grande",
+   "song": "Side To Side",
+   "genre": "pop"
+ },
+ {
+   "artist": "Marshmello",
+   "song": "Alone",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Shawn Mendes",
+   "song": "I Know What You Did Last Summer",
+   "genre": "pop"
+ },
+ {
+   "artist": "Selena Gomez",
+   "song": "Same Old Love",
+   "genre": "pop"
+ },
+ {
+   "artist": "Calvin Harris",
+   "song": "My Way",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Fitz and The Tantrums",
+   "song": "HandClap",
+   "genre": "pop, rock"
+ },
+ {
+   "artist": "Twenty One Pilots",
+   "song": "Ride",
+   "genre": "rock"
+ },
+ {
+   "artist": "Flo Rida",
+   "song": "My House",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Ariana Grande",
+   "song": "Dangerous Woman",
+   "genre": "pop"
+ },
+ {
+   "artist": "Anne-Marie",
+   "song": "Alarm",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Charlie Puth",
+   "song": "We Don't Talk Anymore (feat. Selena Gomez)",
+   "genre": "pop"
+ },
+ {
+   "artist": "AlunaGeorge",
+   "song": "I'm In Control",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Enrique Iglesias",
+   "song": "DUELE EL CORAZON (feat. Wisin)",
+   "genre": "pop, latin"
+ },
+ {
+   "artist": "MNEK",
+   "song": "Never Forget You",
+   "genre": "Dance/Electronic"
+ },
+ {
+   "artist": "Mike Perry",
+   "song": "The Ocean (feat. Shy Martin)",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Drake",
+   "song": "Hotline Bling",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Ariana Grande",
+   "song": "Into You",
+   "genre": "pop"
+ },
+ {
+   "artist": "Shawn Mendes",
+   "song": "Treat You Better",
+   "genre": "pop"
+ },
+ {
+   "artist": "Tory Lanez",
+   "song": "Say It",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Coldplay",
+   "song": "Adventure of a Lifetime",
+   "genre": "rock, pop"
+ },
+ {
+   "artist": "Kungs",
+   "song": "This Girl - Kungs Vs. Cookin' On 3 Burners",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "SAYGRACE",
+   "song": "You Don't Own Me (feat. G-Eazy)",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "X Ambassadors",
+   "song": "Renegades",
+   "genre": "hip hop, rock, pop"
+ },
+ {
+   "artist": "DNCE",
+   "song": "Cake By The Ocean",
+   "genre": "pop"
+ },
+ {
+   "artist": "99 Souls",
+   "song": "The Girl Is Mine",
+   "genre": "Dance/Electronic"
+ },
+ {
+   "artist": "Illy",
+   "song": "Papercuts (feat. Vera Blue)",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Kiiara",
+   "song": "Gold",
+   "genre": "rock, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Kygo",
+   "song": "Stole the Show",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Fifth Harmony",
+   "song": "Work from Home (feat. Ty Dolla $ign)",
+   "genre": "pop"
+ },
+ {
+   "artist": "Drake",
+   "song": "Pop Style",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "ZAYN",
+   "song": "PILLOWTALK",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Alessia Cara",
+   "song": "Here",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "DJ Snake",
+   "song": "Middle",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Sigala",
+   "song": "Sweet Lovin' - Radio Edit",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Drake",
+   "song": "Jumpman",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Charlie Puth",
+   "song": "Dangerously",
+   "genre": "pop"
+ },
+ {
+   "artist": "Nick Jonas",
+   "song": "Close",
+   "genre": "pop"
+ },
+ {
+   "artist": "Jonas Blue",
+   "song": "Perfect Strangers",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Major Lazer",
+   "song": "Cold Water (feat. Justin Bieber & M??)",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "The Chainsmokers",
+   "song": "Roses",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Tory Lanez",
+   "song": "LUV",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "P!nk",
+   "song": "Just Like Fire (From the Original Motion Picture \"Alice Through The Looking Glass\")",
+   "genre": "pop"
+ },
+ {
+   "artist": "Bryson Tiller",
+   "song": "Don't",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Steve Aoki",
+   "song": "Just Hold On",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Clean Bandit",
+   "song": "Tears (feat. Louisa Johnson)",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Jonas Blue",
+   "song": "Fast Car",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Flume",
+   "song": "Never Be Like You",
+   "genre": "Dance/Electronic"
+ },
+ {
+   "artist": "Bastille",
+   "song": "Good Grief",
+   "genre": "pop, rock"
+ },
+ {
+   "artist": "Sia",
+   "song": "The Greatest (feat. Kendrick Lamar)",
+   "genre": "pop"
+ },
+ {
+   "artist": "PARTYNEXTDOOR",
+   "song": "Not Nice",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Garrett Nash",
+   "song": "i hate u, i love u (feat. olivia o'brien)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Hilltop Hoods",
+   "song": "1955",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Fifth Harmony",
+   "song": "All In My Head (Flex) (feat. Fetty Wap)",
+   "genre": "pop"
+ },
+ {
+   "artist": "Daya",
+   "song": "Sit Still, Look Pretty",
+   "genre": "rock, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Kent Jones",
+   "song": "Don't Mind",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Flume",
+   "song": "Say It",
+   "genre": "Dance/Electronic"
+ },
+ {
+   "artist": "Bryson Tiller",
+   "song": "Exchange",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "M??",
+   "song": "Final Song",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Beyonc??",
+   "song": "Sorry",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Little Mix",
+   "song": "Shout Out to My Ex",
+   "genre": "pop"
+ },
+ {
+   "artist": "The Lumineers",
+   "song": "Ophelia",
+   "genre": "pop, Folk/Acoustic"
+ },
+ {
+   "artist": "Frank Ocean",
+   "song": "Pink + White",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Drake",
+   "song": "Too Good",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Ed Sheeran",
+   "song": "Shape of You",
+   "genre": "pop"
+ },
+ {
+   "artist": "Sean Paul",
+   "song": "No Lie",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Luis Fonsi",
+   "song": "Despacito (Featuring Daddy Yankee)",
+   "genre": "pop, latin"
+ },
+ {
+   "artist": "Sam Smith",
+   "song": "Too Good At Goodbyes",
+   "genre": "pop"
+ },
+ {
+   "artist": "Clean Bandit",
+   "song": "Rockabye (feat. Sean Paul & Anne-Marie)",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Camila Cabello",
+   "song": "Havana (feat. Young Thug)",
+   "genre": "pop"
+ },
+ {
+   "artist": "Imagine Dragons",
+   "song": "Thunder",
+   "genre": "rock"
+ },
+ {
+   "artist": "Maroon 5",
+   "song": "Don't Wanna Know (feat. Kendrick Lamar)",
+   "genre": "pop"
+ },
+ {
+   "artist": "The Chainsmokers",
+   "song": "Something Just Like This",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Ed Sheeran",
+   "song": "Perfect",
+   "genre": "pop"
+ },
+ {
+   "artist": "MGMT",
+   "song": "Little Dark Age",
+   "genre": "rock"
+ },
+ {
+   "artist": "Travis Scott",
+   "song": "goosebumps",
+   "genre": "hip hop, Dance/Electronic"
+ },
+ {
+   "artist": "Billie Eilish",
+   "song": "Bored",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Future",
+   "song": "Mask Off",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "G-Eazy",
+   "song": "Him & I",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Maroon 5",
+   "song": "Cold (feat. Future)",
+   "genre": "pop"
+ },
+ {
+   "artist": "Rae Sremmurd",
+   "song": "Swang",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Lil Peep",
+   "song": "Save That Shit",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "A$AP Ferg",
+   "song": "Plain Jane",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "French Montana",
+   "song": "Unforgettable",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "21 Savage",
+   "song": "Bank Account",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Axwell /\\ Ingrosso",
+   "song": "More Than You Know",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "ZAYN",
+   "song": "Dusk Till Dawn (feat. Sia) - Radio Edit",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "J Balvin",
+   "song": "Mi Gente",
+   "genre": "latin"
+ },
+ {
+   "artist": "Jax Jones",
+   "song": "You Don't Know Me - Radio Edit",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Rae Sremmurd",
+   "song": "Black Beatles",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Zara Larsson",
+   "song": "Ain't My Fault",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Travis Scott",
+   "song": "BUTTERFLY EFFECT",
+   "genre": "hip hop, Dance/Electronic"
+ },
+ {
+   "artist": "Ayo & Teo",
+   "song": "Rolex",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Lil Uzi Vert",
+   "song": "XO Tour Llif3",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Imagine Dragons",
+   "song": "Whatever It Takes",
+   "genre": "rock"
+ },
+ {
+   "artist": "Rob $tone",
+   "song": "Chill Bill (feat. J. Davi$ & Spooks)",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Jason Derulo",
+   "song": "Swalla (feat. Nicki Minaj & Ty Dolla $ign)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "G-Eazy",
+   "song": "No Limit",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Playboi Carti",
+   "song": "Magnolia",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Chord Overstreet",
+   "song": "Hold On",
+   "genre": "pop, Folk/Acoustic"
+ },
+ {
+   "artist": "Jax Jones",
+   "song": "Breathe",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Imagine Dragons",
+   "song": "Believer",
+   "genre": "rock"
+ },
+ {
+   "artist": "Natti Natasha",
+   "song": "Criminal",
+   "genre": "pop, latin"
+ },
+ {
+   "artist": "Kendrick Lamar",
+   "song": "HUMBLE.",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Selena Gomez",
+   "song": "Fetish (feat. Gucci Mane)",
+   "genre": "pop"
+ },
+ {
+   "artist": "Charlie Puth",
+   "song": "Attention",
+   "genre": "pop"
+ },
+ {
+   "artist": "Big Shaq",
+   "song": "Man's Not Hot",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Anne-Marie",
+   "song": "Ciao Adios",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Rag'n'Bone Man",
+   "song": "Human",
+   "genre": "R&B"
+ },
+ {
+   "artist": "blackbear",
+   "song": "do re mi",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Lil Pump",
+   "song": "Gucci Gang",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Taylor Swift",
+   "song": "Look What You Made Me Do",
+   "genre": "pop"
+ },
+ {
+   "artist": "Enrique Iglesias",
+   "song": "SUBEME LA RADIO (feat. Descemer Bueno & Zion & Lennox)",
+   "genre": "pop, latin"
+ },
+ {
+   "artist": "Kodak Black",
+   "song": "Tunnel Vision",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Kendrick Lamar",
+   "song": "DNA.",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "A Boogie Wit da Hoodie",
+   "song": "Drowning (feat. Kodak Black)",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "XXXTENTACION",
+   "song": "Jocelyn Flores",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Migos",
+   "song": "Bad and Boujee (feat. Lil Uzi Vert)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Yo Gotti",
+   "song": "Rake It Up (feat. Nicki Minaj)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Martin Garrix",
+   "song": "Scared to Be Lonely",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Jonas Blue",
+   "song": "Mama",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Martin Jensen",
+   "song": "Solo Dance",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Taylor Swift",
+   "song": "...Ready For It?",
+   "genre": "pop"
+ },
+ {
+   "artist": "David Guetta",
+   "song": "2U (feat. Justin Bieber)",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Migos",
+   "song": "Slippery (feat. Gucci Mane)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Shawn Mendes",
+   "song": "There's Nothing Holdin' Me Back",
+   "genre": "pop"
+ },
+ {
+   "artist": "G-Eazy",
+   "song": "Good Life (with G-Eazy & Kehlani)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "The Vamps",
+   "song": "All Night",
+   "genre": "pop"
+ },
+ {
+   "artist": "Dua Lipa",
+   "song": "New Rules",
+   "genre": "pop"
+ },
+ {
+   "artist": "Cardi B",
+   "song": "Bodak Yellow",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Rag'n'Bone Man",
+   "song": "Skin",
+   "genre": "R&B"
+ },
+ {
+   "artist": "Zara Larsson",
+   "song": "I Would Like",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "DJ Khaled",
+   "song": "Wild Thoughts (feat. Rihanna & Bryson Tiller)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Post Malone",
+   "song": "Congratulations",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Avicii",
+   "song": "Without You (feat. Sandro Cavazza)",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Clean Bandit",
+   "song": "Symphony (feat. Zara Larsson)",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Katy Perry",
+   "song": "Chained To The Rhythm",
+   "genre": "pop"
+ },
+ {
+   "artist": "Zay Hilfigerrr",
+   "song": "Juju on That Beat (TZ Anthem)",
+   "genre": "set()"
+ },
+ {
+   "artist": "Calvin Harris",
+   "song": "Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Migos",
+   "song": "T-Shirt",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "OneRepublic",
+   "song": "Rich Love (with Seeb)",
+   "genre": "pop"
+ },
+ {
+   "artist": "Maggie Lindemann",
+   "song": "Pretty Girl - Cheat Codes X CADE Remix",
+   "genre": "rock, pop"
+ },
+ {
+   "artist": "Macklemore",
+   "song": "Glorious (feat. Skylar Grey)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Hayden James",
+   "song": "NUMB",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Liam Payne",
+   "song": "Strip That Down",
+   "genre": "pop"
+ },
+ {
+   "artist": "Drake",
+   "song": "Passionfruit",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Justin Bieber",
+   "song": "Friends (with BloodPop??)",
+   "genre": "pop"
+ },
+ {
+   "artist": "ZAYN",
+   "song": "I Don?�?t Wanna Live Forever (Fifty Shades Darker) - From \"Fifty Shades Darker (Original Motion Picture Soundtrack)\"",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Alessia Cara",
+   "song": "Scars To Your Beautiful",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "2 Chainz",
+   "song": "It's A Vibe",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Starley",
+   "song": "Call on Me - Ryan Riback Remix",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "AJR",
+   "song": "Weak",
+   "genre": "rock"
+ },
+ {
+   "artist": "Lana Del Rey",
+   "song": "Lust for Life (with The Weeknd)",
+   "genre": "pop"
+ },
+ {
+   "artist": "CNCO",
+   "song": "Reggaet??n Lento (Remix)",
+   "genre": "pop, latin"
+ },
+ {
+   "artist": "The Vamps",
+   "song": "Middle Of The Night",
+   "genre": "pop"
+ },
+ {
+   "artist": "The Weeknd",
+   "song": "I Feel It Coming",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "The Chainsmokers",
+   "song": "Paris",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Big Sean",
+   "song": "Bounce Back",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Shawn Mendes",
+   "song": "Mercy",
+   "genre": "pop"
+ },
+ {
+   "artist": "Avicii",
+   "song": "Lonely Together (feat. Rita Ora)",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Cheat Codes",
+   "song": "No Promises (feat. Demi Lovato)",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Bruno Mars",
+   "song": "24K Magic",
+   "genre": "pop"
+ },
+ {
+   "artist": "Lorde",
+   "song": "Homemade Dynamite - REMIX",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Kygo",
+   "song": "It Ain't Me (with Selena Gomez)",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Drake",
+   "song": "God's Plan",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Post Malone",
+   "song": "rockstar (feat. 21 Savage)",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Offset",
+   "song": "Ric Flair Drip (with Metro Boomin)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "G-Eazy",
+   "song": "Him & I (with Halsey)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Dynoro",
+   "song": "In My Mind",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Juice WRLD",
+   "song": "Lucid Dreams",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Zedd",
+   "song": "The Middle",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Marshmello",
+   "song": "FRIENDS",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Cardi B",
+   "song": "I Like It",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "XXXTENTACION",
+   "song": "Moonlight",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Ariana Grande",
+   "song": "no tears left to cry",
+   "genre": "pop"
+ },
+ {
+   "artist": "Sheck Wes",
+   "song": "Mo Bamba",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Calvin Harris",
+   "song": "One Kiss (with Dua Lipa)",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Tyga",
+   "song": "Taste (feat. Offset)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Travis Scott",
+   "song": "SICKO MODE",
+   "genre": "hip hop, Dance/Electronic"
+ },
+ {
+   "artist": "Imagine Dragons",
+   "song": "Natural",
+   "genre": "rock"
+ },
+ {
+   "artist": "DJ Snake",
+   "song": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Marshmello",
+   "song": "Spotlight",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "The Weeknd",
+   "song": "Pray For Me (with Kendrick Lamar)",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Billie Eilish",
+   "song": "lovely (with Khalid)",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Migos",
+   "song": "Walk It Talk It",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Clean Bandit",
+   "song": "Solo (feat. Demi Lovato)",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Drake",
+   "song": "Nonstop",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "6ix9ine",
+   "song": "FEFE",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "The Weeknd",
+   "song": "Call Out My Name",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Nio Garcia",
+   "song": "Te Bot?? - Remix",
+   "genre": "latin"
+ },
+ {
+   "artist": "Migos",
+   "song": "MotorSport",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Nicky Jam",
+   "song": "X",
+   "genre": "latin"
+ },
+ {
+   "artist": "XXXTENTACION",
+   "song": "SAD!",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Becky G",
+   "song": "Sin Pijama",
+   "genre": "pop, latin"
+ },
+ {
+   "artist": "Machine Gun Kelly",
+   "song": "Home (with Machine Gun Kelly, X Ambassadors & Bebe Rexha)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "6ix9ine",
+   "song": "GUMMO",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Jax Jones",
+   "song": "Breathe",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "The Chainsmokers",
+   "song": "Sick Boy",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Jay Rock",
+   "song": "King's Dead (with Kendrick Lamar, Future & James Blake)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Rich The Kid",
+   "song": "Plug Walk",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Kendrick Lamar",
+   "song": "All The Stars (with SZA)",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Logic",
+   "song": "Everyday",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Jason Derulo",
+   "song": "Tip Toe (feat. French Montana)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Ariana Grande",
+   "song": "God is a woman",
+   "genre": "pop"
+ },
+ {
+   "artist": "Rae Sremmurd",
+   "song": "Powerglide (feat. Juicy J) - From SR3MM",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "EO",
+   "song": "German",
+   "genre": "set()"
+ },
+ {
+   "artist": "Dennis Lloyd",
+   "song": "Nevermind",
+   "genre": "pop"
+ },
+ {
+   "artist": "girl in red",
+   "song": "we fell in love in october",
+   "genre": "pop, rock, Dance/Electronic"
+ },
+ {
+   "artist": "Selena Gomez",
+   "song": "Wolves",
+   "genre": "pop"
+ },
+ {
+   "artist": "Ti??sto",
+   "song": "Jackie Chan",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Tom Walker",
+   "song": "Leave a Light On",
+   "genre": "rock, pop"
+ },
+ {
+   "artist": "Sof??a Reyes",
+   "song": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
+   "genre": "pop, latin"
+ },
+ {
+   "artist": "Marshmello",
+   "song": "Silence",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "5 Seconds of Summer",
+   "song": "Youngblood",
+   "genre": "pop"
+ },
+ {
+   "artist": "Loud Luxury",
+   "song": "Body (feat. brando)",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Liam Payne",
+   "song": "For You (Fifty Shades Freed) (& Rita Ora)",
+   "genre": "pop"
+ },
+ {
+   "artist": "NF",
+   "song": "Let You Down",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "XXXTENTACION",
+   "song": "changes",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Maluma",
+   "song": "Coraz??n (feat. Nego do Borel)",
+   "genre": "latin"
+ },
+ {
+   "artist": "Cardi B",
+   "song": "Bodak Yellow",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Lil Baby",
+   "song": "Yes Indeed",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Jonas Blue",
+   "song": "Rise",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "David Guetta",
+   "song": "Flames",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Ozuna",
+   "song": "Vaina Loca",
+   "genre": "latin"
+ },
+ {
+   "artist": "Charlie Puth",
+   "song": "How Long",
+   "genre": "pop"
+ },
+ {
+   "artist": "Post Malone",
+   "song": "Better Now",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "BlocBoy JB",
+   "song": "Look Alive (feat. Drake)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Eminem",
+   "song": "River (feat. Ed Sheeran)",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Marshmello",
+   "song": "Happier",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Dean Lewis",
+   "song": "Be Alright",
+   "genre": "pop"
+ },
+ {
+   "artist": "Charlie Puth",
+   "song": "Done for Me (feat. Kehlani)",
+   "genre": "pop"
+ },
+ {
+   "artist": "Migos",
+   "song": "Stir Fry",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "YG",
+   "song": "BIG BANK (feat. 2 Chainz, Big Sean, Nicki Minaj)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Drake",
+   "song": "In My Feelings",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "B Young",
+   "song": "Jumanji",
+   "genre": "hip hop, Dance/Electronic"
+ },
+ {
+   "artist": "Charlie Puth",
+   "song": "The Way I Am",
+   "genre": "pop"
+ },
+ {
+   "artist": "Reik",
+   "song": "Me Niego (feat. Ozuna & Wisin)",
+   "genre": "pop, latin"
+ },
+ {
+   "artist": "benny blanco",
+   "song": "Eastside (with Halsey & Khalid)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Luis Fonsi",
+   "song": "??chame La Culpa",
+   "genre": "pop, latin"
+ },
+ {
+   "artist": "MK",
+   "song": "17",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Rita Ora",
+   "song": "Anywhere",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Banx & Ranx",
+   "song": "Answerphone (feat. Yxng Bane)",
+   "genre": "Dance/Electronic"
+ },
+ {
+   "artist": "Ella Mai",
+   "song": "Trip",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Daddy Yankee",
+   "song": "Dura",
+   "genre": "latin"
+ },
+ {
+   "artist": "DJ Khaled",
+   "song": "No Brainer",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Anne-Marie",
+   "song": "2002",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Bruno Mars",
+   "song": "Finesse - Remix; feat. Cardi B",
+   "genre": "pop"
+ },
+ {
+   "artist": "FINNEAS",
+   "song": "Let's Fall in Love for the Night",
+   "genre": "rock, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Hugh Jackman",
+   "song": "The Greatest Show",
+   "genre": "easy listening"
+ },
+ {
+   "artist": "Halsey",
+   "song": "Bad At Love",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Drake",
+   "song": "I'm Upset",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Camila Cabello",
+   "song": "Never Be the Same",
+   "genre": "pop"
+ },
+ {
+   "artist": "M.O",
+   "song": "Bad Vibe",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Dua Lipa",
+   "song": "IDGAF",
+   "genre": "pop"
+ },
+ {
+   "artist": "Cashmere Cat",
+   "song": "Miss You (with Major Lazer & Tory Lanez)",
+   "genre": "pop, rock"
+ },
+ {
+   "artist": "Bazzi",
+   "song": "Mine",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Lil Dicky",
+   "song": "Freaky Friday (feat. Chris Brown)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Lauv",
+   "song": "I Like Me Better",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "The Chainsmokers",
+   "song": "This Feeling",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Maroon 5",
+   "song": "Girls Like You (feat. Cardi B) - Cardi B Version",
+   "genre": "pop"
+ },
+ {
+   "artist": "Khalid",
+   "song": "Love Lies (with Normani)",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Drake",
+   "song": "Nice For What",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Kendrick Lamar",
+   "song": "LOVE. FEAT. ZACARI.",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Post Malone",
+   "song": "Psycho (feat. Ty Dolla $ign)",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Lil Nas X",
+   "song": "Old Town Road - Remix",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Billie Eilish",
+   "song": "bad guy",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Shawn Mendes",
+   "song": "Se??orita",
+   "genre": "pop"
+ },
+ {
+   "artist": "Ariana Grande",
+   "song": "7 rings",
+   "genre": "pop"
+ },
+ {
+   "artist": "Post Malone",
+   "song": "Sunflower - Spider-Man: Into the Spider-Verse",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Gesaffelstein",
+   "song": "Lost in the Fire (feat. The Weeknd)",
+   "genre": "Dance/Electronic"
+ },
+ {
+   "artist": "Halsey",
+   "song": "Without Me",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Regard",
+   "song": "Ride It",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Lady Gaga",
+   "song": "Shallow",
+   "genre": "pop"
+ },
+ {
+   "artist": "Mark Ronson",
+   "song": "Nothing Breaks Like a Heart (feat. Miley Cyrus)",
+   "genre": "pop"
+ },
+ {
+   "artist": "Lewis Capaldi",
+   "song": "Someone You Loved",
+   "genre": "pop"
+ },
+ {
+   "artist": "Jax Jones",
+   "song": "All Day And Night",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Mustard",
+   "song": "Pure Water (with Migos)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "NLE Choppa",
+   "song": "Shotta Flow (feat. Blueface) [Remix]",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Kodak Black",
+   "song": "ZEZE (feat. Travis Scott & Offset)",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Daddy Yankee",
+   "song": "Con Calma",
+   "genre": "latin"
+ },
+ {
+   "artist": "Alec Benjamin",
+   "song": "Let Me Down Slowly",
+   "genre": "rock, pop, Dance/Electronic"
+ },
+ {
+   "artist": "BLACKPINK",
+   "song": "Kill This Love",
+   "genre": "pop"
+ },
+ {
+   "artist": "Offset",
+   "song": "Clout (feat. Cardi B)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "MEDUZA",
+   "song": "Piece Of Your Heart",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Ed Sheeran",
+   "song": "Antisocial (with Travis Scott)",
+   "genre": "pop"
+ },
+ {
+   "artist": "Travis Scott",
+   "song": "SICKO MODE",
+   "genre": "hip hop, Dance/Electronic"
+ },
+ {
+   "artist": "Mabel",
+   "song": "Mad Love",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Lana Del Rey",
+   "song": "Doin' Time",
+   "genre": "pop"
+ },
+ {
+   "artist": "DJ Snake",
+   "song": "Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "A Boogie Wit da Hoodie",
+   "song": "Look Back at It",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Saweetie",
+   "song": "My Type",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Lil Tecca",
+   "song": "Ransom",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Russ Millions",
+   "song": "Keisha & Becky - Remix",
+   "genre": "pop"
+ },
+ {
+   "artist": "Billie Eilish",
+   "song": "lovely (with Khalid)",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Mabel",
+   "song": "Don't Call Me Up",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Lil Nas X",
+   "song": "Old Town Road",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Meek Mill",
+   "song": "Going Bad (feat. Drake)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Post Malone",
+   "song": "Wow.",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Doja Cat",
+   "song": "Juicy",
+   "genre": "pop"
+ },
+ {
+   "artist": "A Boogie Wit da Hoodie",
+   "song": "Swervin (feat. 6ix9ine)",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "iann dior",
+   "song": "emotions",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Paulo Londra",
+   "song": "Adan y Eva",
+   "genre": "hip hop, latin, Dance/Electronic"
+ },
+ {
+   "artist": "Drake",
+   "song": "Money In The Grave (Drake ft. Rick Ross)",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Lil Nas X",
+   "song": "Panini",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Bad Bunny",
+   "song": "MIA (feat. Drake)",
+   "genre": "latin"
+ },
+ {
+   "artist": "Polo G",
+   "song": "Pop Out (feat. Lil Tjay)",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Juice WRLD",
+   "song": "Robbery",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "21 Savage",
+   "song": "a lot",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Young Thug",
+   "song": "The London (feat. J. Cole & Travis Scott)",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Anuel AA",
+   "song": "China",
+   "genre": "latin"
+ },
+ {
+   "artist": "Camila Cabello",
+   "song": "Liar",
+   "genre": "pop"
+ },
+ {
+   "artist": "Flipp Dinero",
+   "song": "Leave Me Alone",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Cardi B",
+   "song": "Money",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Ariana Grande",
+   "song": "break up with your girlfriend, i'm bored",
+   "genre": "pop"
+ },
+ {
+   "artist": "Dave",
+   "song": "Location (feat. Burna Boy)",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Ava Max",
+   "song": "Sweet but Psycho",
+   "genre": "pop"
+ },
+ {
+   "artist": "Dua Lipa",
+   "song": "Don't Start Now",
+   "genre": "pop"
+ },
+ {
+   "artist": "Young T & Bugsey",
+   "song": "Strike a Pose (feat. Aitch)",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Calvin Harris",
+   "song": "Giant (with Rag'n'Bone Man)",
+   "genre": "hip hop, pop, Dance/Electronic"
+ },
+ {
+   "artist": "Ed Sheeran",
+   "song": "Take Me Back to London (feat. Stormzy)",
+   "genre": "pop"
+ },
+ {
+   "artist": "Cardi B",
+   "song": "Please Me",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Stormzy",
+   "song": "Vossi Bop",
+   "genre": "hip hop, Dance/Electronic"
+ },
+ {
+   "artist": "Tones And I",
+   "song": "Dance Monkey",
+   "genre": "pop"
+ },
+ {
+   "artist": "Ariana Grande",
+   "song": "boyfriend (with Social House)",
+   "genre": "pop"
+ },
+ {
+   "artist": "Bad Bunny",
+   "song": "Callaita",
+   "genre": "latin"
+ },
+ {
+   "artist": "Ava Max",
+   "song": "So Am I",
+   "genre": "pop"
+ },
+ {
+   "artist": "Pedro Cap??",
+   "song": "Calma - Remix",
+   "genre": "pop, latin"
+ },
+ {
+   "artist": "J. Cole",
+   "song": "MIDDLE CHILD",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Lunay",
+   "song": "Soltera - Remix",
+   "genre": "pop, latin"
+ },
+ {
+   "artist": "Khalid",
+   "song": "Better",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Blueface",
+   "song": "Thotiana",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "DaBaby",
+   "song": "Suge",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "AJ Tracey",
+   "song": "Ladbroke Grove",
+   "genre": "hip hop, Dance/Electronic"
+ },
+ {
+   "artist": "Billie Eilish",
+   "song": "bury a friend",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "BTS",
+   "song": "Boy With Luv (feat. Halsey)",
+   "genre": "pop"
+ },
+ {
+   "artist": "Wiley",
+   "song": "Boasty (feat. Idris Elba)",
+   "genre": "hip hop, Dance/Electronic"
+ },
+ {
+   "artist": "Jonas Brothers",
+   "song": "Only Human",
+   "genre": "pop"
+ },
+ {
+   "artist": "5 Seconds of Summer",
+   "song": "Easier",
+   "genre": "pop"
+ },
+ {
+   "artist": "Avicii",
+   "song": "SOS (feat. Aloe Blacc)",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Tyler, The Creator",
+   "song": "EARFQUAKE",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Ashley O",
+   "song": "On A Roll",
+   "genre": "set()"
+ },
+ {
+   "artist": "Dominic Fike",
+   "song": "3 Nights",
+   "genre": "rock, pop"
+ },
+ {
+   "artist": "Sigala",
+   "song": "Wish You Well",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Megan Thee Stallion",
+   "song": "Hot Girl Summer (feat. Nicki Minaj & Ty Dolla $ign)",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Anuel AA",
+   "song": "Secreto",
+   "genre": "latin"
+ },
+ {
+   "artist": "Sam Feldt",
+   "song": "Post Malone (feat. RANI)",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Kehlani",
+   "song": "Nights Like This (feat. Ty Dolla $ign)",
+   "genre": "hip hop, pop, R&B"
+ },
+ {
+   "artist": "Sech",
+   "song": "Otro Trago",
+   "genre": "latin"
+ },
+ {
+   "artist": "Post Malone",
+   "song": "Better Now",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Ed Sheeran",
+   "song": "Cross Me (feat. Chance the Rapper & PnB Rock)",
+   "genre": "pop"
+ },
+ {
+   "artist": "Lauv",
+   "song": "i'm so tired...",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "iann dior",
+   "song": "gone girl",
+   "genre": "hip hop, pop"
+ },
+ {
+   "artist": "Panic! At The Disco",
+   "song": "High Hopes",
+   "genre": "rock"
+ },
+ {
+   "artist": "Marshmello",
+   "song": "One Thing Right",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Sam Smith",
+   "song": "How Do You Sleep?",
+   "genre": "pop"
+ },
+ {
+   "artist": "NSG",
+   "song": "Options",
+   "genre": "World/Traditional, hip hop"
+ },
+ {
+   "artist": "Normani",
+   "song": "Motivation",
+   "genre": "pop, R&B"
+ },
+ {
+   "artist": "Joel Corry",
+   "song": "Sorry",
+   "genre": "pop, Dance/Electronic"
+ },
+ {
+   "artist": "Post Malone",
+   "song": "Goodbyes (Feat. Young Thug)",
+   "genre": "hip hop"
+ },
+ {
+   "artist": "Jonas Brothers",
+   "song": "Sucker",
+   "genre": "pop"
+ },
+ {
+   "artist": "Taylor Swift",
+   "song": "Cruel Summer",
+   "genre": "pop"
+ },
+ {
+   "artist": "Blanco Brown",
+   "song": "The Git Up",
+   "genre": "hip hop, country"
+ },
+ {
+   "artist": "Sam Smith",
+   "song": "Dancing With A Stranger (with Normani)",
+   "genre": "pop"
+ },
+ {
+   "artist": "Post Malone",
+   "song": "Circles",
+   "genre": "hip hop"
+ }
+]
