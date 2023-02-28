@@ -580,7 +580,7 @@ table img {
 
 .song_title_in_play_list {
     position: relative;
-    top: -50px;
+    top: -30px;
     left: 67px;
     color: black;
     font-size: 15px;
@@ -589,7 +589,7 @@ table img {
 .author_in_play_list {
     position: relative;
     left: 67px;
-    top: -63px;
+    top: -43px;
     color: black;
     font-size: 13px;
 }
