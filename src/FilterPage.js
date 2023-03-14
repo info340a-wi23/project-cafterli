@@ -122,6 +122,7 @@ export function FilterPage(props){
 function SongDataRow({song}){
     return(
         <tr>
+            <td>{song.pic}</td>
             <td>{song.song}</td>
             <td>{song.artist}</td>
             <td>{song.genre.charAt(0).toUpperCase() + song.genre.slice(1) }</td>
