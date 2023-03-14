@@ -1,8 +1,7 @@
-import "../index.css"
-import Nav from "../components/Nav"
-import Footer from "../components/Footer"
+import "./index.css"
+import Nav from "./components/Nav"
+import Footer from "./components/Footer"
 import { useEffect, useState } from "react"
-import "./Upload.css"
 
 import { Button, Modal, ConfigProvider } from 'antd';
 import { PlusOutlined } from '@ant-design/icons';

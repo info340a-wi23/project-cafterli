@@ -2,7 +2,7 @@
 import React from 'react';
 import MainPage  from './MainPage.js';
 import { FilterPage } from './FilterPage.js';
-import Upload  from './Upload';
+import Upload  from './Upload.js';
 import  Playlist  from './Playlist.js';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 
