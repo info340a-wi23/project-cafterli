@@ -103,13 +103,16 @@ header h2 {
 .flex-container{
     flex:5;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
+    justify-content: space-around;
 }
 
 .userinput{
     display: flex;
     flex-direction: column;
     flex: 1;
+    align-items: center;
+    justify-content: space-around;
     background-color: white;
     margin: .5rem;
     border-radius: 10px;
@@ -129,7 +132,7 @@ header h2 {
 
 .userinput h1{
     color: #00aaff;
-    font-size: 28px;
+    font-size: 14px;
     font-weight: bold;
 }
 
@@ -166,7 +169,7 @@ header h2 {
 }
 
 form label{
-    font-size: 26px;
+    font-size: 14px;
 }
 
 .switch{
@@ -225,16 +228,46 @@ input{
     width: 26px;
 }
 
+.artistgen{
+    display: flex;
+    flex-direction: column; 
+    justify-content: space-around;
+    align-items: center;
+}
+
 .artistgen input{
     height: 16px;
     width: 16px;
 }
+
+label.artist{
+    font-size: 14px;
+}
+
 .search{
     width: 100%;
 }
 
+table.searchTable th, tbody.searchTable td{
+    text-align: center;
+}
+
+.searchTable, .searchTable td{
+    font-size: 14px;
+}
+
 .range{
     width: auto;
+}
+
+.soundtracks{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.btn.filter{
+    font-size: 14px;
 }
 
 footer {
@@ -628,7 +661,7 @@ table img {
 }
 
 .dropbtn {
-    background-color: #04AA6D;
+    background-color: #00aaff;
     color: white;
     padding: 16px;
     font-size: 16px;
@@ -642,20 +675,20 @@ table img {
 
 .dropdown-content {
     display: none;
-    position: absolute;
+    position: relative;
     background-color: #f1f1f1;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-    z-index: 1;
+    z-index: -1;
+    flex-direction: column;
 }
 
 .dropdown-content a:hover {background-color: #ddd;}
 
-.dropdown:hover .dropdown-content {display: block;}
+.dropdown:hover .dropdown-content {display: flex;}
 
-.dropdown:hover .dropbtn {background-color: #3e8e41;}
+.dropdown:hover .dropbtn {background-color: #4a8eaf;}
 
-<<<<<<< HEAD
 .audio-container-table {
     position: relative;
     width: auto;
@@ -676,12 +709,26 @@ table img {
     height: 100%;
   }
   
+@media (min-width: 500px){
+    .userinput h1{
+        font-size: 18px;
+    }
+    
+    form label{
+        font-size: 18px;
+    }
+    
+    .btn.filter{
+        font-size: 18px;
+    }
 
-=======
->>>>>>> c76326e0d348475458aaa28358a817b262179da3
-@media (min-width: 598px){
-    
-    
+    .searchTable, .searchTable td{
+        font-size: 18px;
+    }
+
+    label.artist{
+        font-size: 18px;
+    }
 }
 
 @media (min-width: 640px){
@@ -690,6 +737,31 @@ table img {
     }
     .links{
         display: block;
+    }
+}
+
+@media (min-width: 800px){
+    .flex-container{
+        flex-direction: row;
+    }
+
+    .userinput h1{
+        font-size: 26px;
+    }
+    
+    form label{
+        font-size: 26px;
+    }
+
+    .btn.filter{
+        font-size: 26px;
+    }
+    .searchTable, .searchTable td{
+        font-size: 22px;
+    }
+
+    label.artist{
+        font-size: 22px;
     }
 }
 

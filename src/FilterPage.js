@@ -23,7 +23,7 @@ export function FilterPage(props){
 
     console.log(mainFilter);
 
-    const colNames = ['Artist', 'Song', 'Genre', 'Language', 'Soundtrack'].map((name) => {
+    const colNames = ['','Artist', 'Song', 'Genre', 'Language', 'Soundtrack','Preview'].map((name) => {
         return <th className='searchTable' key={name}>{name.toUpperCase()}</th>
     });
 
@@ -221,17 +221,24 @@ function Form(props){
 function Options(props){
 
     return(
-        <div className="userinput">
+        <div className="userinput sideoptions">
             <div className="artistgen">
                 <h1>Artist Type</h1>
-                <input type="checkbox" id="male" onChange={props.filterHandler}/>
-                <label htmlFor="gen">Male</label>
-                <input type="checkbox" id="female" onChange={props.filterHandler}/>
-                <label htmlFor="gen">Female</label>
-                <input type="checkbox" id="band" onChange={props.filterHandler}/>
-                <label htmlFor="gen">Band</label>
+                <div className="choice">
+                    <input type="checkbox" id="male" onChange={props.filterHandler}/>
+                    <label className="artist" htmlFor="gen">Male</label>
+                </div>
+                <div className="choice">
+                    <input type="checkbox" id="female" onChange={props.filterHandler}/>
+                    <label className="artist" htmlFor="gen">Female</label>
+                </div>
+                <div className="choice">
+                    <input type="checkbox" id="band" onChange={props.filterHandler}/>
+                    <label className="artist" htmlFor="gen">Band</label>
+                </div>
             </div>
             <div className="soundtracks">
+                <div></div>
                 <h1>Include Soundtracks</h1>
                 <label className="switch">
                     <input type="checkbox" onChange={props.filterHandlerSwitch}/>
