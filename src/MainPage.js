@@ -1,7 +1,6 @@
 import React from 'react';
 import './index.css';
 import { useState } from 'react';
-import { Link } from 'react-router-dom';
 import Footer from "./components/Footer"
 import Favicon from 'react-favicon';
 import Nav from "./components/Nav"
@@ -11,6 +10,7 @@ export default function MainPage(props) {
     const [genre2, setGenre2] = useState('');
     const [genre3, setGenre3] = useState('');
     const [playlist, setPlaylist] = useState([]);
+    const [loading, setLoading] = useState(false);
     
   
     function generatePlaylist(event) {
@@ -25,7 +25,24 @@ export default function MainPage(props) {
       const shuffled3 = shuffleArray(songs3);
     
       const playlist = shuffled1.slice(0, 4).concat(shuffled2.slice(0, 4)).concat(shuffled3.slice(0, 4));
-      setPlaylist(playlist);
+      
+      setLoading(true);
+      const promises = playlist.map((song) =>
+        fetch(`https://itunes.apple.com/search?term=${song.song} ${song.artist}&entity=song&limit=1`)
+          .then((response) => response.json())
+          .then((data) => {
+            const previewUrl = data.results[0].previewUrl;
+            const artistPicture = data.results[0].artworkUrl100;
+            const songPicture = data.results[0].artworkUrl100;
+            return { ...song, previewUrl, artistPicture, songPicture };
+          })
+          .catch((error) => console.log(error))
+      );
+  
+      Promise.all(promises).then((playlistWithPreviews) => {
+        setPlaylist(playlistWithPreviews);
+        setLoading(false);
+      });
     }
 
     function shuffleArray(array) {
@@ -39,23 +56,40 @@ export default function MainPage(props) {
 
     function artistCard(song) {
       return (
-            <div className="wrapper-artist">
-              <h5 className="artist-title">{song.artist}</h5>
-              <p className="artist-text">{song.genre}</p>
-            </div>
-      );
-    }
-
-    function songCard(song) {
-      
-      return (
-            <div className="wrapper">
-              <h5 className="card-title">{song.song}</h5>
-              <h6 className="card-subtitle mb-2 text-muted">{song.artist}</h6>
+        <div className="col-md-3 mb-3" key={song.artist}>
+          <div className="card h-100">
+            <img src={song.artistPicture} className="card-img-top" alt={`${song.artist} Image`} />
+            <div className="card-body">
+              <h5 className="card-title">{song.artist}</h5>
               <p className="card-text">{song.genre}</p>
             </div>
+          </div>
+        </div>
       );
     }
+    
+    function songCard(song) {
+      return (
+        <div className="col-md-3 mb-3" key={song.song}>
+        <div className="card h-100">
+        <img src={song.songPicture} className="card-img-top" alt={`${song.song} Image`} />
+        <div className="card-body">
+            <h5 className="card-title">{song.song}</h5>
+            <h6 className="card-subtitle">{song.artist}</h6>
+            <p className="card-text">{song.genre}</p>
+              {song.previewUrl && (
+                <div className="audio-container">
+                  <audio controls className="audio-player">
+                    <source src={song.previewUrl} type="audio/mpeg" />
+                  </audio>
+                </div>
+              )}
+            </div>
+          </div>
+        </div>
+      );
+    }
+    
               
   return (
     <div className="App">
@@ -93,9 +127,9 @@ export default function MainPage(props) {
                 <option value="hip hop">Hip Hop</option>
                 <option value="R&B">R&B</option>
                 <option value="latin">Latin</option>
-
               </select>
             </div>
+
             <div className="form-group">
               <select className="form-control" id="genre2" value={genre2} onChange={(event) => setGenre2(event.target.value)}>
                 <option value="">-- Please select a genre --</option>
@@ -109,8 +143,8 @@ export default function MainPage(props) {
                 <option value="R&B">R&B</option>
                 <option value="latin">Latin</option>
               </select>
-            </div>
-            <div className="form-group">
+              </div>
+              <div className="form-group">
               <select className="form-control" id="genre3" value={genre3} onChange={(event) => setGenre3(event.target.value)}>
                 <option value="">-- Please select a genre --</option>
                 <option value="rock">Rock</option>
@@ -123,23 +157,25 @@ export default function MainPage(props) {
                 <option value="R&B">R&B</option>
                 <option value="latin">Latin</option>
               </select>
-            </div>
+              </div>
             <button type="submit" className="btn btn-primary">
               Generate Playlist
             </button>
 
-          {playlist.length > 0 && (
-            <div>
-              <h2 style={{ lineHeight: '2em', fontWeight: 900, color: '#0088cc' }} className="homepage-h2">
-                Recommended Artists
-              </h2>
-              <div className="row">{playlist.map(artistCard)}</div>
-              <h2 style={{ lineHeight: '2em', fontWeight: 900, color: '#0088cc' }} className="homepage-h2">
-                Your Playlist
-              </h2>
-              <div className="row">{playlist.map(songCard)}</div>
-            </div>
-          )}
+            {loading && <p>Loading...</p>}
+            {playlist.length > 0 && (
+              <div>
+                <h2 style={{ lineHeight: '2em', fontWeight: 900, color: '#0088cc' }} className="homepage-h2">
+                  Recommended Artists
+                </h2>
+                <div className="row">{playlist.map(artistCard)}</div>
+                <h2 style={{ lineHeight: '2em', fontWeight: 900, color: '#0088cc' }} className="homepage-h2">
+                  Your Playlist
+                </h2>
+                <div className="row">{playlist.map(songCard)}</div>
+              </div>
+            )}
+            
           </form>
         </div>
       </main>
@@ -148,5 +184,4 @@ export default function MainPage(props) {
     </div>
   );
 }
-
 
