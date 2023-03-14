@@ -4,6 +4,7 @@ import { useState } from 'react';
 import songdata from './Data/searchpagedata.json';
 import Nav from './components/Nav.js';
 import Footer from './components/Footer.js';
+import noImage from './img/noimg.jpg';
 
 export function FilterPage(props){
     const languageData = [...new Set(songdata.map((song) => song.language))];
@@ -77,15 +78,15 @@ export function FilterPage(props){
                         return { ...song, previewUrl, pic};
                     }else{
                         const previewUrl = null;
-                        const pic = "img/noimg.jpg";
+                        const pic = noImage;
                         return { ...song, previewUrl, pic};
                     }
                 })
                 .catch((error) => console.log(error))
         );
 
-        Promise.all(promises).then((playlistWithPreviews) => {
-            setTrackList(playlistWithPreviews);
+        Promise.all(promises).then((trackListDetailed) => {
+            setTrackList(trackListDetailed);
             setLoading(false);
           });
     }
@@ -116,6 +117,16 @@ function SongDataRow({song}){
             <td>{song.genre.charAt(0).toUpperCase() + song.genre.slice(1) }</td>
             <td>{song.language.charAt(0).toUpperCase() + song.language.slice(1)}</td>
             <td>{song.soundtrack ? "Yes" : "No"}</td>
+            <td> 
+                {song.previewUrl != null ?
+                <div className="audio-container">
+                    <audio controls className="audio-player">
+                    <source src={song.previewUrl} type="audio/mpeg" />
+                    </audio>
+                </div> :
+                <p>No Preview</p>
+                }   
+            </td>
         </tr>
     )
 }

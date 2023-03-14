@@ -672,6 +672,12 @@ table img {
 
 .dropdown:hover .dropbtn {background-color: #3e8e41;}
 
+.audio-container-table {
+    position: relative;
+    width: auto;
+    height: 3rem;
+  }
+
 .audio-container {
     position: relative;
     width: 100%;
