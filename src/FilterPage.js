@@ -10,16 +10,18 @@ export function FilterPage(props){
     const languageData = [...new Set(songdata.map((song) => song.language))];
     const genreData = [...new Set(songdata.map((song) => song.genre))];
 
-    const [mainFilter, setMainFilter] = useState({genre: [], language:[], artistGen:[]});
+    const [languages, setLanguages] = useState(languageData);
+    const [genres, setGenres] = useState(genreData);
 
-    const [loading, setLoading] = useState(false);
-    const [trackList, setTrackList] = useState(songdata);
+    const [mainFilter, setMainFilter] = useState({genre: [], language:[], artistGen:[]});
 
     function applyMainFilter(genre, language, artistGen, soundtrack){
         setMainFilter({genre: genre, language: language, artistGen: artistGen, soundtrack: soundtrack});
     }
 
-    const colNames = ['','Artist', 'Song', 'Genre', 'Language', 'Soundtrack','Preview'].map((name) => {
+    console.log(mainFilter);
+
+    const colNames = ['Artist', 'Song', 'Genre', 'Language', 'Soundtrack'].map((name) => {
         return <th className='searchTable' key={name}>{name.toUpperCase()}</th>
     });
 
@@ -95,12 +97,22 @@ export function FilterPage(props){
         return <SongDataRow key={song.song} song ={song}/>
     })
 
-    const formData = [{name: "genre", data: genreData}, {name: "language", data: languageData}]
+    const formData = [{name: "genre", data: genres}, {name: "language", data: languages}]
     return(
            <><Nav/>
             <main className="flex-container-body">
-                <Form data={formData} applyMainFilter={applyMainFilter}/>
-                <Table colNames={colNames} songs={songs}/>
+                <Form data={formData} applyMainFilter={applyMainFilter}
+                />
+                <table className="searchTable">
+                    <thead>
+                    <tr>
+                        {colNames}
+                    </tr>
+                    </thead>
+                    <tbody className='searchTable'>
+                        {songs}
+                    </tbody>
+                </table>
             </main>
             <Footer/></>
     )
@@ -109,9 +121,6 @@ export function FilterPage(props){
 function SongDataRow({song}){
     return(
         <tr>
-            <td>
-                <img src={song.pic} alt={song.song}></img>
-            </td>
             <td>{song.song}</td>
             <td>{song.artist}</td>
             <td>{song.genre.charAt(0).toUpperCase() + song.genre.slice(1) }</td>
@@ -226,20 +235,5 @@ function Options(props){
                 </label>
             </div>
         </div>
-    )
-}
-
-function Table(props){
-    return(
-        <table className="searchTable">
-            <thead>
-            <tr>
-                {props.colNames}
-            </tr>
-            </thead>
-            <tbody className='searchTable'>
-                {props.songs}
-            </tbody>
-        </table>
     )
 }

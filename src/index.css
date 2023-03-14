@@ -334,17 +334,9 @@ main p {
 .card {
     margin: 0 auto;
     background: rgba(0, 0, 0, 0);
-    height: 600px;
-    width: 300px;
-    padding: 20px;
-    border: none;
-    box-shadow: none;
-    flex: 1 0 300px;
-    display: flex;
-    flex-wrap: wrap;
-    align-items: stretch;
-}
+    
 
+}
 .row {
     column-count: 4;
     margin: 0 auto;
@@ -355,14 +347,13 @@ main p {
     width: 100%;
 }
 .card-title {
+    margin-top: 1.25rem;
     margin-bottom: 0.75rem;
-    margin-top: 0;
     font-size: 1.5rem;
     font-weight: 700;
     -webkit-text-stroke-color: #ffffffbc;
     -webkit-text-stroke-width: 1px;
     color: #116691ce;
-    flex-grow: 1;
 }
 
 .card-subtitle {
@@ -373,7 +364,6 @@ main p {
     -webkit-text-stroke-color: #efba0cbc;
     -webkit-text-stroke-width: 0.5px;
     color: #ffffffce;
-    flex-grow: 1;
 }
 
 .card-text {
@@ -382,7 +372,6 @@ main p {
     margin-bottom: 1rem;
     font-size: 1.25rem;
     color: #ffffff94;
-    flex-grow: 1;
 }
 .wrapper-artist {
     position: relative;
@@ -651,27 +640,22 @@ table img {
     display: inline-block;
 }
 
-
 .dropdown-content {
     display: none;
     position: absolute;
-    min-height: auto;
-    background-color: #f9f9f9;
+    background-color: #f1f1f1;
+    min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-    z-index: 1000;
+    z-index: 1;
 }
-    
 
 .dropdown-content a:hover {background-color: #ddd;}
 
-.dropdown:hover .dropdown-content {
-    display: block;
-    z-index: 1000;
-
-}
+.dropdown:hover .dropdown-content {display: block;}
 
 .dropdown:hover .dropbtn {background-color: #3e8e41;}
 
+<<<<<<< HEAD
 .audio-container-table {
     position: relative;
     width: auto;
@@ -693,6 +677,8 @@ table img {
   }
   
 
+=======
+>>>>>>> c76326e0d348475458aaa28358a817b262179da3
 @media (min-width: 598px){
     
     
