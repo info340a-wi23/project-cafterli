@@ -1,0 +1,23 @@
+.ant-input-lg{
+    height: 37px;
+}
+
+:where(.css-dev-only-do-not-override-1me4733).ant-col-14{
+    max-width: none;
+}
+
+.ant-modal{
+    width: 600px !important;
+}
+
+.ant-modal-content{
+    padding-right: 50px !important;
+}
+
+.ant-col.ant-col-16.ant-col-offset-8.ant-form-item-control.css-dev-only-do-not-override-1me4733{
+    margin-left: 90px;
+}
+
+.ant-form-item button{
+    margin-right: 20px;
+}
