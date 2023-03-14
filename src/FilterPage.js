@@ -15,6 +15,8 @@ export function FilterPage(props){
 
     const [mainFilter, setMainFilter] = useState({genre: [], language:[], artistGen:[]});
 
+    const [trackList, setTrackList] = useState(songdata);
+
     function applyMainFilter(genre, language, artistGen, soundtrack){
         setMainFilter({genre: genre, language: language, artistGen: artistGen, soundtrack: soundtrack});
     }
@@ -89,7 +91,6 @@ export function FilterPage(props){
 
         Promise.all(promises).then((trackListDetailed) => {
             setTrackList(trackListDetailed);
-            setLoading(false);
           });
     }
 
