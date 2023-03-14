@@ -12,8 +12,8 @@ export default function Nav() {
                     <button className="dropbtn">Menu</button>
                     <div className="dropdown-content">
                         <Link to="/" className="nav-link">Home <span className="sr-only"></span></Link>
-                        <Link to="/playlist" className="nav-link">Play List <span className="sr-only"></span></Link>
-                        <Link to="/filter" className="nav-link">Filter</Link>
+                        <Link to="/playlist" className="nav-link">Playlist <span className="sr-only"></span></Link>
+                        <Link to="/filter" className="nav-link">Filter </Link>
                         <Link to="/upload" className="nav-link">Upload <span className="sr-only"></span></Link>
                     </div>
                 </div>
@@ -25,7 +25,7 @@ export default function Nav() {
                 <Link to="/playlist" className="nav-link">Playlist <span className="sr-only"></span></Link>
             </li>
             <li className="nav-item links active">
-                <Link to="/filter" className="nav-link">Filter</Link>
+                <Link to="/filter" className="nav-link">Filter </Link>
             </li>
             <li className="nav-item links active">
                 <Link to="/upload" className="nav-link">Upload <span className="sr-only"></span></Link>
