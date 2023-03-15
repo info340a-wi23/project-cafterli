@@ -6,100 +6,91 @@ import { Link } from 'react-router-dom';
 
 export default function Playlist(props) {
 
+  const [genre1, setGenre1] = useState('');
+  const [playlist, setPlaylist] = useState([]);
+  
+  console.log(genre1);
+  console.log(playlist);
 
-    function getRandomInt(min, max) {
-    min = Math.ceil(min);
-    max = Math.floor(max);
-    return Math.floor(Math.random() * (max - min + 1)) + min; 
-  }
- 
-  let rand1 = getRandomInt(1,20);
-  let rand2 = getRandomInt(1,20);
-  let rand3 = getRandomInt(1,20);
-  let rand4 = getRandomInt(1,20);
-  let rand5 = getRandomInt(1,20);
-  let rand6 = getRandomInt(1,20);
-
-// create a new map
-const myMap = new Map();
-
-// add some key-value pairs
-myMap.set('1', 'song1 author1');
-myMap.set('2', 'value2');
-myMap.set('3', 'value3');
-myMap.set('4', 'value4');
-myMap.set('5', 'value5');
-myMap.set('6', 'value6');
-myMap.set('7', 'value7');
-myMap.set('8', 'value8');
-myMap.set('9', 'value9');
-myMap.set('10', 'value10');
-myMap.set('11', 'song1 author1');
-myMap.set('12', 'value2');
-myMap.set('13', 'value3');
-myMap.set('14', 'value4');
-myMap.set('15', 'value5');
-myMap.set('16', 'value6');
-myMap.set('17', 'value7');
-myMap.set('18', 'value8');
-myMap.set('19', 'value9');
-myMap.set('20', 'value10');
-
-
-
-
-// get the value associated with a key
-for (const key of myMap.keys()) {
-    if (key === rand1) {
-        console.log(myMap.get(key));
+  
+  /*const generatePlaylist = () => {
+    for (let i = 0; i < total.length; i++) {
+      if (total[i].genre == genre1) {
+        playlist.push =total[i];
+      }
+      
     }
-    if (key === rand2) {
-        console.log(myMap.get(key));
-    }
-    if (key === rand3) {
-        console.log(myMap.get(key));
-    }
-    if (key === rand4) {
-        console.log(myMap.get(key));
-    }
-    if (key === rand5) {
-        console.log(myMap.get(key));
-    }
-    if (key === rand6) {
-        console.log(myMap.get(key));
-    }
-  }
+     
+  } */
 
-  const songs = [
-    {
-      genre: '200',
-      songs: ['Song 1', 'Song 2', 'Song 3']
-    },
-    {
-      genre: 'disc',
-      songs: ['Song 4', 'Song 5', 'Song 6']
-    },
-    {
-      genre: 'app',
-      songs: ['Song 7', 'Song 8', 'Song 9']
+  function randomPlaylist(playlist) {
+    for (let i = 0; i < 6; i++) {
+      const randomNum = Math.floor(Math.random() * 26);
+      test.push = playlist[randomNum];
     }
+    console.log(test);
+  } 
+  
+  /*const randomPlaylist = () => {
+    for (let i = 0; i < 6; i++) {
+      const randomNum = Math.floor(Math.random() * 26);
+      playlist.push = total[i];
+    }
+    setPlaylist(playlist);
+    
+  } */
+
+  
+  /*function song_info(song) {
+    return (
+      <div>
+        <p className="author_in_play_list">
+          song.author;
+        </p>
+        <a href="https://www.youtube.com/watch?v=61ymOWwOwuk">
+          <button type="submit" className="btn_play_list"><img src="./img/play_icon.png" height="30px" /></button>
+        </a>
+      </div>    
+    )  
+  }  */
+  
+
+  let total = [{author:"RAYE & 070 Shake", track: "Escapism", image:"img/escapism.jpg", href: "https://www.youtube.com/watch?v=Dll6VJ2C7wo", genre: "Pop"}, 
+    {author: "PinkPantheress & Ice Spice" , track:"Boy's a liar Pt.2", image:"./img/boyliar.jpg", href:"https://www.youtube.com/watch?v=Dll6VJ2C7wo", genre: "Pop"}, 
+    {author:"Miley Cyrus", track:"Flowers", image:"./img/Flowers.jpg", href:"https://www.youtube.com/watch?v=G7KNmW9a75Y", genre:"Pop" },
+    {author:"Lady Gaga", track:"Bloody Mary", image:"./img/B-mary.jpg", href:"https://www.youtube.com/watch?v=VFwmKL5OL-Q", genre: "Pop"},
+    {author:"Taylor Swift", track:"Anti-Hero", image:"./img/anti-h.jpg", href:"", genre:"Pop" },
+    {author:"Sam Smith & Kim Petras", track:"Unholy", image:"./img/unholy.jpg", href:"https://www.youtube.com/watch?v=Uq9gPaIzbe8", genre: "Pop"},
+    
+    {author:"Fall Out Boy", track: "Love From the other side", image:"./img/love-from.jpg", href: "https://www.youtube.com/watch?v=oBrkbWSB3Ls", genre: "Rock"}, 
+    {author: "Pierce The Veil" , track:"Emergency Contact", image:"./img/emergency-c.jpg", href:"https://www.youtube.com/watch?v=Vr2PWqeRWlQ", genre: "Rock"}, 
+    {author:"Meet Me", track:"Kool", image:"./img/kool.jpg", href:"https://www.youtube.com/watch?v=UTpYD0yf81o", genre:"Rock" },
+    {author:"Linkin Park", track:"Lost", image:"./img/lost.jpg", href:"https://www.youtube.com/watch?v=7NK_JOkuSVY", genre: "Rock"},
+    {author:"Barns Courtney", track:"Supernatural", image:"./img/super-n.jpg", href:"https://www.youtube.com/watch?v=I3JEJAXJ-Z8", genre:"Rock" },
+    {author:"grandson", track:"Eulogy", image:"./img/eulogy.jpg", href:"https://www.youtube.com/watch?v=fWz6EjEYmYc", genre: "Rock"},
+
+    {author:"Superstar Pride", track: "Painting Pictures", image:"./img/painting-p.jpg", href: "https://www.youtube.com/watch?v=pDFHyA7KgDw", genre: "Rap"}, 
+    {author: "Metro Boomin" , track:"Creeping", image:"./img/Creeping.jpg", href:"https://www.youtube.com/watch?v=61ymOWwOwuk", genre: "Rap"}, 
+    {author:"Coi Leray", track:"Players", image:"./img/Players.jpg", href:"https://www.youtube.com/watch?v=tcXraTCoUZE", genre:"Rap" },
+    {author:"Nicki Minaj", track:"Red Ruby Da Sleeze", image:"./img/red-r.jpg", href:"https://www.youtube.com/watch?v=UQQx9NA65bU", genre: "Rap"},
+    {author:"Drake & 21 Savage", track:"Spin Bout U", image:"./img/spin-b.jpg", href:"https://www.youtube.com/watch?v=jALeORvCJG8", genre:"Rap" },
+    {author:"Metro Boomin, Travis Scott & Young Thug", track:"Trance", image:"./img/Creeping.jpg", href:"https://www.youtube.com/watch?v=TxUdlC0057s", genre: "Rap"},
+
+    {author:"London Brew", track: "Raven Flies Low", image:"./img/raven-f.jpg", href: "https://www.youtube.com/watch?v=eWj5fK1n0CE&list=OLAK5uy_ndbYPws_RLHtxDMtXvCFQQ7QLJCCQ5po0", genre: "Jazz"}, 
+    {author: "Brandee Younger" , track:"If it's magic", image:"./img/if-i.jpg", href:"https://www.youtube.com/watch?v=fX36mGEqfw4", genre: "Jazz"}, 
+    {author:"Count Basie", track:"St. Thomas", image:"./img/St-t.jpg", href:"https://www.youtube.com/watch?v=2rUpStJ7lP4", genre:"Jazz" },
+    {author:"Arturo", track:"Un Poco Loco", image:"./img/un-p.jpg", href:"https://www.youtube.com/watch?v=yg8116aeD7E", genre: "Jazz"},
+    {author:"Reginald Chapman", track:"Hearing is Seeing", image:"./img/hearing-i.png", href:"https://www.youtube.com/watch?v=9q6pqy99tRM&list=RD9q6pqy99tRM&start_radio=1", genre:"Jazz" },
+    
+
+    {author:"Swin-S", track:"Just Beautiful you are", image:"./img/just-b.jpg", href:"https://www.youtube.com/watch?v=hbr-_BsDZ8E", genre:"Other"},
+    {author:"Dedublüman & Mavzer Tabancas", track: "Belki", image:"./img/belki.jpg", href:"https://www.youtube.com/watch?v=7-_qRtGbCTE", genre:"Other" }
     
   ];
 
-
-  function getSongsByButton(songs, genreName) {
-    for (const key of songs.keys()) {
-      if (key === genreName) {
-        return (
-          
-             
-          <p class="song_title_in_play_list">{songs.get(key)}</p>
-            
-          );
-    }
-  }
-  }
   
+  
+
   
   
 
@@ -112,50 +103,49 @@ for (const key of myMap.keys()) {
   return (
     <div className="tophalf">  
       <nav className="navbar navbar-expand-lg" style={{ backgroundColor: 'rgba(255, 255, 255, 0.7)' }}>
-        <ul className="navbar-nav mr-auto">
+        <ul>
           <li className="nav-item navbar-brand">
             <img src="./img/music-track.png" height="50px" alt="Music Track" />
           </li>
           <li className="nav-item active">
-            <Link to="/" className="nav-link">Home <span className="sr-only"></span></Link>
+            <Link to="/" >Home <span className="sr-only"></span></Link>
           </li>
           <li className="nav-item active">
-            <Link to="/playlist" className="nav-link">Play List <span className="sr-only"></span></Link>
+            <Link to="/playlist">Play List <span className="sr-only"></span></Link>
           </li>
           <li className="nav-item active">
-            <Link to="/filter" className="nav-link">Filter</Link>
+            <Link to="/filter" >Filter</Link>
           </li>
           <li className="nav-item active">
-            <Link to="/upload" className="nav-link">Upload <span className="sr-only"></span></Link>
+            <Link to="/upload" >Upload <span className="sr-only"></span></Link>
           </li>
         </ul>
       </nav>
 
       <div class="playlist_div">
-        <h1>Ranking</h1> 
+        <h1 className="homepage-1">Ranking</h1> 
         <h2>
           Pick your favorite songs
         </h2>
       </div>
       
-      <div class="play_list_title_relative">
+      <div className="play_list_title_relative">
         <div className="form-group">
-          <label for="btn" style= {{color:'#fff' }}>Music genres</label>
-          <select className="btn_title" id="exampleFormControlSelect1">
-            <option>Rock</option>
-            <option>Pop</option>   
-            <option>Country</option>
-            <option>Electronic</option>
-            <option>Classical</option>
-            <option>Blues</option>
-            <option>Other</option>
+          <label for="btn" style= {{color:'#fff' }} >Music genres</label>
+          <select className="btn_title"  value={genre1}
+          onChange={(event) => setGenre1(event.target.value)}>
+            <option value="Rap">Rap</option>
+            <option value="Pop">Pop</option>   
+            <option value="Rock">Rock</option>
+            <option value="Jazz">Jazz</option>
+            <option value="Other">Other</option>
           </select>
         </div>  
       </div>
       
-      <div class="play_list_city_pos">
+      <div className="play_list_city_pos">
         <div className="form-group">
-          <label for="exampleFormControlSelect1" style={{color:'#fff'}}>Cities</label>
+          <label  style={{color:'#fff'}}>Cities</label>
           <select class="btn_title">
             <option>Detroit</option>
             <option>Rome</option>
@@ -173,80 +163,45 @@ for (const key of myMap.keys()) {
       </div>  
     
     <p>
-      <div class="play_list_top_pos">
-        <button id="200" type="submit" class="btn_tda">Top 200</button>
-      </div>
-    </p>
-    
-    
-
-
-     <p>
-      <div class="play_list_dis_pos">
-        <button id="disc" onclick="myFunction()" type="submit" class="btn_tda">Discovery</button>
+      <div className="play_list_dis_pos">
+        <button id="disc"  type="submit" class="btn_tda" onClick={randomPlaylist}>Discovery</button>
       </div>
     </p>
 
     <p>
-      <div class="play_list_app_pos">
-        <button id="app" type="submit" class="btn_tda">App</button>
+      <div className="play_list_app_pos">
+        <button id="app" type="submit" class="btn_tda" onClick={randomPlaylist}>App</button>
       </div>  
     </p>
 
-    <div id="play_list_overall_div">
-     <div className="song_in_play_list">
-       <img src="img/Creeping.jpg" className="pic_in_play_list" alt="Cover_Pic" />
-       <p className="song_title_in_play_list">Creeping</p>
-       <p className="author_in_play_list">Metro Boomin</p>
-       <a href="https://www.youtube.com/watch?v=61ymOWwOwuk">
-         <button type="submit" className="btn_play_list"><img src="./img/play_icon.png" height="30px" /></button>
-       </a>  
-     </div>
+    <div>
+      {total.map((song) => (
+        <div className="song_in_play_list" key = {song.track}>
+          <img src={song.image} class="pic_in_play_list" alt="Cover_Pic"/>
+          <p className="song_title_in_play_list">{song.track}</p>
+          <p className="author_in_play_list"> {song.author}</p>
+          <a href={song.href}>
+            <button type="submit" className="btn_play_list"><img src="./img/play_icon.png" height="30px" alt="unavailible"/></button>
+          </a>
+          
+        </div>
+      
+      ))}
     </div>
 
-    <div class="song_in_play_list">
-      <img src="img/Best_Part.jpg" class="pic_in_play_list" alt="Cover_Pic" />
-      <p class="song_title_in_play_list">Best Part</p>
-      <p class="author_in_play_list">H.E.R</p>
-      <a href="https://www.youtube.com/watch?v=vBy7FaapGRo">
-        <button type="submit" class="btn_play_list"><img src="./img/play_icon.png" height="30px" /></button>
-      </a>
-    </div>
-
-    <div class="song_in_play_list">
-      <img src="img/Flowers.jpg" class="pic_in_play_list" alt="Cover_Pic" />
-      <p class="song_title_in_play_list">Flowers</p>
-      <p class="author_in_play_list">Miley Cyrus</p>
-      <a href="https://www.youtube.com/watch?v=G7KNmW9a75Y">
-        <button type="submit" class="btn_play_list"><img src="./img/play_icon.png" height="30px" /></button>
-      </a>
-    </div>
-
-    <div class="song_in_play_list">
-      <img src="img/Popstar.jpg" class="pic_in_play_list" alt="Cover_Pic" />
-      <p class="song_title_in_play_list">POPSTAR</p>
-      <p class="author_in_play_list">DJ Khaled</p>
-      <a href="https://www.youtube.com/watch?v=3CxtK7-XtE0">
-        <button type="submit" class="btn_play_list"><img src="./img/play_icon.png" height="30px" /></button>
-      </a>
-    </div>
-
-    <div class="song_in_play_list">
-      <img src="img/Players.jpg" class="pic_in_play_list" alt="Cover_Pic" />
-      <p class="song_title_in_play_list">Players</p>
-      <p class="author_in_play_list">Coi Leray</p>
-      <a href="https://www.youtube.com/watch?v=tcXraTCoUZE">
-        <button type="submit" class="btn_play_list"><img src="./img/play_icon.png" height="30px" /></button>
-      </a>
-    </div>
-
-    <div class="song_in_play_list">
-      <img src="img/kill_Bill.jpg" class="pic_in_play_list" alt="Cover_Pic" />
-      <p class="song_title_in_play_list">kill Bill</p>
-      <p class="author_in_play_list">SZA</p>
-      <a href="https://www.youtube.com/watch?v=MSRcC626prw">
-        <button type="submit" class="btn_play_list"><img src="./img/play_icon.png" height="30px" /></button>
-      </a>  
+    <div>
+      {playlist.map((song) => (
+        <div className="song_in_play_list" key = {song.track}>
+          <img src={song.image} class="pic_in_play_list" alt="copyright-violated"/>
+          <p className="song_title_in_play_list">{song.track}</p>
+          <p className="author_in_play_list"> {song.author}</p>
+          <a href={song.href}>
+            <button type="submit" className="btn_play_list"><img src="./img/play_icon.png" height="30px" alt="unavailible"/></button>
+          </a>
+          
+        </div>
+      
+      ))}
     </div>
 
 
@@ -261,13 +216,6 @@ for (const key of myMap.keys()) {
 
     </div>
     
-    
-    
-  
   )
-
-  
-
-
 
 }
